@@ -1,0 +1,253 @@
+:root {
+  --theme-color: #313660;
+  --theme-color2: #f20f10;
+  --title-color: #0f2239;
+  --body-color: #4d5765;
+  --smoke-color: #f3f7fb;
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --light-color: #72849b;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #ecf1f9;
+  --title-font: "Jost", sans-serif;
+  --body-font: "Roboto", sans-serif;
+  --icon-font: "Font Awesome 6 Pro";
+  --main-container: 1380px;
+  --container-gutters: 24px;
+  --section-space: 35px;
+  --section-space-mobile: 80px;
+  --section-title-space: 70px;
+  --ripple-ani-duration: 5s;
+}
+
+.header-logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 300px;
+}
+.breadcumb-wrapper {
+  background-color: var(--title-color);
+  padding: 50px 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+.main-menu ul.sub-menu li ul.sub-menu {
+  left: 100%;
+  right: auto;
+  top: 0;
+  margin: 0 0;
+  margin-left: 8px;
+}
+
+.main-menu ul.sub-menu li a:before {
+  content: "\f3bf";
+  position: absolute;
+  top: 8px;
+  left: 0;
+  font-family: var(--icon-font);
+  width: 11px;
+  height: 11px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 0.9em;
+  line-height: 1;
+  color: var(--theme-color);
+  font-weight: 700;
+  rotate: 90deg;
+}
+.main-menu a:hover {
+  color: var(--theme-color2);
+}
+
+.sub-menu {
+  list-style-type: none; /* Remove default bullets */
+}
+
+.course-description-sub-menu li::before {
+  content: "\f068"; /* Add "-" before each list item */
+  /* position: absolute; */
+  top: 8px;
+  left: 0;
+  font-family: var(--icon-font);
+  width: 11px;
+  height: 11px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 0.9em;
+  line-height: 1;
+  color: var(--theme-color);
+  font-weight: 700; /* Add some space between "-" and list item text */
+  margin-right: 8px;
+}
+
+.sub-menu li {
+  color: var(--title-color);
+  margin-bottom: 10px; /* Add space between each list item */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); /* Add a solid line after each list item */
+  padding-bottom: 5px; /* Add some padding at the bottom of each list item */
+}
+
+.sub-menu li:last-child {
+  border-bottom: none; /* Remove the border from the last list item */
+}
+
+.course-single-mid {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+.course-single-top {
+  position: relative;
+  /* margin-top: var(--blog-space-y, 40px); */
+  margin-bottom: var(--blog-space-y, 40px);
+  padding: var(--blog-space-y, 20px) var(--blog-space-x, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+}
+
+.course-description p {
+  font-size: 18px; /* Adjust the font size to your preference */
+}
+
+.info-list ul.sub-menu li.menu-item-has-children ul {
+  display: none;
+}
+
+.info-list ul.sub-menu li.menu-item-has-children:hover ul,
+.info-list ul.sub-menu li.menu-item-has-children:focus ul {
+  display: block;
+}
+
+.toggle-dropdown {
+  cursor: pointer;
+}
+
+.service-image {
+  width: 10%;
+  /* Adjust image width as needed */
+  margin-right: 20px; /* Adjust spacing between image and text */
+}
+
+.vehicle-service {
+  display: flex;
+}
+
+.vehicle-service > div {
+  flex-grow: 1;
+  /* This will evenly distribute the items */
+  text-align: center;
+  /* Optional: Center align the text within each item */
+}
+
+.driver-license {
+  background-color: var(--border-color);
+}
+.breadcumb-wrapper .breadcumb-shape img {
+  width: 50%;
+  height: 100px;
+}
+.course-single-top {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  padding: var(--blog-space-y, 0px) var(--blog-space-x, 0px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+}
+
+.hero-style8 .hero-meta h1 {
+  color: white;
+}
+
+.hero-style8 .hero-meta {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.th-hero-bg img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.th-hero-bg {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.hero-style8 {
+  padding: 0;
+}
+
+.homie-card {
+  text-align: center;
+  padding: 50px;
+  border-radius: 10px;
+  border: 1px solid #D0DBE9;
+  background: var(--white-color);
+  margin-top: 0;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  /* Medium Large devices */
+  /* Large devices */
+}
+
+/* .homeee {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+ */
+
+ .service-card.style3 {
+  padding: 50px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid #D0DBE9;
+  background: var(--white-color);
+  margin-top: 0;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  /* Medium Large devices */
+  /* Large devices */
+}
+
+.service-card-content {
+  padding-right: 20px;
+  padding-left: 0px !important;
+  justify-content: start;
+}
+
+.row.justify-content-evenly {
+  display: flex;
+  justify-content:flex-start
+}
+
+@media (max-width: 991px) {
+  .row.justify-content-evenly {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.hero-meta{
+  padding:0px;
+}
+.service-card-text {
+  padding: 0px;
+  text-justify: center;
+}
