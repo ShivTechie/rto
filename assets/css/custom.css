@@ -153,6 +153,91 @@
   box-shadow: 0px 9px 14px #fbfbfb;
   border-radius: 10px;
 }
+.hero-style8 .hero-meta h1 {
+  color: white;
+}
+
+.hero-style8 .hero-meta {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.th-hero-bg img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.th-hero-bg {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.hero-style8 {
+  padding: 0;
+}
+
+.homie-card {
+  text-align: center;
+  padding: 50px;
+  border-radius: 10px;
+  border: 1px solid #D0DBE9;
+  background: var(--white-color);
+  margin-top: 0;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  /* Medium Large devices */
+  /* Large devices */
+}
+
+/* .homeee {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+ */
+
+ .service-card.style3 {
+  padding: 50px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid #D0DBE9;
+  background: var(--white-color);
+  margin-top: 0;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  /* Medium Large devices */
+  /* Large devices */
+}
+
+.service-card-content {
+  padding-right: 20px;
+  padding-left: 0px !important;
+  justify-content: start;
+}
+
+.row.justify-content-evenly {
+  display: flex;
+  justify-content:flex-start
+}
+
+@media (max-width: 991px) {
+  .row.justify-content-evenly {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.hero-meta{
+  padding:0px;
+}
+.service-card-text {
+  padding: 0px;
+  text-justify: center;
+}
 
 .course-description p {
   font-size: 15px; /* Adjust the font size to your preference */
