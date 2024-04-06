@@ -1,0 +1,339 @@
+:root {
+  --theme-color: #313660;
+  --theme-color2: #f20f10;
+  --title-color: #0f2239;
+  --body-color: #4d5765;
+  --smoke-color: #f3f7fb;
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --light-color: #72849b;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #ecf1f9;
+  --title-font: "Jost", sans-serif;
+  --body-font: "Roboto", sans-serif;
+  --icon-font: "Font Awesome 6 Pro";
+  --main-container: 1380px;
+  --container-gutters: 24px;
+  --section-space: 35px;
+  --section-space-mobile: 80px;
+  --section-title-space: 70px;
+  --ripple-ani-duration: 5s;
+}
+
+.header-logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 300px;
+}
+.breadcumb-wrapper {
+  background-color: var(--title-color);
+  padding: 50px 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+.main-menu ul.sub-menu li ul.sub-menu {
+  left: 100%;
+  right: auto;
+  top: 0;
+  margin: 0 0;
+  margin-left: 8px;
+}
+
+.main-menu ul.sub-menu li a:before {
+  content: "\f3bf";
+  position: absolute;
+  top: 8px;
+  left: 0;
+  font-family: var(--body-font);
+  width: 11px;
+  height: 11px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 0.9em;
+  line-height: 1;
+  color: var(--theme-color);
+  font-weight: 700;
+  rotate: 90deg;
+}
+.main-menu a:hover {
+  color: var(--theme-color2);
+}
+
+.license {
+  border-style: solid;
+  border-width: 0 0 1px;
+  border-color: #f5f5f5;
+}
+.license-row {
+  display: flex;
+  /* align-items: center; */
+  margin: 10px;
+  margin-bottom: 15px;
+}
+
+.icon-container {
+  width: 40px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  background-color: var(--theme-color); /* Adjust color as needed */
+  border-radius: 50%; /* Makes the container circular */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px; /* Adjust margin as needed */
+  margin-top: 3px;
+}
+
+.icon-container i {
+  color: white; /* Adjust icon color as needed */
+}
+
+.text-container {
+  flex: 1; /* Take up remaining space */
+  margin-bottom: 5px;
+}
+
+.text-container ul {
+  font-family: var(--body-font);
+  margin-bottom: 0;
+}
+
+.sub-menu {
+  list-style-type: none; /* Remove default bullets */
+}
+
+.course-description-sub-menu li::before {
+  content: "\f068"; /* Add "-" before each list item */
+  /* position: absolute; */
+  top: 8px;
+  left: 0;
+  font-family: var(--body-font);
+  width: 11px;
+  height: 11px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 0.9em;
+  line-height: 1;
+  color: var(--theme-color);
+  font-weight: 700; /* Add some space between "-" and list item text */
+  margin-right: 8px;
+}
+
+.sub-menu li {
+  color: var(--title-color);
+  margin-bottom: 10px; /* Add space between each list item */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); /* Add a solid line after each list item */
+  padding-bottom: 5px; /* Add some padding at the bottom of each list item */
+}
+
+.sub-menu li:last-child {
+  border-bottom: none; /* Remove the border from the last list item */
+}
+
+.course-single-mid {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+.course-single-top {
+  position: relative;
+  /* margin-top: var(--blog-space-y, 40px); */
+  margin-bottom: var(--blog-space-y, 40px);
+  padding: var(--blog-space-y, 20px) var(--blog-space-x, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+}
+
+.course-description p {
+  font-size: 15px; /* Adjust the font size to your preference */
+  margin-bottom: 10px;
+}
+
+.info-list ul.sub-menu li.menu-item-has-children ul {
+  display: none;
+}
+
+.info-list ul.sub-menu li.menu-item-has-children:hover ul,
+.info-list ul.sub-menu li.menu-item-has-children:focus ul {
+  display: block;
+}
+
+.toggle-dropdown {
+  cursor: pointer;
+}
+
+.service-image {
+  width: 10%;
+  /* Adjust image width as needed */
+  margin-right: 20px; /* Adjust spacing between image and text */
+}
+
+.vehicle-service {
+  display: flex;
+}
+
+.vehicle-service > div {
+  flex-grow: 1;
+  /* This will evenly distribute the items */
+  text-align: center;
+  /* Optional: Center align the text within each item */
+}
+
+.driver-license {
+  /* background-color: var(--light-color); */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border: px solid var(--border-color);
+}
+
+.course-single-bottom {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+.driver-license h3 {
+  padding: 10px;
+  border-style: solid;
+  border-width: 0 0 1px;
+  border-color: #f5f5f5;
+}
+
+.breadcumb-wrapper .breadcumb-shape img {
+  width: 50%;
+  height: 100px;
+}
+.course-single-top {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  padding: var(--blog-space-y, 0px) var(--blog-space-x, 0px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+}
+
+p {
+  font-family: var(--body-font);
+  margin: 0 0 0 0;
+  color: var(--body-color);
+  line-height: 1.75;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+p a,
+span a {
+  font-size: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+.h1,
+h1,
+.h2,
+h2,
+.h3,
+h3,
+.h4,
+h4,
+.h5,
+h5,
+.h6,
+h6 {
+  font-family: var(--title-font);
+  color: var(--title-color);
+  text-transform: none;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 10px 0;
+}
+
+.phone-icon {
+  rotate: 90deg;
+}
+.full-height {
+  height: 100%;
+}
+
+.sidebar-area {
+  position: sticky;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: auto; /* Add vertical scrollbar if content exceeds sidebar height */
+  margin: 0;
+  padding: 0;
+}
+.widget_info {
+  height: 100%;
+  flex: 1;
+}
+
+.widget {
+  height: 100%; /* Set the height to 100% of the viewport height */
+  overflow-y: auto; /* Add vertical scrollbar if content exceeds viewport height */
+  padding: 30px;
+}
+
+.course-single-bottom-please-note {
+  background-color: #ffa;
+  border-color: #ff5;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.content-ul {
+  font-family: var(--body-font);
+}
+
+.driving-license-renewal {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.driving-license-renewal h3 {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.driving-license-renewal p {
+  margin: 10px 0;
+}
+
+.driving-license-renewal button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.driving-license-renewal button:hover {
+  background-color: #0056b3;
+}
+
+.driving-license-renewal .price-tag strong {
+  font-size: 35px;
+}
