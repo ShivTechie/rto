@@ -47,7 +47,7 @@
   position: absolute;
   top: 8px;
   left: 0;
-  font-family: var(--icon-font);
+  font-family: var(--body-font);
   width: 11px;
   height: 11px;
   text-align: center;
@@ -63,6 +63,44 @@
   color: var(--theme-color2);
 }
 
+.license {
+  border-style: solid;
+  border-width: 0 0 1px;
+  border-color: #f5f5f5;
+}
+.license-row {
+  display: flex;
+  /* align-items: center; */
+  margin: 10px;
+  margin-bottom: 15px;
+}
+
+.icon-container {
+  width: 40px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  background-color: var(--theme-color); /* Adjust color as needed */
+  border-radius: 50%; /* Makes the container circular */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px; /* Adjust margin as needed */
+  margin-top: 3px;
+}
+
+.icon-container i {
+  color: white; /* Adjust icon color as needed */
+}
+
+.text-container {
+  flex: 1; /* Take up remaining space */
+  margin-bottom: 5px;
+}
+
+.text-container ul {
+  font-family: var(--body-font);
+  margin-bottom: 0;
+}
+
 .sub-menu {
   list-style-type: none; /* Remove default bullets */
 }
@@ -72,7 +110,7 @@
   /* position: absolute; */
   top: 8px;
   left: 0;
-  font-family: var(--icon-font);
+  font-family: var(--body-font);
   width: 11px;
   height: 11px;
   text-align: center;
@@ -115,57 +153,6 @@
   box-shadow: 0px 9px 14px #fbfbfb;
   border-radius: 10px;
 }
-
-.course-description p {
-  font-size: 18px; /* Adjust the font size to your preference */
-}
-
-.info-list ul.sub-menu li.menu-item-has-children ul {
-  display: none;
-}
-
-.info-list ul.sub-menu li.menu-item-has-children:hover ul,
-.info-list ul.sub-menu li.menu-item-has-children:focus ul {
-  display: block;
-}
-
-.toggle-dropdown {
-  cursor: pointer;
-}
-
-.service-image {
-  width: 10%;
-  /* Adjust image width as needed */
-  margin-right: 20px; /* Adjust spacing between image and text */
-}
-
-.vehicle-service {
-  display: flex;
-}
-
-.vehicle-service > div {
-  flex-grow: 1;
-  /* This will evenly distribute the items */
-  text-align: center;
-  /* Optional: Center align the text within each item */
-}
-
-.driver-license {
-  background-color: var(--border-color);
-}
-.breadcumb-wrapper .breadcumb-shape img {
-  width: 50%;
-  height: 100px;
-}
-.course-single-top {
-  position: relative;
-  margin-bottom: var(--blog-space-y, 40px);
-  padding: var(--blog-space-y, 0px) var(--blog-space-x, 0px);
-  border: 1px solid var(--border-color);
-  box-shadow: 0px 9px 14px #fbfbfb;
-  border-radius: 10px;
-}
-
 .hero-style8 .hero-meta h1 {
   color: white;
 }
@@ -250,4 +237,188 @@
 .service-card-text {
   padding: 0px;
   text-justify: center;
+}
+
+.course-description p {
+  font-size: 15px; /* Adjust the font size to your preference */
+  margin-bottom: 10px;
+}
+
+.info-list ul.sub-menu li.menu-item-has-children ul {
+  display: none;
+}
+
+.info-list ul.sub-menu li.menu-item-has-children:hover ul,
+.info-list ul.sub-menu li.menu-item-has-children:focus ul {
+  display: block;
+}
+
+.toggle-dropdown {
+  cursor: pointer;
+}
+
+.service-image {
+  width: 10%;
+  /* Adjust image width as needed */
+  margin-right: 20px; /* Adjust spacing between image and text */
+}
+
+.vehicle-service {
+  display: flex;
+}
+
+.vehicle-service > div {
+  flex-grow: 1;
+  /* This will evenly distribute the items */
+  text-align: center;
+  /* Optional: Center align the text within each item */
+}
+
+.driver-license {
+  /* background-color: var(--light-color); */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border: px solid var(--border-color);
+}
+
+.course-single-bottom {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+.driver-license h3 {
+  padding: 10px;
+  border-style: solid;
+  border-width: 0 0 1px;
+  border-color: #f5f5f5;
+}
+
+.breadcumb-wrapper .breadcumb-shape img {
+  width: 50%;
+  height: 100px;
+}
+.course-single-top {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  padding: var(--blog-space-y, 0px) var(--blog-space-x, 0px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
+}
+
+p {
+  font-family: var(--body-font);
+  margin: 0 0 0 0;
+  color: var(--body-color);
+  line-height: 1.75;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+p a,
+span a {
+  font-size: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+.h1,
+h1,
+.h2,
+h2,
+.h3,
+h3,
+.h4,
+h4,
+.h5,
+h5,
+.h6,
+h6 {
+  font-family: var(--title-font);
+  color: var(--title-color);
+  text-transform: none;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 10px 0;
+}
+
+.phone-icon {
+  rotate: 90deg;
+}
+.full-height {
+  height: 100%;
+}
+
+.sidebar-area {
+  position: sticky;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: auto; /* Add vertical scrollbar if content exceeds sidebar height */
+  margin: 0;
+  padding: 0;
+}
+.widget_info {
+  height: 100%;
+  flex: 1;
+}
+
+.widget {
+  height: 100%; /* Set the height to 100% of the viewport height */
+  overflow-y: auto; /* Add vertical scrollbar if content exceeds viewport height */
+  padding: 30px;
+}
+
+.course-single-bottom-please-note {
+  background-color: #ffa;
+  border-color: #ff5;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.content-ul {
+  font-family: var(--body-font);
+}
+
+.driving-license-renewal {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.driving-license-renewal h3 {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.driving-license-renewal p {
+  margin: 10px 0;
+}
+
+.driving-license-renewal button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.driving-license-renewal button:hover {
+  background-color: #0056b3;
+}
+
+.driving-license-renewal .price-tag strong {
+  font-size: 35px;
 }
