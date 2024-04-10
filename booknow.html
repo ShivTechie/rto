@@ -849,7 +849,7 @@ Event Area
                       aria-labelledby="description-tab"
                     >
                       <div class="course-description">
-                        <div class="booking-component">
+                        <form class="booking-component bookConfirm">
                           <h2>BOOK NOW</h2>
                           <p>Please select your RTO:</p>
                           <select id="rto-select" onchange="resetServiceType()">
@@ -863,7 +863,6 @@ Event Area
                               id="driving-service"
                               name="service-type"
                               value="driving"
-                              checked
                             />
                             <label for="driving-service" class="my-1 mx-2"
                               >Driving Related Service</label
@@ -885,14 +884,15 @@ Event Area
                             <!-- Options will be populated dynamically based on user selection -->
                           </select>
 
-                          <div class="form-btn col-12 mt-10">
+                          <div class="form-btn col-12 mt-20">
                             <button class="th-btn" type="submit">
                               Proceed to next Step<i
                                 class="fas fa-long-arrow-right ms-2"
                               ></i>
                             </button>
                           </div>
-                        </div>
+                        </form>
+                        <div></div>
                       </div>
                     </div>
                   </div>
