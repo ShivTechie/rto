@@ -832,11 +832,8 @@ Contact Area
       <div class="container">
         <div class="map-sec">
           <div class="map">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sthemeholy!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd"
-              allowfullscreen=""
-              loading="lazy"
-            ></iframe>
+            
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892.2101253269457!2d73.82151679839477!3d18.4646139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2952dd101962f%3A0x4bcb1bdf111a5d7!2sRTO%20Services.In%20Pune!5e0!3m2!1sen!2sus!4v1712745530223!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
         <div class="row">
@@ -903,9 +900,9 @@ Contact Area
                 aliqua.
               </p> -->
               <form
-                action="mail.php"
+                action=""
                 method="POST"
-                class="contact-form ajax-contact"
+                class="contact-form sendMail"
               >
                 <div class="row">
                   <div class="col-md-6">
@@ -915,6 +912,7 @@ Contact Area
                         class="form-control style-white"
                         name="name"
                         id="name"
+                        vali="yes"
                         placeholder="Your Name*"
                       />
                       <i class="fal fa-user"></i>
@@ -927,6 +925,7 @@ Contact Area
                         class="form-control style-white"
                         name="email"
                         id="email"
+                        vali="yes"
                         placeholder="Email Address*"
                       />
                       <i class="fal fa-envelope"></i>
@@ -940,6 +939,7 @@ Contact Area
                         class="form-control style-white"
                         name="number"
                         id="number"
+                        vali="yes"
                         placeholder="Phone Number*"
                       />
                       <i class="fal fa-phone"></i>
@@ -954,12 +954,15 @@ Contact Area
                         rows="3"
                         class="form-control style-white"
                         placeholder="Write Your Message*"
+                        vali="yes"
                       ></textarea>
                       <i class="fal fa-pen"></i>
                     </div>
                   </div>
+                  <input type="hidden" name="slug" value="touchmediaads.com">
+                  <div class="respHere"></div>
                   <div class="form-btn col-12 mt-10">
-                    <button class="th-btn">
+                    <button class="th-btn" type="submit">
                       Send Message<i class="fas fa-long-arrow-right ms-2"></i>
                     </button>
                   </div>
@@ -1215,5 +1218,6 @@ Contact Area
 
     <!-- Main Js File -->
     <script src="assets/js/main.js"></script>
+    <script src="https://enquiry.touchmediaads.com/sendMail.js"></script>
   </body>
 </html>
