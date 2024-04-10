@@ -1406,7 +1406,7 @@ input[type="checkbox"] ~ label:before {
   font-size: 12px;
 }
 
-input[type="radio"] {
+/* input[type="radio"] {
   visibility: hidden;
   opacity: 0;
   display: inline-block;
@@ -1451,7 +1451,7 @@ input[type="radio"]:checked ~ label::before {
   border-color: var(--theme-color);
   background-color: var(--theme-color);
   color: var(--white-color);
-}
+} */
 
 label {
   margin-bottom: 0.5em;
