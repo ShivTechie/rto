@@ -179,7 +179,11 @@
 
 .hero-style8 .hero-meta {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+}
+
+.card-1-vehicle {
+  margin-right: 200px;
 }
 
 .th-hero-bg img {
@@ -197,6 +201,7 @@
 
 .hero-style8 {
   padding: 0;
+  /* margin: 0px 150px; */
 }
 
 .homie-card {
@@ -629,7 +634,6 @@ input[type="submit"]:hover {
 .form-btn {
   display: flex;
   justify-content: center;
-  
 }
 
 .booking-component input {
