@@ -467,6 +467,12 @@ h6 {
   margin-top: 10rem !important;
 }
 
+@media only screen and (max-width: 600px) {
+  .driver-license-home {
+    margin-top: 0px !important;
+  }
+}
+
 .howdoesitwork {
   display: flex;
   /* grid-template-columns: repeat(3, 1fr); */
@@ -596,7 +602,7 @@ input[type="submit"]:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url(assets\img\bg\about-5-bg.png);
+  background-image: url("../img/bg/about-5-bg.png");
 }
 
 .course-single {
