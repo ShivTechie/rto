@@ -624,7 +624,7 @@ input[type="submit"]:hover {
 .footerBottom{
   display: none;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
   .footerBottom{
     display: flex;
     justify-content: space-between;
@@ -636,7 +636,7 @@ input[type="submit"]:hover {
     background: #fff;
     padding: 3px;
     width: 100%;
-    width: 20%;
+    box-shadow: 0px -2px 12px #6666665e;
   }
   .footerBottom a{
     display: flex;
@@ -644,10 +644,22 @@ input[type="submit"]:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
+    width: 20%;
+    padding: 3px 0;
+    color: #5c5c5c;
+  }
+  .footerBottom a i{
+    font-size: 27px;
   }
   .footerBottom a span{
     color: #4a4a4a;
-    font-size: 8px;
+    font-size: 10px;
     font-weight: bold;
+    line-height: 1;
+    padding-top: 8px;
+  }
+  .scroll-top{
+    right: 10px;
+    bottom: 65px;
   }
 }

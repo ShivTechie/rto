@@ -195,26 +195,26 @@
       <a href="https://wa.me/256214203215" class="whatsapp" target="_blank"
         ><i class="fab fa-whatsapp"></i
       >
-      <span>Whats up us</span>
+      <span>Whats app</span>
     </a>
       <a href="tel:+256214203215" class="phone" target="_blank"
-        ><i class="fas fa-phone"></i>
+        ><i data-lucide="phone"></i>
       <span>Call us</span>
       </a>
       <a
         href="https://www.google.com/maps"
         class="google-map"
         target="_blank"
-        ><i class="fas fa-map"></i>
+        ><i data-lucide="map-pin"></i>
       <span>Visit Now</span>
       </a>
       <a href="book.php">
-        <i class="fas fa-calendar "></i>
-      <span>Book Appointment</span>
+      <i data-lucide="calendar-check"></i>
+      <span>Book Now</span>
       </a>
       <a href="https://www.facebook.com/" class="facebook" target="_blank"
-        ><i class="fab fa-facebook-f"></i>
-      <span>Facebook</span>
+        ><i  data-lucide="facebook"></i>
+      <span>Follow</span>
       </a>
     </div>
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
@@ -228,6 +228,10 @@
       }
     }
     ?> 
+    <script src="https://unpkg.com/lucide@latest"></script>
     <script src="assets/js/custom.js"></script>
+    <script>
+    lucide.createIcons();
+  </script>
   </body>
 </html>
