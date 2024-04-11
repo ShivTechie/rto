@@ -37,7 +37,9 @@
   /*---------- 01. On Load Function ----------*/
   $(window).on("load", function () {
     $(".preloader").fadeOut();
-    $(".slick-slider").slick("refresh");
+    if($(".slick-slider").length > 0){
+      $(".slick-slider").slick("refresh");
+    }
   });
 
   $(window).on("resize", function () {
@@ -681,10 +683,12 @@
   );
 
   /*----------- 15. Counter Up ----------*/
-  $(".counter-number").counterUp({
-    delay: 10,
-    time: 1000,
-  });
+  if($(".counter-number").length){
+    $(".counter-number").counterUp({
+      delay: 10,
+      time: 1000,
+    });
+  }
 
   /*---------- 16. th Tab ----------*/
   $.fn.thTab = function (options) {
@@ -818,16 +822,17 @@
   }
 
   /*----------- 18. Progress Bar Animation ----------*/
-  $(".progress-bar").waypoint(
-    function () {
-      $(".progress-bar").css({
-        animation: "animate-positive 1.8s",
-        opacity: "1",
-      });
-    },
-    { offset: "75%" }
-  );
-
+  if($(".progress-bar").length){
+    $(".progress-bar").waypoint(
+      function () {
+        $(".progress-bar").css({
+          animation: "animate-positive 1.8s",
+          opacity: "1",
+        });
+      },
+      { offset: "75%" }
+    );
+  }
   /*----------- 21. Indicator ----------*/
   // Indicator
   $.fn.indicator = function () {

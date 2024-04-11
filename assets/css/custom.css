@@ -613,3 +613,33 @@ input[type="submit"]:hover {
 .booking-component input {
   width: 20px;
 }
+.footerBottom{
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .footerBottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1111;
+    background: #fff;
+    padding: 3px;
+    width: 100%;
+    width: 20%;
+  }
+  .footerBottom a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .footerBottom a span{
+    color: #4a4a4a;
+    font-size: 8px;
+    font-weight: bold;
+  }
+}

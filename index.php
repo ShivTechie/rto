@@ -712,5 +712,8 @@ Counter Area
   </div>
 </div>
 <?php
+$js = [
+  "jquery.counterup.min",
+];
 include('includes/footer.php');
 ?>
