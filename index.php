@@ -271,12 +271,12 @@ include('includes/header.php');
     <!--==============================
 Why Choose Us
 ==============================-->
-    <section class="overflow-hidden space">
+    <section class="overflow-hidden  mt-5">
       <div class="container">
         <div class="title-area text-center">
       
           <h2 class="sec-title">Why Choose Us</h2>
-          <section class="space-top feature-sec">
+          <section class="feature-sec mt-5">
             <div class="container">
                 <div class="row gy-4 justify-content-center">
                     <div class="col-xl-3 col-md-6">
@@ -321,7 +321,7 @@ Why Choose Us
                     <div class="col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
-                              <img src="assets\img\HomePageIcons\quick2.png" alt="no"> 
+                              <img src="assets/img/HomePageIcons/fast-delivery.png" alt="no"> 
                             </div>
                             <h3 class="feature-list_title"><a href="course-details.html">QUICK</a></h3>
                             <p class="feature-list_text">Swift solutions for your RTO requirements.</p>
@@ -430,11 +430,11 @@ Counter Area
 <!-- 
 what customer say area 
 -->
-
-<div class="driver-license-home m-4 mb-5 mt-5 pt-3">
-  <h3 class="m-3 text-center">
+<h3 class=" text-center">
     How does it Works?
   </h3>
+<div class="driver-license-home m-4 mb-5 mt-5 pt-3">
+  
 
   <div class="howdoesitwork row mt-3 ">
     <div class="license-row col-md-3 ">
