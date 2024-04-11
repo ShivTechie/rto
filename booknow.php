@@ -230,7 +230,8 @@
     </div>
 <?php
 $js = [
-  'booknow'
+  'booknow',
+  "jquery.counterup.min",
 ];
 include 'includes/footer.php';
 ?>
