@@ -149,8 +149,8 @@
   box-shadow: 0px 9px 14px #fbfbfb;
   border-radius: 10px;
 }
-.hero-style8 .hero-meta h1 {
-  color: white;
+.hero-style8 h1 {
+  color: var(--theme-color);
 }
 
 .hero-style8 .hero-meta {
@@ -158,7 +158,7 @@
   justify-content: center;
 }
 
-.card-1-vehicle {
+.card-vehicle {
   margin-right: 200px;
 }
 
@@ -201,8 +201,8 @@
  */
 
 .service-card.style3 {
-  padding: 50px;
-  padding-bottom: 10px;
+  padding: 30px;
+  padding-bottom: 5px;
   border-radius: 10px;
   border: 1px solid #d0dbe9;
   background: var(--white-color);
@@ -234,9 +234,12 @@
 .hero-meta {
   padding: 0px;
 }
-.service-card-text {
+.service-card-text li {
   padding: 0px;
-  text-justify: center;
+
+  text-align: center;
+  font-size: medium;
+
 }
 
 .course-description p {
@@ -427,10 +430,6 @@ h6 {
   padding-top: 10px;
 }
 
-.service-card-text {
-  text-align: center;
-}
-
 .service-card.style3:hover a {
   color: white;
 }
@@ -440,13 +439,7 @@ h6 {
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   border: px solid var(--border-color);
-  margin-top: 10rem !important;
-}
-
-@media only screen and (max-width: 600px) {
-  .driver-license-home {
-    margin-top: 0px !important;
-  }
+  /* margin-top: 10rem !important; */
 }
 
 .howdoesitwork {
@@ -578,7 +571,7 @@ input[type="submit"]:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("../img/bg/about-5-bg.png");
+  background-image: url(assets\img\bg\about-5-bg.png);
 }
 
 .course-single {
@@ -621,10 +614,11 @@ input[type="submit"]:hover {
 .booking-component input {
   width: 20px;
 }
+
 .footerBottom{
   display: none;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 600px) {
   .footerBottom{
     display: flex;
     justify-content: space-between;
@@ -636,7 +630,7 @@ input[type="submit"]:hover {
     background: #fff;
     padding: 3px;
     width: 100%;
-    box-shadow: 0px -2px 12px #6666665e;
+    width: 20%;
   }
   .footerBottom a{
     display: flex;
@@ -644,22 +638,35 @@ input[type="submit"]:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    width: 20%;
-    padding: 3px 0;
-    color: #5c5c5c;
-  }
-  .footerBottom a i{
-    font-size: 27px;
   }
   .footerBottom a span{
     color: #4a4a4a;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: bold;
-    line-height: 1;
-    padding-top: 8px;
   }
-  .scroll-top{
-    right: 10px;
-    bottom: 65px;
-  }
+}
+
+.feet{
+  display: grid;
+  justify-content: center;
+}
+
+.testi-box_text{
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border: px solid var(--border-color);
+  text-align: justify;
+  
+}
+.text-center {
+  text-align: center;
+}
+
+.target a{
+  color: white
+}
+
+.space-bottom{
+  margin-bottom: 10px;
 }

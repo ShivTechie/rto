@@ -294,11 +294,11 @@ if(!isset($meta)){
                 <ul>
                   <li>
                     <i class="far fa-phone"></i
-                    ><a href="tel:+11156456825">+111 (564) 568 25</a>
+                    ><a href="tel:+11156456825">+91 9595856447</a>
                   </li>
                   <li class="d-none d-xl-inline-block">
                     <i class="far fa-envelope"></i
-                    ><a href="mailto:info@Edura.com">info@edura.com</a>
+                    ><a href="mailto:info@Edura.com">arvindupadhyay2928@gmail.com</a>
                   </li>
                   <li><i class="far fa-clock"></i>Mon - Sat: 8:00 - 15:00</li>
                 </ul>

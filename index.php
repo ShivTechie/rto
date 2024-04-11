@@ -12,17 +12,18 @@ include('includes/header.php');
   >
     <div class="th-hero-slide">
       <div class="th-hero-bg">
-        <img src="assets\img\hero\hero-1.jpg" alt="overlay" style="opacity: 0.8;" />
+        <img src="assets\img\HomePageIcons\rto service.png" alt="overlay"  />
       </div>
       <div class="container z-index-common text-center">
         <h1
-          class="hero-meta "
+          class="hero-meta text-white"
           data-ani="slideinup"
           data-ani-delay="0.2s"
           
         >
         Hassle Free Door Step RTO Services In Pune
         </h1>
+</div>
 
         <div class="row">
           <!-- Large screen -->
@@ -43,8 +44,8 @@ include('includes/header.php');
                       data-ani="slideinup"
                       data-ani-delay="0.2s"
                     >
-                          <div class="card-vehicle col-md-6 col-lg-3 " >
-                            <div class="service-card style3" >
+                          <div class="card-vehicle col-md-6 col-lg-3 justify" >
+                            <div class="service-card style3 " >
                               <div class="service-card-content-1">
                                 <h3 class="box-title">Vehicle related services</h3>
                                 <div class="service-card-text" >
@@ -399,7 +400,7 @@ Why Choose Us
                     <div class="col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
-                              <img src="assets/img/HomePageIcons/fast-delivery.png" alt="no"> 
+                              <img src="assets\img\HomePageIcons\fast-delivery.png" alt="no"> 
                             </div>
                             <h3 class="feature-list_title"><a href="course-details.php">QUICK</a></h3>
                             <p class="feature-list_text">Swift solutions for your RTO requirements.</p>
@@ -508,7 +509,7 @@ Counter Area
 <!-- 
 what customer say area 
 -->
-<h3 class=" text-center mt-5">
+<h3 class=" text-center mt-2">
     How does it Works?
   </h3>
 <div class="driver-license-home m-4 mb-5 mt-5 pt-3">
@@ -527,7 +528,7 @@ what customer say area
           <p>OR</p>
       </div>
       <div class="form-btn col-12 mt-10">
-        <button class="th-btn-1">call us on +913453435454</button>
+        <button class="th-btn-1">call us on +91 9595856447 </button>
     </div>
         
         <img src="assets\img\howDoesItWorkIcons\step 1.png" alt="icon" width="150px">
@@ -609,73 +610,77 @@ Testimonial Area
               <div class="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false">
                   <div class="col-lg-6">
                       <div class="testi-box">
-                          <div class="testi-box-bg-shape">
-                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
-                              </svg>
-                          </div>
+                            <!-- <div class="testi-box-bg-shape">
+                                <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#303651" />
+                                </svg>
+                            </div> -->
                           <div class="testi-box_content">
                               <div class="testi-box_img">
-                                  <img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater">
+                                  <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avatar" >
                               </div>
-                              <p class="testi-box_text">“I couldn't be happier with the service provided by the RTO website. It made the whole process of renewing my license seamless and hassle-free. Highly recommended!”</p>
+                             
+                              <p class="testi-box_text">“I couldn't be happier with the service provided by the RTO website. It made the whole process of renewing my license seamless and hassle-free. Highly recommended!” </p>
+            
+                              
+                              
                           </div>
                           <div class="testi-box_bottom">
                               <div>
                                   <h3 class="testi-box_name"> Rajesh Kumar</h3>
                                   
                               </div>
-                              <div class="testi-box_review">
+                             <!--  <div class="testi-box_review">
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   (4.7)
-                              </div>
+                              </div> -->
                           </div>
                       </div>
                   </div>
                   <div class="col-lg-6">
                       <div class="testi-box">
-                          <div class="testi-box-bg-shape">
+                         <!--  <div class="testi-box-bg-shape">
                               <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#303651" />
                               </svg>
-                          </div>
+                          </div> -->
                           <div class="testi-box_content">
                               <div class="testi-box_img">
-                                  <img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater">
+                              <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avater" >
                               </div>
                               <p class="testi-box_text">“
-                              I was amazed by how user-friendly the RTO website is. I was able to apply for my vehicle registration without any difficulty. Thank you for such a wonderful hassel free platform”</p>
+                              I was amazed by how user-friendly the RTO website is. I was able to apply for my vehicle registration without any difficulty. Thank you for such a wonderful hassle free platform”</p>
                           </div>
                           <div class="testi-box_bottom">
                               <div>
                                   <h3 class="testi-box_name">Priya Patel</h3>
                                   
                               </div>
-                              <div class="testi-box_review">
+                            <!--   <div class="testi-box_review">
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   (4.7)
-                              </div>
+                              </div> -->
                           </div>
                       </div>
                   </div>
                   <div class="col-lg-6">
                       <div class="testi-box">
-                          <div class="testi-box-bg-shape">
+                          <!-- <div class="testi-box-bg-shape">
                               <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#303651" />
                               </svg>
-                          </div>
+                          </div> -->
                           <div class="testi-box_content">
                               <div class="testi-box_img">
-                                  <img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater">
+                              <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avater" >
                               </div>
                               <p class="testi-box_text">“The RTO website saved me so much time and effort. I was able to schedule my driving test online and it was so convenient. Thank you for making things easier for us!”</p>
                           </div>
@@ -683,43 +688,43 @@ Testimonial Area
                               <div>
                                   <h3 class="testi-box_name">Anil Sharma</h3>
                               </div>
-                              <div class="testi-box_review">
+                            <!--   <div class="testi-box_review">
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   (4.7)
-                              </div>
+                              </div> -->
                           </div>
                       </div>
                   </div>
                   <div class="col-lg-6">
                       <div class="testi-box">
-                          <div class="testi-box-bg-shape">
-                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
+                          <!-- <div class="testi-box-bg-shape ">
+                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg" >
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#303651" />
                               </svg>
-                          </div>
+                          </div> -->
                           <div class="testi-box_content">
                               <div class="testi-box_img">
-                                  <img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater">
+                              <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avater" >
                               </div>
-                              <p class="testi-box_text">“I had some doubts regarding the process of obtaining a learner's license, but the customer support given by the RTO website was extremely helpful. Much Recommened”</p>
+                              <p class="testi-box_text">“I had some doubts regarding the process of obtaining a learner's license, but the customer support given by the RTO website was extremely helpful.”</p>
                           </div>
                           <div class="testi-box_bottom">
-                              <div>
-                                  <h3 class="testi-box_name">Rakesh Shinde</h3>
+                              <div class='text-center'>
+                                  <h3 class="testi-box_name ">Rakesh Shinde</h3>
                                  
                               </div>
-                              <div class="testi-box_review">
+                              <!-- <div class="testi-box_review">
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   <i class="fa-solid fa-star-sharp"></i>
                                   (4.7)
-                              </div>
+                              </div> -->
                           </div>
                       </div>
                   </div>
@@ -734,7 +739,7 @@ Testimonial Area
     <!--==============================
 Counter Area  
 ==============================-->
-<div class="container mt-0">
+<div class="container my-5 ">
   <div
     class="counter-area-2 bg-theme"
   >
@@ -793,6 +798,7 @@ Counter Area
 </div>
 <?php
 $js = [
+  'booknow',
   "jquery.counterup.min",
 ];
 include('includes/footer.php');
