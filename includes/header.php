@@ -434,7 +434,7 @@ if(!isset($meta)){
                                 </li>
                                 <li>
                                   <a
-                                    href="chanege-of-address-in-registration-certificate.php"
+                                    href="change-of-address-in-registration-certificate.php"
                                     >Change of Address in Registration
                                     Certificate</a
                                   >

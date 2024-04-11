@@ -37,14 +37,8 @@ $(document).ready(function(){
     $('.bookConfirm').on("submit", function(e) {
         e.preventDefault();
         let selectedService = $('#service-select').val();
-        console.log(selectedService)
-        window.location.href = selectedService+".html";
-    //   var selectedRTO = $('#rto-select').val();
-    //   // Depending on the selected RTO, service type, and service, redirect the user
-    //   // You can use window.location.href to redirect the user to the appropriate page
-    //   // For demonstration purposes, let's just log the selected service
-      
-    //   console.log("Selected Service:", selectedService);
+        console.log(selectedService )
+        window.location.href = selectedService+ ".php";
     });
   });
   
