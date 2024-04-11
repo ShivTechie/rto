@@ -462,6 +462,12 @@ h6 {
   margin-top: 10rem !important;
 }
 
+@media only screen and (max-width: 600px) {
+    .driver-license-home{
+      margin-top: 0px !important;
+    }
+}
+
 .howdoesitwork {
   display: flex;
   /* grid-template-columns: repeat(3, 1fr); */
