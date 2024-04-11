@@ -191,6 +191,32 @@
         ></path>
       </svg>
     </div>
+    <div class="footerBottom">
+      <a href="https://wa.me/256214203215" class="whatsapp" target="_blank"
+        ><i class="fab fa-whatsapp"></i
+      >
+      <span>Whats up us</span>
+    </a>
+      <a href="tel:+256214203215" class="phone" target="_blank"
+        ><i class="fas fa-phone"></i>
+      <span>Call us</span>
+      </a>
+      <a
+        href="https://www.google.com/maps"
+        class="google-map"
+        target="_blank"
+        ><i class="fas fa-map"></i>
+      <span>Visit Now</span>
+      </a>
+      <a href="book.php">
+        <i class="fas fa-calendar "></i>
+      <span>Book Appointment</span>
+      </a>
+      <a href="https://www.facebook.com/" class="facebook" target="_blank"
+        ><i class="fab fa-facebook-f"></i>
+      <span>Facebook</span>
+      </a>
+    </div>
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
