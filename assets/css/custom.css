@@ -632,6 +632,12 @@ input[type="submit"]:hover {
   align-items: center;
 }
 
+.form-btn {
+  display: flex;
+  justify-content: center;
+  
+}
+
 .booking-component input {
   width: 20px;
 }
