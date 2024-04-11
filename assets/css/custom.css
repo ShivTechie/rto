@@ -173,8 +173,8 @@
   box-shadow: 0px 9px 14px #fbfbfb;
   border-radius: 10px;
 }
-.hero-style8 .hero-meta h1 {
-  color: white;
+.hero-style8 h1 {
+  color: var(--theme-color);
 }
 
 .hero-style8 .hero-meta {
@@ -182,8 +182,13 @@
   justify-content: center;
 }
 
-.card-1-vehicle {
+.card-vehicle {
   margin-right: 200px;
+  font-family: sans-serif;
+}
+
+.card-vehicle-2 {
+  font-family: sans-serif;
 }
 
 .th-hero-bg img {
@@ -225,8 +230,8 @@
  */
 
 .service-card.style3 {
-  padding: 50px;
-  padding-bottom: 10px;
+  padding: 30px;
+  padding-bottom: 5px;
   border-radius: 10px;
   border: 1px solid #d0dbe9;
   background: var(--white-color);
@@ -467,12 +472,6 @@ h6 {
   margin-top: 10rem !important;
 }
 
-@media only screen and (max-width: 600px) {
-  .driver-license-home {
-    margin-top: 0px !important;
-  }
-}
-
 .howdoesitwork {
   display: flex;
   /* grid-template-columns: repeat(3, 1fr); */
@@ -602,7 +601,7 @@ input[type="submit"]:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("../img/bg/about-5-bg.png");
+  background-image: url(assets\img\bg\about-5-bg.png);
 }
 
 .course-single {
