@@ -268,6 +268,175 @@ include('includes/header.php');
       </div>
     </div> -->
     <!--======== / Hero Section ========-->
+
+    <!-- book now -->
+    <section class="space-top space-extra2-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="">
+            <div class="course-single">
+              <div class="text-center">
+                <h3 class="text-danger">RTO Services Now at your Doorstep!</h3>
+                <h5 class="text-danger">Have a Hassle Free RTO Experience.</h5>
+              </div>
+              <div class="about-us mb-4">
+                <div class="course-single-top">
+                  <div class="tab-content" id="productTabContent">
+                    <div
+                      class="tab-pane fade show active"
+                      id="Coursedescription"
+                      role="tabpanel"
+                      aria-labelledby="description-tab"
+                    >
+                      <div class="course-description">
+                        <form class="booking-component bookConfirm">
+                          <h2>BOOK NOW</h2>
+                          <p>Please select your RTO:</p>
+                          <select id="rto-select" onchange="resetServiceType()">
+                            <option value="MH12">MH12 Pune</option>
+                            <!-- Add other RTO options here if needed -->
+                          </select>
+                          <p class="mt-2 -mb-2">Type of Service:</p>
+                          <div class="row-flex my-1">
+                            <input
+                              type="radio"
+                              id="driving-service"
+                              name="service-type"
+                              value="driving"
+                            />
+                            <label for="driving-service" class="my-1 mx-2"
+                              >Driving Related Service</label
+                            >
+                            <br />
+                            <input
+                              type="radio"
+                              id="vehicle-service"
+                              name="service-type"
+                              value="vehicle"
+                            />
+                            <label for="vehicle-service" class="my-1 mx-2"
+                              >Vehicle Related Service</label
+                            >
+                          </div>
+
+                          <p>Select Service:</p>
+                          <select id="service-select">
+                            <!-- Options will be populated dynamically based on user selection -->
+                          </select>
+
+                          <div class="form-btn col-12 mt-20">
+                            <button class="th-btn" type="submit">
+                              Proceed to next Step<i
+                                class="fas fa-long-arrow-right ms-2"
+                              ></i>
+                            </button>
+                          </div>
+                        </form>
+                        <div></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="about-us-bottom row">
+                  <div class="col-md-4">
+                    <div class="row-flex">
+                      <img
+                        src="assets/img/HomePageIcons/effortless.png"
+                        alt=""
+                        width="60px"
+                      />
+                      <div class="mx-4">
+                        <h4>Simple</h4>
+                        <p>Simplified RTO Services</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="my-2 row-flex">
+                      <img
+                        src="assets/img/HomePageIcons/Fast (3).png"
+                        alt=""
+                        width="60px"
+                      />
+                      <div class="mx-4">
+                        <h4>Fast</h4>
+                        <p>Get your RTO Work Done Fast</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="my-2 row-flex">
+                      <img
+                        src="assets/img/HomePageIcons/trustworthy.png"
+                        alt=""
+                        width="60px"
+                      />
+                      <div class="mx-4">
+                        <h4>Reliable</h4>
+                        <p>Reliable RTO Representative</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="my-2 row-flex">
+                      <img
+                        src="assets/img/HomePageIcons/hasselfree.png"
+                        alt=""
+                        width="60px"
+                      />
+                      <div class="mx-4">
+                        <h4>Hassle Free</h4>
+                        <p>Relax and Enjoy your Hassle Free RTO Experience</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="my-2 row-flex">
+                      <img
+                        src="assets/img/HomePageIcons/timely-removebg-preview.png"
+                        alt=""
+                        width="60px"
+                      />
+                      <div class="mx-4">
+                        <h4>Timely</h4>
+                        <p>On Time Every Time</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="my-2 row-flex">
+                      <img
+                        src="assets/img/service/Overall.png"
+                        alt=""
+                        width="60px"
+                      />
+                      <div class="mx-4">
+                        <h4>Overall</h4>
+                        <p>All Types of RTO Related Jobs</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="partner row-flex border mx-5 mt-5">
+                  <img
+                    src="assets/img/logo.png"
+                    alt=""
+                    width="300px"
+                    class="mx-4"
+                  />
+                  <h3>Your Preferred RTO Service Partner</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- book now close -->
     <!--==============================
 Why Choose Us
 ==============================-->
@@ -443,7 +612,9 @@ what customer say area
       </div>
       <div class="text-container">
         <div class="form-btn col-12 inaline">
-          <button class="th-btn-1">book now<i class="fas fa-long-arrow-right ms-2"></i></button>
+        <a href="booknow.html"> <button class="th-btn-1">book now<i class="fas fa-long-arrow-right ms-2"></i></button></a>
+                          
+         
           <p>OR</p>
       </div>
       <div class="form-btn col-12 mt-10">
@@ -531,7 +702,7 @@ Testimonial Area
                       <div class="testi-box">
                           <div class="testi-box-bg-shape">
                               <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#313660" />
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
                               </svg>
                           </div>
                           <div class="testi-box_content">
@@ -560,7 +731,7 @@ Testimonial Area
                       <div class="testi-box">
                           <div class="testi-box-bg-shape">
                               <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#313660" />
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
                               </svg>
                           </div>
                           <div class="testi-box_content">
@@ -589,7 +760,7 @@ Testimonial Area
                       <div class="testi-box">
                           <div class="testi-box-bg-shape">
                               <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#313660" />
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
                               </svg>
                           </div>
                           <div class="testi-box_content">
@@ -618,7 +789,7 @@ Testimonial Area
                       <div class="testi-box">
                           <div class="testi-box-bg-shape">
                               <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#313660" />
+                                  <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4" />
                               </svg>
                           </div>
                           <div class="testi-box_content">
@@ -645,6 +816,7 @@ Testimonial Area
                   </div>
               </div>
           </div>
+          
       </div>
   </div>
 </section>
