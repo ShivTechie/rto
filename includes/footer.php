@@ -221,7 +221,13 @@
     <script src="assets/js/slick.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
+    <?php
+    if (isset($js)) {
+      foreach ($js as $j) {
+        echo '<script src="assets/js/' . $j . '.js"></script>';
+      }
+    }
+    ?> 
     <script src="assets/js/custom.js"></script>
   </body>
 </html>

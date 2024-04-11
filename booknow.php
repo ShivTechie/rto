@@ -229,5 +229,8 @@
       </div>
     </div>
 <?php
+$js = [
+  'booknow'
+];
 include 'includes/footer.php';
 ?>
