@@ -43,7 +43,7 @@
                       <p>
                         In the second case
                         <strong>
-                          <a href="vehicle_service_noc_issue.html"
+                          <a href="vehicle_service_noc_issue.php"
                             >Click Here,</a
                           ></strong
                         >NOC must be issued from the Original RTO.
@@ -184,7 +184,7 @@
 
                   <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
                   <hr />
-                  <!-- <a href="contact.html" class="contact-button th-btn">
+                  <!-- <a href="contact.php" class="contact-button th-btn">
                     <i class="phone-icon fas fa-phone-alt mr-5"></i>Contact Us
                     On
                     <br />
@@ -203,38 +203,38 @@
                       ></strong>
                       <ul class="sub-menu p-2" style="width: 240px">
                         <li>
-                          <a href="driving_license.html">Learner's License</a>
+                          <a href="driving_license.php">Learner's License</a>
                         </li>
                         <li>
-                          <a href="driving_license.html">Permanent License</a>
+                          <a href="driving_license.php">Permanent License</a>
                         </li>
                         <li>
-                          <a href="driving_license_renewal.html"
+                          <a href="driving_license_renewal.php"
                             >Driving License Renewal</a
                           >
                         </li>
                         <li>
-                          <a href="driving_license_duplicate.html"
+                          <a href="driving_license_duplicate.php"
                             >Duplicate Driving License</a
                           >
                         </li>
                         <li>
-                          <a href="driving_license_cod.html"
+                          <a href="driving_license_cod.php"
                             >Change of Details on Driving License</a
                           >
                         </li>
                         <li>
-                          <a href="international_driving_permit.html"
+                          <a href="international_driving_permit.php"
                             >International Driving Permit</a
                           >
                         </li>
                         <li>
-                          <a href="driving_license_noc_issue.html"
+                          <a href="driving_license_noc_issue.php"
                             >Issue NOC of Driving License</a
                           >
                         </li>
                         <li>
-                          <a href="driving_license_noc_submit.html"
+                          <a href="driving_license_noc_submit.php"
                             >Submit NOC of Driving License</a
                           >
                         </li>
@@ -248,42 +248,42 @@
                       ></strong>
                       <ul class="sub-menu p-2" style="width: 240px">
                         <li>
-                          <a href="vehicle_service_transfer.html"
+                          <a href="vehicle_service_transfer.php"
                             >Transfer of Vehicle Ownership</a
                           >
                         </li>
                         <li>
-                          <a href="duplicate_registration.html"
+                          <a href="duplicate_registration.php"
                             >Duplicate Registration Certificate</a
                           >
                         </li>
                         <li>
-                          <a href="renewal_registration_certificate.html"
+                          <a href="renewal_registration_certificate.php"
                             >Renewal of Registration Certificate</a
                           >
                         </li>
                         <li>
-                          <a href="registration_certificate_coa.html"
+                          <a href="registration_certificate_coa.php"
                             >Change of Address in Registration Certificate</a
                           >
                         </li>
                         <li>
-                          <a href="hypothecation_cancellation.html"
+                          <a href="hypothecation_cancellation.php"
                             >Hypothecation Cancellation</a
                           >
                         </li>
                         <li>
-                          <a href="vehicle_service_noc_issue.html"
+                          <a href="vehicle_service_noc_issue.php"
                             >Issue NOC of Vehicle</a
                           >
                         </li>
                         <li>
-                          <a href="vehicle_service_noc_submit.html"
+                          <a href="vehicle_service_noc_submit.php"
                             >Submit NOC of Vehicle</a
                           >
                         </li>
                         <li>
-                          <a href="vehicle_insurence.html">Vehicle Insurence</a>
+                          <a href="vehicle_insurence.php">Vehicle Insurence</a>
                         </li>
                       </ul>
                     </li>

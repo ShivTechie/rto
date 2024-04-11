@@ -389,7 +389,7 @@ breadCrum("About us")
                         Still If You Need Our Help, Let Us Know!
                       </h3>
                       <a
-                        href="contact.html"
+                        href="contact.php"
                         class="contact-button th-btn ml-25"
                       >
                         <i class="phone-icon fas fa-phone-alt mr-5"></i>Contact
@@ -538,7 +538,7 @@ breadCrum("About us")
             <aside class="sidebar-area">
               <div class="widget widget_info">
                 <div>
-                  <a href="contact.html" class="contact-button th-btn">
+                  <a href="contact.php" class="contact-button th-btn">
                     <i class="phone-icon fas fa-phone-alt mr-5"></i>Contact Us
                     On
                     <br />
@@ -558,36 +558,36 @@ breadCrum("About us")
                           style="width: 240px"
                         >
                           <li>
-                            <a href="driving_service.html">Learner's License</a>
+                            <a href="driving_service.php">Learner's License</a>
                           </li>
                           <li>
-                            <a href="shop-details.html">Permanent License</a>
+                            <a href="shop-details.php">Permanent License</a>
                           </li>
                           <li>
-                            <a href="cart.html">Driving License Renewal</a>
+                            <a href="cart.php">Driving License Renewal</a>
                           </li>
                           <li>
-                            <a href="checkout.html"
+                            <a href="checkout.php"
                               >Duplicate Driving License</a
                             >
                           </li>
                           <li>
-                            <a href="wishlist.html"
+                            <a href="wishlist.php"
                               >Change of Details on Driving License</a
                             >
                           </li>
                           <li>
-                            <a href="wishlist.html"
+                            <a href="wishlist.php"
                               >International Driving Permit</a
                             >
                           </li>
                           <li>
-                            <a href="wishlist.html"
+                            <a href="wishlist.php"
                               >Issue NOC of Driving License</a
                             >
                           </li>
                           <li>
-                            <a href="wishlist.html"
+                            <a href="wishlist.php"
                               >Submit NOC of Driving License</a
                             >
                           </li>
@@ -601,37 +601,37 @@ breadCrum("About us")
                         ></strong>
                         <ul class="sub-menu p-2" style="width: 240px">
                           <li>
-                            <a href="shop.html"
+                            <a href="shop.php"
                               >Transfer of Vehicle Ownership</a
                             >
                           </li>
                           <li>
-                            <a href="shop-details.html"
+                            <a href="shop-details.php"
                               >Duplicate Registration Certificate</a
                             >
                           </li>
                           <li>
-                            <a href="cart.html"
+                            <a href="cart.php"
                               >Renewal of Registration Certificate</a
                             >
                           </li>
                           <li>
-                            <a href="checkout.html"
+                            <a href="checkout.php"
                               >Change of Address in Registration Certificate</a
                             >
                           </li>
                           <li>
-                            <a href="wishlist.html"
+                            <a href="wishlist.php"
                               >Hypothecation Cancellation</a
                             >
                           </li>
                           <li>
-                            <a href="wishlist.html">Issue NOC of Vehicle</a>
+                            <a href="wishlist.php">Issue NOC of Vehicle</a>
                           </li>
                           <li>
-                            <a href="wishlist.html">Submit NOC of Vehicle</a>
+                            <a href="wishlist.php">Submit NOC of Vehicle</a>
                           </li>
-                          <li><a href="wishlist.html">Vehicle Insurance</a></li>
+                          <li><a href="wishlist.php">Vehicle Insurance</a></li>
                         </ul>
                       </li>
                       <li>
