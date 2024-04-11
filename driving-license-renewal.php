@@ -150,32 +150,32 @@ breadCrum("About us")
                         style="width: 240px"
                       >
                         <li>
-                          <a href="driving_service.html">Learner's License</a>
+                          <a href="driving_service.php">Learner's License</a>
                         </li>
                         <li>
-                          <a href="shop-details.html">Permanent License</a>
+                          <a href="shop-details.php">Permanent License</a>
                         </li>
-                        <li><a href="cart.html">Driving License Renewal</a></li>
+                        <li><a href="cart.php">Driving License Renewal</a></li>
                         <li>
-                          <a href="checkout.html">Duplicate Driving License</a>
+                          <a href="checkout.php">Duplicate Driving License</a>
                         </li>
                         <li>
-                          <a href="wishlist.html"
+                          <a href="wishlist.php"
                             >Change of Details on Driving License</a
                           >
                         </li>
                         <li>
-                          <a href="wishlist.html"
+                          <a href="wishlist.php"
                             >International Driving Permit</a
                           >
                         </li>
                         <li>
-                          <a href="wishlist.html"
+                          <a href="wishlist.php"
                             >Issue NOC of Driving License</a
                           >
                         </li>
                         <li>
-                          <a href="wishlist.html"
+                          <a href="wishlist.php"
                             >Submit NOC of Driving License</a
                           >
                         </li>
@@ -189,33 +189,33 @@ breadCrum("About us")
                       ></strong>
                       <ul class="sub-menu p-2" style="width: 240px">
                         <li>
-                          <a href="shop.html">Transfer of Vehicle Ownership</a>
+                          <a href="shop.php">Transfer of Vehicle Ownership</a>
                         </li>
                         <li>
-                          <a href="shop-details.html"
+                          <a href="shop-details.php"
                             >Duplicate Registration Certificate</a
                           >
                         </li>
                         <li>
-                          <a href="cart.html"
+                          <a href="cart.php"
                             >Renewal of Registration Certificate</a
                           >
                         </li>
                         <li>
-                          <a href="checkout.html"
+                          <a href="checkout.php"
                             >Change of Address in Registration Certificate</a
                           >
                         </li>
                         <li>
-                          <a href="wishlist.html">Hypothecation Cancellation</a>
+                          <a href="wishlist.php">Hypothecation Cancellation</a>
                         </li>
                         <li>
-                          <a href="wishlist.html">Issue NOC of Vehicle</a>
+                          <a href="wishlist.php">Issue NOC of Vehicle</a>
                         </li>
                         <li>
-                          <a href="wishlist.html">Submit NOC of Vehicle</a>
+                          <a href="wishlist.php">Submit NOC of Vehicle</a>
                         </li>
-                        <li><a href="wishlist.html">Vehicle Insurance</a></li>
+                        <li><a href="wishlist.php">Vehicle Insurance</a></li>
                       </ul>
                     </li>
                     <li>

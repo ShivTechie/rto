@@ -171,8 +171,8 @@ if(!isset($meta)){
               >
             </p>
             <p class="woocommerce-mini-cart__buttons buttons">
-              <a href="cart.html" class="th-btn wc-forward">View cart</a>
-              <a href="checkout.html" class="th-btn checkout wc-forward"
+              <a href="cart.php" class="th-btn wc-forward">View cart</a>
+              <a href="checkout.php" class="th-btn checkout wc-forward"
                 >Checkout</a
               >
             </p>
@@ -191,12 +191,12 @@ if(!isset($meta)){
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="index.html"><img src="assets/img/logo.svg" alt="Edura" /></a>
+          <a href="index.php"><img src="assets/img/logo.svg" alt="Edura" /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
             <li class="sub-menu">
-              <a href="index.html">Home</a>
+              <a href="index.php">Home</a>
             </li>
             <li class="sub-menu">
               <a href="#">About Us</a>
@@ -205,68 +205,68 @@ if(!isset($meta)){
               <a href="#">Services</a>
               <ul class="sub-menu p-2 pl-0" style="width: 250px">
                 <li class="menu-item-has-children pb-2">
-                  <a href="driving_service.html">Driving Related Services</a>
+                  <a href="driving-service.php">Driving Related Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
                     <li>
-                      <a href="driving_license.html">Learner's License</a>
+                      <a href="driving-license.php">Learner's License</a>
                     </li>
                     <li>
-                      <a href="driving_license.html">Permanent License</a>
+                      <a href="driving-license.php">Permanent License</a>
                     </li>
                     <li>
-                      <a href="cart.html">Driving License Renewal</a>
+                      <a href="cart.php">Driving License Renewal</a>
                     </li>
                     <li>
-                      <a href="checkout.html">Duplicate Driving License</a>
+                      <a href="checkout.php">Duplicate Driving License</a>
                     </li>
                     <li>
-                      <a href="wishlist.html"
+                      <a href="wishlist.php"
                         >Change of Details on Driving License</a
                       >
                     </li>
                     <li>
-                      <a href="wishlist.html">International Driving Permit</a>
+                      <a href="wishlist.php">International Driving Permit</a>
                     </li>
                     <li>
-                      <a href="wishlist.html">Issue NOC of Driving License</a>
+                      <a href="wishlist.php">Issue NOC of Driving License</a>
                     </li>
                     <li>
-                      <a href="wishlist.html">Submit NOC of Driving License</a>
+                      <a href="wishlist.php">Submit NOC of Driving License</a>
                     </li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="vehicle_service.html">Vehicle Related Services</a>
+                  <a href="vehicle_service.php">Vehicle Related Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
                     <li>
-                      <a href="shop.html">Transfer of Vehicle Ownership</a>
+                      <a href="shop.php">Transfer of Vehicle Ownership</a>
                     </li>
                     <li>
-                      <a href="shop-details.html"
+                      <a href="shop-details.php"
                         >Duplicate Registration Certificate</a
                       >
                     </li>
                     <li>
-                      <a href="cart.html"
+                      <a href="cart.php"
                         >Renewal of Registration Certificate</a
                       >
                     </li>
                     <li>
-                      <a href="checkout.html"
+                      <a href="checkout.php"
                         >Change of Address in Registration Certificate</a
                       >
                     </li>
                     <li>
-                      <a href="wishlist.html">Hypothecation Cancellation</a>
+                      <a href="wishlist.php">Hypothecation Cancellation</a>
                     </li>
                     <li>
-                      <a href="wishlist.html">Issue NOC of Vehicle</a>
+                      <a href="wishlist.php">Issue NOC of Vehicle</a>
                     </li>
                     <li>
-                      <a href="wishlist.html">Submit NOC of Vehicle</a>
+                      <a href="wishlist.php">Submit NOC of Vehicle</a>
                     </li>
                     <li>
-                      <a href="wishlist.html">Vehicle Insurence</a>
+                      <a href="wishlist.php">Vehicle Insurence</a>
                     </li>
                   </ul>
                 </li>
@@ -277,7 +277,7 @@ if(!isset($meta)){
             </li>
 
             <li>
-              <a href="contact.html">Contact</a>
+              <a href="contact.php">Contact</a>
             </li>
           </ul>
         </div>
@@ -329,7 +329,7 @@ if(!isset($meta)){
                   </li>
                   <li class="d-none d-lg-inline-block">
                     <i class="far fa-user"></i
-                    ><a href="contact.html">Login / Register</a>
+                    ><a href="contact.php">Login / Register</a>
                   </li>
                 </ul>
               </div>
@@ -344,7 +344,7 @@ if(!isset($meta)){
             <div class="row align-items-center justify-content-between">
               <div class="col-auto">
                 <div class="header-logo">
-                  <a href="index.html"
+                  <a href="index.php"
                     ><img src="assets/img/logo.png" alt="Edura"
                   /></a>
                 </div>
@@ -355,7 +355,7 @@ if(!isset($meta)){
                     <nav class="main-menu d-none d-lg-inline-block">
                       <ul>
                         <li class="sub-menu">
-                          <a href="index.html">Home</a>
+                          <a href="index.php">Home</a>
                         </li>
                         <li class="menu-item-has-children">
                           <a href="#">Services</a>
@@ -364,98 +364,98 @@ if(!isset($meta)){
                             style="width: 250px"
                           >
                             <li class="menu-item-has-children pb-2">
-                              <a href="driving_related_service.html"
+                              <a href="driving_related_service.php"
                                 >Driving Related Services</a
                               >
                               <ul class="sub-menu p-2" style="width: 240px">
                                 <li>
-                                  <a href="driving-license.html"
+                                  <a href="driving-license.php"
                                     >Learner's License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license.html"
+                                  <a href="driving-license.php"
                                     >Permanent License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-renewal.html"
+                                  <a href="driving-license-renewal.php"
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-duplicate.html"
+                                  <a href="driving-license-duplicate.php"
                                     >Duplicate Driving License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="change-of-details-on-driving-license.html"
+                                  <a href="change-of-details-on-driving-license.php"
                                     >Change of Details on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="international-driving-permit.html"
+                                    href="international-driving-permit.php"
                                     >International Driving Permit</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="issue_noc_of_driving_license.html"
+                                  <a href="issue-noc-of-driving-license.php"
                                     >Issue NOC of Driving License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="submit_noc_of_driving_license.html"
+                                  <a href="submit-noc-of-driving-license.php"
                                     >Submit NOC of Driving License</a
                                   >
                                 </li>
                               </ul>
                             </li>
                             <li class="menu-item-has-children">
-                              <a href="vehicle-service.html"
+                              <a href="vehicle-service.php"
                                 >Vehicle Related Services</a
                               >
                               <ul class="sub-menu p-2" style="width: 240px">
                                 <li>
-                                  <a href="transfer-of-vehicle-ownership.html"
+                                  <a href="transfer-of-vehicle-ownership.php"
                                     >Transfer of Vehicle Ownership</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.html"
+                                  <a href="duplicate-registration-certificate.php"
                                     >Duplicate Registration Certificate</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="renewal-of-registration-certificate.html"
+                                    href="renewal-of-registration-certificate.php"
                                     >Renewal of Registration Certificate</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="chanege-of-address-in-registration-certificate.html"
+                                    href="chanege-of-address-in-registration-certificate.php"
                                     >Change of Address in Registration
                                     Certificate</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="hypothecation-cancellation.html"
+                                  <a href="hypothecation-cancellation.php"
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="issue-noc-of-vehicle.html"
+                                  <a href="issue-noc-of-vehicle.php"
                                     >Issue NOC of Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="submit-noc-of-vehicle.html"
+                                  <a href="submit-noc-of-vehicle.php"
                                     >Submit NOC of Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="vehicle-insurence.html"
+                                  <a href="vehicle-insurence.php"
                                     >Vehicle Insurence</a
                                   >
                                 </li>
@@ -464,13 +464,13 @@ if(!isset($meta)){
                           </ul>
                         </li>
                         <li class="sub-menu">
-                          <a href="about.html">About Us</a>
+                          <a href="about.php">About Us</a>
                         </li>
                         
                         
 
                         <li class="sub-menu">
-                          <a href="contact.html">Contact</a>
+                          <a href="contact.php">Contact</a>
                         </li>
 
                         <li
@@ -478,7 +478,7 @@ if(!isset($meta)){
                         >
                           <a
                             
-                            href="booknow.html"
+                            href="booknow.php"
                            
                             >BOOK NOW</a
                           >
@@ -497,7 +497,7 @@ if(!isset($meta)){
                       <button type="button" class="icon-btn searchBoxToggler">
                         <i class="far fa-search"></i>
                       </button>
-                      <a href="wishlist.html" class="icon-btn">
+                      <a href="wishlist.php" class="icon-btn">
                         <i class="far fa-heart"></i>
                         <span class="badge">3</span>
                       </a>
@@ -505,7 +505,7 @@ if(!isset($meta)){
                         <i class="far fa-shopping-cart"></i>
                         <span class="badge">5</span>
                       </button>
-                      <a href="contact.html" class="th-btn ml-25"
+                      <a href="contact.php" class="th-btn ml-25"
                         >Contact Us <i class="fas fa-arrow-right ms-1"></i
                       ></a>
                     </div>
