@@ -462,9 +462,9 @@
           formMessages.addClass("error");
           // Set the message text.
           if (data.responseText !== "") {
-            formMessages.html(data.responseText);
+            formMessages.php(data.responseText);
           } else {
-            formMessages.html(
+            formMessages.php(
               "Oops! An error occured and your message could not be sent."
             );
           }
@@ -1223,10 +1223,10 @@
           $counter.find(".message").css("display", "block");
         } else {
           // Output the result in elements
-          s$(".day").html(days);
-          s$(".hour").html(hours);
-          s$(".minute").html(minutes);
-          s$(".seconds").html(seconds);
+          s$(".day").php(days);
+          s$(".hour").php(hours);
+          s$(".minute").php(minutes);
+          s$(".seconds").php(seconds);
         }
       }, 1000);
     });

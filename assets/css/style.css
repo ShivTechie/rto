@@ -2583,7 +2583,6 @@ textarea.is-invalid {
 }
 
 .title-area {
-  
   position: relative;
   z-index: 2;
 }
@@ -9798,10 +9797,10 @@ ol.wp-block-rss {
 }
 
 .breadcumb-title {
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 600;
   line-height: 1.18;
-  text-transform: uppercase;
+
   color: var(--white-color);
   margin: -0.2em 0 -0.26em 0;
 }

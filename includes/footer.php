@@ -67,7 +67,7 @@
                 <div class="widget footer-widget">
                   <div class="th-widget-about">
                     <div class="about-logo">
-                      <a href="index.html"
+                      <a href="index.php"
                         ><img src="assets/img/logo-white.svg" alt="Edura"
                       /></a>
                     </div>
@@ -101,12 +101,12 @@
                   <h3 class="widget_title">Driving Services</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <li><a href="driving_license.html">Learner's License</a></li>
-                      <li><a href="driving_license.html">Permanent License</a></li>
-                      <li><a href="driving_license_renewal.html">License Renewal</a></li>
-                      <li><a href="driving_license_cod.html">Change Details on License</a></li>
-                      <li><a href="international_driving_permit.html">International Driving Permit</a></li>
-                      <li><a href="driving_license_noc_issue.html">Issue NOC</a></li>
+                      <li><a href="driving_license.php">Learner's License</a></li>
+                      <li><a href="driving_license.php">Permanent License</a></li>
+                      <li><a href="driving_license_renewal.php">License Renewal</a></li>
+                      <li><a href="driving_license_cod.php">Change Details on License</a></li>
+                      <li><a href="international_driving_permit.php">International Driving Permit</a></li>
+                      <li><a href="driving_license_noc_issue.php">Issue NOC</a></li>
                     </ul>
                   </div>
                 </div>
@@ -116,11 +116,11 @@
                   <h3 class="widget_title">Quick Links</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="driving_service.html">Services</a></li>
-                      <li><a href="about.html">About us</a></li>
-                      <li><a href="contact.html">Contact</a></li>
-                      <li><a href="booknow.html">Book now</a></li>
+                      <li><a href="index.php">Home</a></li>
+                      <li><a href="driving_service.php">Services</a></li>
+                      <li><a href="about.php">About us</a></li>
+                      <li><a href="contact.php">Contact</a></li>
+                      <li><a href="booknow.php">Book now</a></li>
                     </ul>
                   </div>
                 </div>
@@ -163,8 +163,8 @@
               <div class="col-md-6 text-end d-none d-md-block">
                 <div class="footer-links">
                   <ul>
-                    <li><a href="about.html">Privacy Policy</a></li>
-                    <li><a href="about.html">Terms & Condition</a></li>
+                    <li><a href="about.php">Privacy Policy</a></li>
+                    <li><a href="about.php">Terms & Condition</a></li>
                   </ul>
                 </div>
               </div>

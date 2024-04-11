@@ -613,3 +613,11 @@ input[type="submit"]:hover {
 .booking-component input {
   width: 20px;
 }
+.breadcumb-title {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.18;
+  text-transform: none;
+  color: var(--white-color);
+  margin: -0.2em 0 -0.26em 0;
+}

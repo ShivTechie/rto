@@ -32,13 +32,13 @@ $(document).ready(function(){
             const keys = Object.keys(item);
             options = options + '<option value="' +keys + '">' + item[keys] + '</option>"';
         })
-        $("#service-select").html(options)
+        $("#service-select").php(options)
     })
     $('.bookConfirm').on("submit", function(e) {
         e.preventDefault();
         let selectedService = $('#service-select').val();
         console.log(selectedService)
-        window.location.href = selectedService+".html";
+        window.location.href = selectedService+".php";
     //   var selectedRTO = $('#rto-select').val();
     //   // Depending on the selected RTO, service type, and service, redirect the user
     //   // You can use window.location.href to redirect the user to the appropriate page

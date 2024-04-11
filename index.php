@@ -50,42 +50,42 @@ include('includes/header.php');
                                 <div class="service-card-text" >
                                   <ul class="sub-menu p-2" style="width: 250px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
                                     <li class="ccc">
-                                      <a href="driving_service.html"
+                                      <a href="driving_service.php"
                                         >Learner's License</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="shop-details.html"
+                                      <a href="shop-details.php"
                                         >Permanent License</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="cart.html"
+                                      <a href="cart.php"
                                         >Driving License Renewal</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="checkout.html"
+                                      <a href="checkout.php"
                                         >Duplicate Driving License</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >Change of Details on Driving License</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >International Driving Permit</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >Issue NOC of Driving License</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >Submit NOC of Driving License</a
                                       >
                                     </li>
@@ -101,43 +101,43 @@ include('includes/header.php');
                                 <div class="service-card-text">
                                   <ul class="sub-menu p-2" style="width: 250px">
                                     <li>
-                                      <a href="shop.html"
+                                      <a href="shop.php"
                                         >Transfer of Vehicle Ownership</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="shop-details.html"
+                                      <a href="shop-details.php"
                                         >Duplicate Registration Certificate</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="cart.html"
+                                      <a href="cart.php"
                                         >Renewal of Registration Certificate</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="checkout.html"
+                                      <a href="checkout.php"
                                         >Change of Address in Registration
                                         Certificate</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >Hypothecation Cancellation</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >Issue NOC of Vehicle</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html"
+                                      <a href="wishlist.php"
                                         >Submit NOC of Vehicle</a
                                       >
                                     </li>
                                     <li>
-                                      <a href="wishlist.html">Vehicle Insurence</a>
+                                      <a href="wishlist.php">Vehicle Insurence</a>
                                     </li>
                                   </ul>
                                 </div>
@@ -170,38 +170,38 @@ include('includes/header.php');
                         class="fas fa-chevron-down m-2"
                       ></i
                     ></strong>
-                    <!-- <strong><a href="driving_service.html">Driving Related Services</a></strong> -->
+                    <!-- <strong><a href="driving_service.php">Driving Related Services</a></strong> -->
                     <ul
                       class="sub-menu p-2 submenu-hidden"
                       style="width: 240px"
                     >
                       <li>
-                        <a href="driving_service.html">Learner's License</a>
+                        <a href="driving_service.php">Learner's License</a>
                       </li>
                       <li>
-                        <a href="shop-details.html">Permanent License</a>
+                        <a href="shop-details.php">Permanent License</a>
                       </li>
-                      <li><a href="cart.html">Driving License Renewal</a></li>
+                      <li><a href="cart.php">Driving License Renewal</a></li>
                       <li>
-                        <a href="checkout.html">Duplicate Driving License</a>
+                        <a href="checkout.php">Duplicate Driving License</a>
                       </li>
                       <li>
-                        <a href="wishlist.html"
+                        <a href="wishlist.php"
                           >Change of Details on Driving License</a
                         >
                       </li>
                       <li>
-                        <a href="wishlist.html"
+                        <a href="wishlist.php"
                           >International Driving Permit</a
                         >
                       </li>
                       <li>
-                        <a href="wishlist.html"
+                        <a href="wishlist.php"
                           >Issue NOC of Driving License</a
                         >
                       </li>
                       <li>
-                        <a href="wishlist.html"
+                        <a href="wishlist.php"
                           >Submit NOC of Driving License</a
                         >
                       </li>
@@ -213,36 +213,36 @@ include('includes/header.php');
                         class="fas fa-chevron-down m-2"
                       ></i
                     ></strong>
-                    <!-- <strong><a href="vehicle_service.html">Vehicle Related Services</a></strong> -->
+                    <!-- <strong><a href="vehicle_service.php">Vehicle Related Services</a></strong> -->
                     <ul class="sub-menu p-2" style="width: 240px">
                       <li>
-                        <a href="shop.html">Transfer of Vehicle Ownership</a>
+                        <a href="shop.php">Transfer of Vehicle Ownership</a>
                       </li>
                       <li>
-                        <a href="shop-details.html"
+                        <a href="shop-details.php"
                           >Duplicate Registration Certificate</a
                         >
                       </li>
                       <li>
-                        <a href="cart.html"
+                        <a href="cart.php"
                           >Renewal of Registration Certificate</a
                         >
                       </li>
                       <li>
-                        <a href="checkout.html"
+                        <a href="checkout.php"
                           >Change of Address in Registration Certificate</a
                         >
                       </li>
                       <li>
-                        <a href="wishlist.html">Hypothecation Cancellation</a>
+                        <a href="wishlist.php">Hypothecation Cancellation</a>
                       </li>
                       <li>
-                        <a href="wishlist.html">Issue NOC of Vehicle</a>
+                        <a href="wishlist.php">Issue NOC of Vehicle</a>
                       </li>
                       <li>
-                        <a href="wishlist.html">Submit NOC of Vehicle</a>
+                        <a href="wishlist.php">Submit NOC of Vehicle</a>
                       </li>
-                      <li><a href="wishlist.html">Vehicle Insurance</a></li>
+                      <li><a href="wishlist.php">Vehicle Insurance</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -284,7 +284,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\professional.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">PROFESSIONAL</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">PROFESSIONAL</a></h3>
                             <p class="feature-list_text">Precision meets professionalism in our RTO services.</p>
                         </div>
                     </div>
@@ -293,7 +293,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\trustworthy.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">TRUSTWORTHY</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">TRUSTWORTHY</a></h3>
                             <p class="feature-list_text">Your RTO needs handled with unwavering trust. </p>
                             
                         </div>
@@ -303,7 +303,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="https://cdn-icons-png.flaticon.com/512/12513/12513144.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">DOORSTEP SERVICE</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">DOORSTEP SERVICE</a></h3>
                             <p class="feature-list_text">RTO solutions, delivered to your door for ultimate convenience. </p>
                             
                         </div>
@@ -313,7 +313,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                                 <img src="assets\img\HomePageIcons\effortless.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">EFFORTLESS</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">EFFORTLESS</a></h3>
                             <p class="feature-list_text"> Effortlessly streamline your RTO tasks with us.</p>
                            
                         </div>
@@ -323,7 +323,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="assets/img/HomePageIcons/fast-delivery.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">QUICK</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">QUICK</a></h3>
                             <p class="feature-list_text">Swift solutions for your RTO requirements.</p>
                            
                         </div>
@@ -333,7 +333,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\timely-removebg-preview.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">TIMELY</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">TIMELY</a></h3>
                             <p class="feature-list_text">Always on time, every time, with our RTO assistance.</p>
                            
                         </div>
@@ -343,7 +343,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\hasselfree.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">HASSELFREE</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">HASSELFREE</a></h3>
                             <p class="feature-list_text">Say goodbye to RTO hassles with our seamless service.</p>
                            
                         </div>
@@ -353,7 +353,7 @@ Why Choose Us
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\simple-stars-sparkle-icon-png.webp" alt="no">
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.html">SIMPLE</a></h3>
+                            <h3 class="feature-list_title"><a href="course-details.php">SIMPLE</a></h3>
                             <p class="feature-list_text">Simplifying RTO processes for your ease.</p>
                            
                         </div>
