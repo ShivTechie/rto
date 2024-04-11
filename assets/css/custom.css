@@ -613,11 +613,34 @@ input[type="submit"]:hover {
 .booking-component input {
   width: 20px;
 }
-.breadcumb-title {
-  font-size: 40px;
-  font-weight: 600;
-  line-height: 1.18;
-  text-transform: none;
-  color: var(--white-color);
-  margin: -0.2em 0 -0.26em 0;
+
+.footerBottom{
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .footerBottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1111;
+    background: #fff;
+    padding: 3px;
+    width: 100%;
+    width: 20%;
+  }
+  .footerBottom a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .footerBottom a span{
+    color: #4a4a4a;
+    font-size: 8px;
+    font-weight: bold;
+  }
 }
