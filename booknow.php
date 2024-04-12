@@ -63,7 +63,7 @@
                           </select>
 
                           <div class="form-btn col-12 mt-20">
-                            <button class="th-btn" type="submit">
+                            <button class="th-btn" >
                               Proceed to next Step<i
                                 class="fas fa-long-arrow-right ms-2"
                               ></i>

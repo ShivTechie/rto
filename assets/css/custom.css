@@ -1,3 +1,27 @@
+:root {
+  --theme-color: #303651;
+  --theme-color2: #f20f10;
+  --title-color: #0f2239;
+  --body-color: #4d5765;
+  --smoke-color: #f3f7fb;
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --light-color: #72849b;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #ecf1f9;
+  --title-font: "Montserrat", sans-serif;
+  --body-font: "Montserrat", sans-serif;
+  --icon-font: "Font Awesome 6 Pro";
+  --main-container: 1380px;
+  --container-gutters: 24px;
+  --section-space: 120px;
+  --section-space-mobile: 80px;
+  --section-title-space: 70px;
+  --ripple-ani-duration: 5s;
+}
+
 .header-logo {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -614,12 +638,11 @@ input[type="submit"]:hover {
 .booking-component input {
   width: 20px;
 }
-
-.footerBottom{
+.footerBottom {
   display: none;
 }
-@media only screen and (max-width: 600px) {
-  .footerBottom{
+@media only screen and (max-width: 700px) {
+  .footerBottom {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -630,16 +653,21 @@ input[type="submit"]:hover {
     background: #fff;
     padding: 3px;
     width: 100%;
-    width: 20%;
   }
-  .footerBottom a{
+  .footerBottom a {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
+    width: 20%;
+    padding: 3px 0;
+    color: #5c5c5c;
   }
-  .footerBottom a span{
+  .footerBottom a i {
+    font-size: 27px;
+  }
+  .footerBottom a span {
     color: #4a4a4a;
     font-size: 8px;
     font-weight: bold;
@@ -669,4 +697,11 @@ input[type="submit"]:hover {
 
 .space-bottom{
   margin-bottom: 10px;
+    line-height: 1;
+    padding-top: 8px;
+  }
+  .scroll-top {
+    right: 10px;
+    bottom: 65px;
+  }
 }
