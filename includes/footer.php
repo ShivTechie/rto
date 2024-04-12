@@ -25,8 +25,8 @@
               </div>
               <div class="media-body">
                 <p class="footer-contact_text">Call us any time:</p>
-                <a href="tel+11234567890" class="footer-contact_link"
-                  >+256 214 203 215</a
+                <a href="tel: +919595856447" class="footer-contact_link"
+                  >+91 9595856447</a
                 >
               </div>
             </div>
@@ -37,8 +37,8 @@
               </div>
               <div class="media-body">
                 <p class="footer-contact_text">Email us 24/7 hours:</p>
-                <a href="mailto:info@edura.com" class="footer-contact_link"
-                  >info@edura.com</a
+                <a href="arvindupadhyay2928@gmail.com" class="footer-contact_link"
+                  >arvindupadhyay2928@gmail.com</a
                 >
               </div>
             </div>
@@ -50,25 +50,25 @@
               <div class="media-body">
                 <p class="footer-contact_text">Our university location:</p>
                 <a
-                  href="https://www.google.com/maps"
+                  href="https://www.google.com/maps/place/RTO+Services.In+Pune/@18.464614,73.823899,18z/data=!4m6!3m5!1s0x3bc2952dd101962f:0x4bcb1bdf111a5d7!8m2!3d18.4646139!4d73.8238986!16s%2Fg%2F11vk49ff32?hl=en&entry=ttu" target="_blank"
                   class="footer-contact_link"
-                  >147/I, Green Road, Dhaka</a
+                  >01, Tushar Apt, Sinhgad Rd, near Kirti Nagar, Pune.</a
                 >
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="footer-wrap" data-bg-src="assets/img/bg/jiji.png">
+      <div class="footer-wrap feet" data-bg-src="assets/img/bg/jiji.png">
         <div class="widget-area">
           <div class="container">
-            <div class="row justify-content-between">
+            <div class="row justify-content-evenly">
               <div class="col-md-6 col-xxl-3 col-xl-3">
                 <div class="widget footer-widget">
                   <div class="th-widget-about">
                     <div class="about-logo">
                       <a href="index.php"
-                        ><img src="assets/img/logo-white.svg" alt="Edura"
+                        ><img src="assets/img/logo.png" alt="Edura"
                       /></a>
                     </div>
                     <p class="about-text">
@@ -113,6 +113,45 @@
               </div>
               <div class="col-md-6 col-xl-auto">
                 <div class="widget widget_nav_menu footer-widget">
+                  <h3 class="widget_title">Vehicle Services</h3>
+                  <div class="menu-all-pages-container">
+                    <ul class="menu">
+                      <a href="driving_service.php"
+                                        >Learner's License</a>
+                                      
+                                    </li>
+                                    <li>
+                                      <a href="shop-details.php"
+                                        >Permanent License</a
+                                      >
+                                    </li>
+                                    <li>
+                                      <a href="cart.php"
+                                        >Driving License Renewal</a
+                                      >
+                                    </li>
+                                    <li>
+                                      <a href="checkout.php"
+                                        >Duplicate Driving License</a
+                                      >
+                                    </li>
+                                    <li>
+                                      <a href="wishlist.php"
+                                        >Change of Details on Driving License</a
+                                      >
+                                    </li>
+                                    <li>
+                                      <a href="wishlist.php"
+                                        >International Driving Permit</a
+                                      >
+                                    </li>
+                                    
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-xl-auto">
+                <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Quick Links</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
@@ -125,7 +164,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xxl-3 col-xl-3">
+              <!-- <div class="col-md-6 col-xxl-3 col-xl-3">
                 <div class="widget newsletter-widget footer-widget">
                   <h3 class="widget_title">Get in touch!</h3>
                   <p class="footer-text">
@@ -144,19 +183,19 @@
                     </button>
                   </form>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
         <div class="container">
           <div class="copyright-wrap">
             <div class="row justify-content-between align-items-center">
-              <div class="col-md-6">
-                <p class="copyright-text">
+              <div class=" col-md-6">
+                <p class="target">
                   Copyright © 2024
-                  <a href="https://www.touchmediaads.com/index"
+                  <strong><a href="https://www.touchmediaads.com/index"
                     >TouchMedia Ads</a
-                  >
+                  ></strong>
                   All Rights Reserved.
                 </p>
               </div>
@@ -192,12 +231,12 @@
       </svg>
     </div>
     <div class="footerBottom">
-      <a href="https://wa.me/256214203215" class="whatsapp" target="_blank"
+      <a href="https://wa.me/9595856447" class="whatsapp" target="_blank"
         ><i class="fab fa-whatsapp"></i
       >
       <span>Whats app</span>
     </a>
-      <a href="tel:+256214203215" class="phone" target="_blank"
+      <a href="mobile:+919595856447" class="phone" target="_blank"
         ><i data-lucide="phone"></i>
       <span>Call us</span>
       </a>
