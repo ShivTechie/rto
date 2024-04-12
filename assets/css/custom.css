@@ -154,6 +154,13 @@
   border-bottom: none; /* Remove the border from the last list item */
 }
 
+.sub-menu li a {
+ display: flex;
+ justify-content: center;
+  align-items: center;
+ 
+}
+
 .course-single-mid {
   position: relative;
   margin-bottom: var(--blog-space-y, 40px);
@@ -651,8 +658,9 @@ input[type="submit"]:hover {
     left: 0;
     z-index: 1111;
     background: #fff;
-    padding: 3px;
+    padding-top:1px;
     width: 100%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
   .footerBottom a {
     display: flex;
@@ -672,6 +680,77 @@ input[type="submit"]:hover {
     font-size: 8px;
     font-weight: bold;
   }
+  .feature-list_text {
+    display: none;
+ }
+ .feature-list_title_mobile{
+  font-size: 16px;
+  margin-bottom: 15px;
+  margin-top: -0.24em;
+  -webkit-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+
+ }
+ .service-text {
+  display: none;
+}
+.feature-list{
+  padding: 2px 2px 2px 2px;
+  padding-top: 20px;
+  background-color: var(--theme-color);
+  box-shadow: 0px ;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  margin-bottom: 0px;
+}
+
+.course-single-top {
+  
+  margin-bottom: 0px;
+  padding: 0px;
+  border: none;
+  box-shadow: 0px;
+  border-radius: 0px;
+}
+
+.testi-box_img {
+  min-width: 120px;
+  display: flex;
+  justify-content: center;
+}
+
+.testi-box_img img {
+  border-radius: 10px;
+  width: 40%;
+}
+
+.laptop-display{
+  display: none;
+
+}
+
+.testi-box_bottom{
+  display: none;
+}
+
+.contact-form-wrap-booking {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--smoke-color);
+  padding: 20px 15px 10px 15px;
+  margin: 2px auto;
+  width: 80%;
+  max-width: 800px;
+  position: relative;
+  z-index: 9;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 25px;
+}
+
 }
 
 .feet{
@@ -705,3 +784,113 @@ input[type="submit"]:hover {
     bottom: 65px;
   }
 
+.form-btn-1{
+  display: flex;
+  justify-content: start;
+  
+}
+
+.homeimg{
+  margin-top: 20px;
+}
+
+.sub-title-booking{
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--theme-color);
+  font-family: var(--title-font);
+  margin-top: -0.41em;
+  margin-bottom: 22px;
+  display: block;
+}
+
+
+/* body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0; 
+  width: 100%; 
+ } */
+ 
+ 
+ .contact-form-wrap-booking {
+  background-color: var(--smoke-color);
+    width: 90%;
+    max-width: 800px; 
+  position: relative;
+  z-index: 9;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 25px;
+ }
+
+ @media (min-width: 1024px) {
+  .contact-form-wrap-booking {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     padding: 20px 60px 10px 60px;
+     margin: 2px auto; 
+     width: 80%;
+  }
+ }
+ 
+
+ input#session-date {
+  display: inline-block;
+  position: relative;
+}
+
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  background: transparent;
+  bottom: 0;
+  color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: auto;
+}
+input[type="time"]::-webkit-calendar-picker-indicator {
+  background: transparent;
+  bottom: 0;
+  color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: auto;
+}
+
+
+
+input[type="date"]:after {
+  content: "\f073";
+  position: relative;
+  font-family: var(--icon-font);
+  top: 0px;
+  font-weight: 300;
+  position: absolute;
+  right: 25px;
+  top: 15px;
+}
+
+input[type="time"]:after {
+  content: "\f017";
+  position: relative;
+  font-family: var(--icon-font);
+  top: 0px;
+  font-weight: 300;
+  position: absolute;
+  right: 25px;
+  top: 15px;
+}

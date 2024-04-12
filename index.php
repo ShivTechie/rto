@@ -11,7 +11,7 @@ include('includes/header.php');
     
   >
     <div class="th-hero-slide">
-      <div class="th-hero-bg">
+      <div class="th-hero-bg object-fit-fill">
         <img src="assets\img\HomePageIcons\rto service.png" alt="overlay"  />
       </div>
       <div class="container z-index-common text-center">
@@ -21,7 +21,7 @@ include('includes/header.php');
           data-ani-delay="0.2s"
           
         >
-        Hassle Free Door Step RTO Services In Pune
+        Hassle Free Doorstep RTO Services In Pune
         </h1>
 </div>
 
@@ -47,49 +47,50 @@ include('includes/header.php');
                           <div class="card-vehicle col-md-6 col-lg-3 justify" >
                             <div class="service-card style3 " >
                               <div class="service-card-content-1">
-                                <h3 class="box-title">Vehicle related services</h3>
+                                <h3 class="box-title">Driving related services</h3>
                                 <div class="service-card-text" >
                                   <ul class="sub-menu p-2" style="width: 250px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
-                                    <li class="ccc">
-                                      <a href="driving_service.php"
-                                        >Learner's License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="shop-details.php"
-                                        >Permanent License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="cart.php"
-                                        >Driving License Renewal</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="checkout.php"
-                                        >Duplicate Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Change of Details on Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >International Driving Permit</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Issue NOC of Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Submit NOC of Driving License</a
-                                      >
-                                    </li>
+                                  <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details on Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-driving-license.php"
+                                    >Issue NOC of Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-driving-license.php"
+                                    >Submit NOC of Driving License</a
+                                  >
+                                </li>
                                   </ul>
                                 </div>
                               </div>
@@ -98,48 +99,52 @@ include('includes/header.php');
                           <div class="card-vehicle-2 col-md-6 col-lg-3" >
                             <div class="service-card style3" >
                               <div class="service-card-content-2">
-                                <h3 class="box-title" style="text-align: center;"   >Driving related services</h3>
+                                <h3 class="box-title" style="text-align: center;">Vehicle related services</h3>
                                 <div class="service-card-text">
                                   <ul class="sub-menu p-2" style="width: 250px">
-                                    <li>
-                                      <a href="shop.php"
-                                        >Transfer of Vehicle Ownership</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="shop-details.php"
-                                        >Duplicate Registration Certificate</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="cart.php"
-                                        >Renewal of Registration Certificate</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="checkout.php"
-                                        >Change of Address in Registration
-                                        Certificate</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Hypothecation Cancellation</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Issue NOC of Vehicle</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Submit NOC of Vehicle</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php">Vehicle Insurence</a>
-                                    </li>
+                                  <li>
+                                  <a href="transfer-of-vehicle-ownership.php"
+                                    >Transfer of Vehicle Ownership</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="duplicate-registration-certificate.php"
+                                    >Duplicate Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="renewal-of-registration-certificate.php"
+                                    >Renewal of Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="change-of-address-in-registration-certificate.php"
+                                    >Change of Address in Registration
+                                    Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="hypothecation-cancellation.php"
+                                    >Hypothecation Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-vehicle.php"
+                                    >Issue NOC of Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-vehicle.php"
+                                    >Submit NOC of Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="vehicle-insurence.php"
+                                    >Vehicle Insurence</a
+                                  >
+                                </li>
                                   </ul>
                                 </div>
                               </div>
@@ -176,36 +181,47 @@ include('includes/header.php');
                       class="sub-menu p-2 submenu-hidden"
                       style="width: 240px"
                     >
-                      <li>
-                        <a href="driving_service.php">Learner's License</a>
-                      </li>
-                      <li>
-                        <a href="shop-details.php">Permanent License</a>
-                      </li>
-                      <li><a href="cart.php">Driving License Renewal</a></li>
-                      <li>
-                        <a href="checkout.php">Duplicate Driving License</a>
-                      </li>
-                      <li>
-                        <a href="wishlist.php"
-                          >Change of Details on Driving License</a
-                        >
-                      </li>
-                      <li>
-                        <a href="wishlist.php"
-                          >International Driving Permit</a
-                        >
-                      </li>
-                      <li>
-                        <a href="wishlist.php"
-                          >Issue NOC of Driving License</a
-                        >
-                      </li>
-                      <li>
-                        <a href="wishlist.php"
-                          >Submit NOC of Driving License</a
-                        >
-                      </li>
+                    <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details on Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-driving-license.php"
+                                    >Issue NOC of Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-driving-license.php"
+                                    >Submit NOC of Driving License</a
+                                  >
+                                </li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
@@ -291,7 +307,7 @@ include('includes/header.php');
                     >
                       <div class="course-description">
                         <form class="booking-component bookConfirm">
-                          <h2>BOOK NOW</h2>
+                          <h2 class="text-center">BOOK NOW</h2>
                           <p>Please select your RTO:</p>
                           <select id="rto-select" onchange="resetServiceType()">
                             <option value="MH12">MH12 Pune</option>
@@ -358,81 +374,81 @@ Why Choose Us
           <section class="feature-sec mt-5">
             <div class="container">
                 <div class="row gy-4 justify-content-center">
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\professional.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">PROFESSIONAL</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">EXPERTS</a></h3>
                             <p class="feature-list_text">Precision meets professionalism in our RTO services.</p>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\trustworthy.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">TRUSTWORTHY</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">RELIABLE</a></h3>
                             <p class="feature-list_text">Your RTO needs handled with unwavering trust. </p>
                             
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="https://cdn-icons-png.flaticon.com/512/12513/12513144.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">DOORSTEP SERVICE</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">DOORSTEP <span class='service-text'>SERVICE</span></a></h3>
                             <p class="feature-list_text">RTO solutions, delivered to your door for ultimate convenience. </p>
                             
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                                 <img src="assets\img\HomePageIcons\effortless.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">EFFORTLESS</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">EFFORTLESS</a></h3>
                             <p class="feature-list_text"> Effortlessly streamline your RTO tasks with us.</p>
                            
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\fast-delivery.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">QUICK</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">QUICK</a></h3>
                             <p class="feature-list_text">Swift solutions for your RTO requirements.</p>
                            
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\timely-removebg-preview.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">TIMELY</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">TIMELY</a></h3>
                             <p class="feature-list_text">Always on time, every time, with our RTO assistance.</p>
                            
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\hasselfree.png" alt="no"> 
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">HASSELFREE</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">HASSELFREE</a></h3>
                             <p class="feature-list_text">Say goodbye to RTO hassles with our seamless service.</p>
                            
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
                             <div class="feature-list_icon">
                               <img src="assets\img\HomePageIcons\simple-stars-sparkle-icon-png.webp" alt="no">
                             </div>
-                            <h3 class="feature-list_title"><a href="course-details.php">SIMPLE</a></h3>
+                            <h3 class="feature-list_title feature-list_title_mobile"><a href="course-details.php">SIMPLE</a></h3>
                             <p class="feature-list_text">Simplifying RTO processes for your ease.</p>
                            
                         </div>
@@ -521,17 +537,18 @@ what customer say area
         <i class="fa-solid fa-1"></i>
       </div>
       <div class="text-container">
-        <div class="form-btn col-12 inaline">
-        <a href="booknow.php"> <button class="th-btn-1">book now<i class="fas fa-long-arrow-right ms-2"></i></button></a>
+        <div class="form-btn-1 col-12 inaline">
+        <a href="booknow.php"> <button class="th-btn">book now<i class="fas fa-long-arrow-right ms-2"></i></button></a>
                           
          
           <p>OR</p>
       </div>
-      <div class="form-btn col-12 mt-10">
-        <button class="th-btn-1">call us on +91 9595856447 </button>
-    </div>
-        
-        <img src="assets\img\howDoesItWorkIcons\step 1.png" alt="icon" width="150px">
+      <a href="tel:+91 9595856447" class="form-btn-1 col-12 ">
+        <button class="th-btn">call us on +91 9595856447 </button>
+    </a>
+        <div class="homeimg">
+        <img src="assets\img\howDoesItWorkIcons\step 1.png" alt="icon" width="150px" >
+</div>
       </div>
     </div>
     <div class="license-row col-md-3">
@@ -607,7 +624,7 @@ Testimonial Area
       </div>
       <div class="row">
           <div class="col-xl-12">
-              <div class="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false">
+              <div class="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false" >
                   <div class="col-lg-6">
                       <div class="testi-box">
                             <!-- <div class="testi-box-bg-shape">
@@ -619,26 +636,17 @@ Testimonial Area
                               <div class="testi-box_img">
                                   <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avatar" >
                               </div>
+                             <!--  <div class='text-center mobile-display'>
+                                  <h3 class="testi-box_name ">Suresh Rathod</h3>
+                                 
+                              </div> -->
                              
-                              <p class="testi-box_text">“I couldn't be happier with the service provided by the RTO website. It made the whole process of renewing my license seamless and hassle-free. Highly recommended!” </p>
+                              <p class=" ">“I couldn't be happier with the service provided by the RTO website. It made the whole process of renewing my license seamless and hassle-free. Highly recommended!” <br><br> <strong> - Suresh Rathod</strong> </p>
             
                               
                               
                           </div>
-                          <div class="testi-box_bottom">
-                              <div>
-                                  <h3 class="testi-box_name"> Rajesh Kumar</h3>
-                                  
-                              </div>
-                             <!--  <div class="testi-box_review">
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  (4.7)
-                              </div> -->
-                          </div>
+                          
                       </div>
                   </div>
                   <div class="col-lg-6">
@@ -652,22 +660,12 @@ Testimonial Area
                               <div class="testi-box_img">
                               <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avater" >
                               </div>
-                              <p class="testi-box_text">“
-                              I was amazed by how user-friendly the RTO website is. I was able to apply for my vehicle registration without any difficulty. Thank you for such a wonderful hassle free platform”</p>
-                          </div>
-                          <div class="testi-box_bottom">
-                              <div>
-                                  <h3 class="testi-box_name">Priya Patel</h3>
-                                  
-                              </div>
-                            <!--   <div class="testi-box_review">
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  (4.7)
+                              <!-- <div class='text-center mobile-display'>
+                                  <h3 class="testi-box_name ">Priya Patel</h3>
+                                 
                               </div> -->
+                              <p class=" ">“
+                              I was amazed by how user-friendly the RTO website is. I was able to apply for my vehicle registration without any difficulty. Thank you for such a wonderful hassle free platform” <br><br> <strong> - Priya Patel</strong></p>
                           </div>
                       </div>
                   </div>
@@ -682,21 +680,13 @@ Testimonial Area
                               <div class="testi-box_img">
                               <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avater" >
                               </div>
-                              <p class="testi-box_text">“The RTO website saved me so much time and effort. I was able to schedule my driving test online and it was so convenient. Thank you for making things easier for us!”</p>
-                          </div>
-                          <div class="testi-box_bottom">
-                              <div>
-                                  <h3 class="testi-box_name">Anil Sharma</h3>
-                              </div>
-                            <!--   <div class="testi-box_review">
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  (4.7)
+                              <!-- <div class='text-center mobile-display'>
+                                  <h3 class="testi-box_name ">Anil Sharma</h3>
+                                 
                               </div> -->
+                              <p class=" ">“The RTO website saved me so much time and effort. I was able to schedule my driving test online and it was so convenient. Thank you for making things easier for us!”<br><br> <strong> - Anil Sharma</strong></p>
                           </div>
+                         
                       </div>
                   </div>
                   <div class="col-lg-6">
@@ -710,22 +700,13 @@ Testimonial Area
                               <div class="testi-box_img">
                               <img src="assets\img\HomePageIcons\profile.png" width="300px"  alt="Avater" >
                               </div>
-                              <p class="testi-box_text">“I had some doubts regarding the process of obtaining a learner's license, but the customer support given by the RTO website was extremely helpful.”</p>
-                          </div>
-                          <div class="testi-box_bottom">
-                              <div class='text-center'>
+                              <!-- <div class='text-center mobile-display'>
                                   <h3 class="testi-box_name ">Rakesh Shinde</h3>
                                  
-                              </div>
-                              <!-- <div class="testi-box_review">
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  <i class="fa-solid fa-star-sharp"></i>
-                                  (4.7)
                               </div> -->
+                              <p class=" ">“I had some doubts regarding the process of obtaining a learner's license, but the customer support given by the RTO website was extremely helpful.”<br><br> <strong> - Rakesh Sharma</strong></p>
                           </div>
+                          
                       </div>
                   </div>
               </div>
