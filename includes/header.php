@@ -205,69 +205,97 @@ if(!isset($meta)){
               <a href="#">Services</a>
               <ul class="sub-menu p-2 pl-0" style="width: 250px">
                 <li class="menu-item-has-children pb-2">
-                  <a href="driving-service.php">Driving Related Services</a>
+                  <a href="driving-related-service.php">Driving Related Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
-                    <li>
-                      <a href="driving-license.php">Learner's License</a>
-                    </li>
-                    <li>
-                      <a href="driving-license.php">Permanent License</a>
-                    </li>
-                    <li>
-                      <a href="cart.php">Driving License Renewal</a>
-                    </li>
-                    <li>
-                      <a href="checkout.php">Duplicate Driving License</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php"
-                        >Change of Details on Driving License</a
-                      >
-                    </li>
-                    <li>
-                      <a href="wishlist.php">International Driving Permit</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Issue NOC of Driving License</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Submit NOC of Driving License</a>
-                    </li>
+                  <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details on Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-driving-license.php"
+                                    >Issue NOC of Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-driving-license.php"
+                                    >Submit NOC of Driving License</a
+                                  >
+                                </li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="vehicle_service.php">Vehicle Related Services</a>
+                  <a href="vehicle-service.php">Vehicle Related Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
-                    <li>
-                      <a href="shop.php">Transfer of Vehicle Ownership</a>
-                    </li>
-                    <li>
-                      <a href="shop-details.php"
-                        >Duplicate Registration Certificate</a
-                      >
-                    </li>
-                    <li>
-                      <a href="cart.php"
-                        >Renewal of Registration Certificate</a
-                      >
-                    </li>
-                    <li>
-                      <a href="checkout.php"
-                        >Change of Address in Registration Certificate</a
-                      >
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Hypothecation Cancellation</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Issue NOC of Vehicle</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Submit NOC of Vehicle</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Vehicle Insurence</a>
-                    </li>
+                  <li>
+                                  <a href="transfer-of-vehicle-ownership.php"
+                                    >Transfer of Vehicle Ownership</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="duplicate-registration-certificate.php"
+                                    >Duplicate Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="renewal-of-registration-certificate.php"
+                                    >Renewal of Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="change-of-address-in-registration-certificate.php"
+                                    >Change of Address in Registration
+                                    Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="hypothecation-cancellation.php"
+                                    >Hypothecation Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-vehicle.php"
+                                    >Issue NOC of Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-vehicle.php"
+                                    >Submit NOC of Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="vehicle-insurence.php"
+                                    >Vehicle Insurence</a
+                                  >
+                                </li>
                   </ul>
                 </li>
               </ul>
@@ -364,7 +392,7 @@ if(!isset($meta)){
                             style="width: 250px"
                           >
                             <li class="menu-item-has-children pb-2">
-                              <a href="driving_related_service.php"
+                              <a href="driving-related-service.php"
                                 >Driving Related Services</a
                               >
                               <ul class="sub-menu p-2" style="width: 240px">
@@ -535,7 +563,7 @@ function breadCrum($title, $parent=array()){
                 <h1 class="breadcumb-title"><?= $title; ?></h1>
                 <ul class="breadcumb-menu">
                     <li>
-                        <a href="/">
+                        <a href="index.php">
                             <i class="fas fa-home"></i> 
                         </a>
                     </li>
