@@ -23431,7 +23431,7 @@ span.select2-selection.select2-selection--single:focus {
 /*------------------- 4.00. Faq -------------------*/
 /* Faq 1 ---------------------------------- */
 .accordion-card {
-  margin-bottom: 25px;
+  margin-bottom: 8px;
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
   box-shadow: 0px 5px 15px 0px rgba(42, 77, 113, 0.06);
@@ -23442,8 +23442,8 @@ span.select2-selection.select2-selection--single:focus {
   font-weight: 500;
   font-family: var(--title-font);
   border: 0;
-  color: var(--title-color);
-  background-color: var(--white-color);
+  color: var(--white-color);
+  background-color: var(--title-color);
   border-radius: 5px;
   padding: 15px 60px 15px 25px;
   min-height: 55px;
@@ -23456,7 +23456,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .accordion-card .accordion-button:after {
-  content: "\f070";
+  content: "\f0d7";
   width: 55px;
   height: 55px;
   height: 100%;
@@ -23494,7 +23494,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .accordion-card .accordion-button:not(.collapsed):after {
-  content: "\f06e";
+  content: "\f0d8";
   color: var(--white-color);
 }
 

@@ -205,7 +205,7 @@ if(!isset($meta)){
               <a href="#">Services</a>
               <ul class="sub-menu p-2 pl-0" style="width: 250px">
                 <li class="menu-item-has-children pb-2">
-                  <a href="driving-service.php">Driving Related Services</a>
+                  <a href="driving-related-service.php">Driving Related Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
                   <li>
                                   <a href="driving-license.php"
@@ -251,7 +251,7 @@ if(!isset($meta)){
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="vehicle_service.php">Vehicle Related Services</a>
+                  <a href="vehicle-service.php">Vehicle Related Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
                   <li>
                                   <a href="transfer-of-vehicle-ownership.php"
@@ -392,7 +392,7 @@ if(!isset($meta)){
                             style="width: 250px"
                           >
                             <li class="menu-item-has-children pb-2">
-                              <a href="driving_related_service.php"
+                              <a href="driving-related-service.php"
                                 >Driving Related Services</a
                               >
                               <ul class="sub-menu p-2" style="width: 240px">
@@ -563,7 +563,7 @@ function breadCrum($title, $parent=array()){
                 <h1 class="breadcumb-title"><?= $title; ?></h1>
                 <ul class="breadcumb-menu">
                     <li>
-                        <a href="/">
+                        <a href="index.php">
                             <i class="fas fa-home"></i> 
                         </a>
                     </li>
