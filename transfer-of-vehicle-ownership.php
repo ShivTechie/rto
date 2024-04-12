@@ -181,7 +181,9 @@
                   <hr />
                   <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
                   <hr />
+                  <a href="service_booking.php">
                   <button>GET THIS JOB DONE!</button>
+                  </a>
                 </div>
                 <div class="driving-license-renewal">
                   <h3 class="widget_title text-center">
@@ -196,7 +198,9 @@
                   <hr />
                   <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
                   <hr />
+                  <a href="service_booking.php">
                   <button>GET THIS JOB DONE!</button>
+                  </a>
                 </div>
                 <h3 class="widget_title">Other Services</h3>
                 <div class="info-list">

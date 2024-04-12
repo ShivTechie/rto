@@ -38,7 +38,7 @@
               <div class="media-body">
                 <p class="footer-contact_text">Email us 24/7 hours:</p>
                 <a href="arvindupadhyay2928@gmail.com" class="footer-contact_link"
-                  >arvindupadhyay2928@gmail.com</a
+                  >arvindupadhyay2928 @gmail.com</a
                 >
               </div>
             </div>
@@ -48,7 +48,7 @@
                 <i class="fal fa-location-dot"></i>
               </div>
               <div class="media-body">
-                <p class="footer-contact_text">Our university location:</p>
+                <p class="footer-contact_text">Our location:</p>
                 <a
                   href="https://www.google.com/maps/place/RTO+Services.In+Pune/@18.464614,73.823899,18z/data=!4m6!3m5!1s0x3bc2952dd101962f:0x4bcb1bdf111a5d7!8m2!3d18.4646139!4d73.8238986!16s%2Fg%2F11vk49ff32?hl=en&entry=ttu" target="_blank"
                   class="footer-contact_link"
@@ -101,12 +101,39 @@
                   <h3 class="widget_title">Driving Services</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <li><a href="driving_license.php">Learner's License</a></li>
-                      <li><a href="driving_license.php">Permanent License</a></li>
-                      <li><a href="driving_license_renewal.php">License Renewal</a></li>
-                      <li><a href="driving_license_cod.php">Change Details on License</a></li>
-                      <li><a href="international_driving_permit.php">International Driving Permit</a></li>
-                      <li><a href="driving_license_noc_issue.php">Issue NOC</a></li>
+                    <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details </a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Permit</a
+                                  >
+                                </li>
+                                
+                               
                     </ul>
                   </div>
                 </div>
@@ -116,35 +143,40 @@
                   <h3 class="widget_title">Vehicle Services</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <a href="driving_service.php"
-                                        >Learner's License</a>
-                                      
-                                    </li>
-                                    <li>
-                                      <a href="shop-details.php"
-                                        >Permanent License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="cart.php"
-                                        >Driving License Renewal</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="checkout.php"
-                                        >Duplicate Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Change of Details on Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >International Driving Permit</a
-                                      >
-                                    </li>
+                    <li>
+                                  <a href="transfer-of-vehicle-ownership.php"
+                                    >Transfer of Vehicle Ownership</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="duplicate-registration-certificate.php"
+                                    >Duplicate Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="renewal-of-registration-certificate.php"
+                                    >Renewal of Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="change-of-address-in-registration-certificate.php"
+                                    >Change of Address in Registration
+                                    Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="hypothecation-cancellation.php"
+                                    >Hypothecation Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-vehicle.php"
+                                    >Issue NOC of Vehicle</a
+                                  >
+                                </li>
+                             
                                     
                     </ul>
                   </div>
