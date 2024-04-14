@@ -25,7 +25,7 @@
               </div>
               <div class="media-body">
                 <p class="footer-contact_text">Call us any time:</p>
-                <a href="tel: +919595856447" class="footer-contact_link"
+                <a href="tel: 9595856447" class="footer-contact_link"
                   >+91 9595856447</a
                 >
               </div>
@@ -37,7 +37,7 @@
               </div>
               <div class="media-body">
                 <p class="footer-contact_text">Email us 24/7 hours:</p>
-                <a href="arvindupadhyay2928@gmail.com" class="footer-contact_link"
+                <a href="mailto: arvindupadhyay2928@gmail.com" class="footer-contact_link"
                   >arvindupadhyay2928 @gmail.com</a
                 >
               </div>
@@ -59,7 +59,7 @@
           </div>
         </div>
       </div>
-      <div class="footer-wrap feet" data-bg-src="assets/img/bg/jiji.png">
+      <div class="footer-wrap " data-bg-src="assets/img/bg/jiji.png">
         <div class="widget-area">
           <div class="container">
             <div class="row justify-content-evenly">
@@ -68,7 +68,8 @@
                   <div class="th-widget-about">
                     <div class="about-logo">
                       <a href="index.php"
-                        ><img src="assets/img/logo.png" alt="Edura"
+                        >
+                        <div class><img src="assets/img/logo.png" alt="Edura"
                       /></a>
                     </div>
                     <p class="about-text">
@@ -77,21 +78,11 @@
                     </p>
                     <div class="th-social">
                       <h6 class="title text-white">FOLLOW US ON:</h6>
-                      <a href="https://www.facebook.com/"
+                      <a href="https://www.facebook.com/profile.php?id=61556164980287" target="_blank"
                         ><i class="fab fa-facebook-f"></i
                       ></a>
-                      <a href="https://www.twitter.com/"
-                        ><i class="fab fa-twitter"></i
-                      ></a>
-                      <a href="https://www.linkedin.com/"
-                        ><i class="fab fa-linkedin-in"></i
-                      ></a>
-                      <a href="https://www.youtube.com/"
-                        ><i class="fab fa-youtube"></i
-                      ></a>
-                      <a href="https://www.skype.com/"
-                        ><i class="fab fa-skype"></i
-                      ></a>
+                      <a href="https://www.instagram.com/rto_.services/" target="_blank"
+                        ><i class="fa-brands fa-instagram"></i></a>
                     </div>
                   </div>
                 </div>
@@ -188,7 +179,7 @@
                   <div class="menu-all-pages-container">
                     <ul class="menu">
                       <li><a href="index.php">Home</a></li>
-                      <li><a href="driving_service.php">Services</a></li>
+                      <li><a href="driving-related-service.php">Services</a></li>
                       <li><a href="about.php">About us</a></li>
                       <li><a href="contact.php">Contact</a></li>
                       <li><a href="booknow.php">Book now</a></li>
@@ -268,7 +259,7 @@
       >
       <span>Whats app</span>
     </a>
-      <a href="mobile:+919595856447" class="phone" target="_blank"
+      <a href="tel:+919595856447" class="phone" target="_blank"
         ><i data-lucide="phone"></i>
       <span>Call us</span>
       </a>
@@ -283,7 +274,7 @@
       <i data-lucide="calendar-check"></i>
       <span>Book Now</span>
       </a>
-      <a href="https://www.facebook.com/" class="facebook" target="_blank"
+      <a href="https://www.facebook.com/profile.php?id=61556164980287" class="facebook" target="_blank"
         ><i  data-lucide="facebook"></i>
       <span>Follow</span>
       </a>

@@ -191,7 +191,7 @@ if(!isset($meta)){
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="index.php"><img src="assets/img/logo.svg" alt="Edura" /></a>
+          <a href="index.php"><img src="assets/img/logo.png" alt="RTO" /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
@@ -199,13 +199,17 @@ if(!isset($meta)){
               <a href="index.php">Home</a>
             </li>
             <li class="sub-menu">
-              <a href="#">About Us</a>
+              <a href="about.php">About Us</a>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu p-2 pl-0" style="width: 250px">
                 <li class="menu-item-has-children pb-2">
+<<<<<<< HEAD
+                  <a href="driving-related-service.php">Driving Services</a>
+=======
                   <a href="driving-related-service.php">Driving Related Services</a>
+>>>>>>> 1db8c0c847dae8169297a157b58ae5c42f0dd390
                   <ul class="sub-menu p-2" style="width: 240px">
                   <li>
                                   <a href="driving-license.php"
@@ -251,7 +255,11 @@ if(!isset($meta)){
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
+<<<<<<< HEAD
+                  <a href="vehicle-service.php">Vehicle Services</a>
+=======
                   <a href="vehicle-service.php">Vehicle Related Services</a>
+>>>>>>> 1db8c0c847dae8169297a157b58ae5c42f0dd390
                   <ul class="sub-menu p-2" style="width: 240px">
                   <li>
                                   <a href="transfer-of-vehicle-ownership.php"
@@ -300,15 +308,30 @@ if(!isset($meta)){
                 </li>
               </ul>
             </li>
-            <li class="sub-menu">
-              <a href="#">Gallary</a>
-            </li>
-
+            
             <li>
               <a href="contact.php">Contact</a>
             </li>
+            <li class="sub-menu">
+              <a href="booknow.php">Book Now</a>
+            </li>
           </ul>
         </div>
+        <div class="col-auto">
+              <div class="header-links header-right">
+                <ul>
+                  <li>
+                    <div class="header-social">
+                      <a href="https://www.facebook.com/" target="_blank"
+                        ><i class="fa-brands fa-facebook fa-xl"></i></a>
+                      <a href="https://www.instagram.com/rto_.services/" target="_blank"
+                        ><i class="fa-brands fa-instagram fa-xl"></i></a>
+                    </div>
+                  </li>
+                  
+                </ul>
+              </div>
+            </div>
       </div>
     </div>
     <header class="th-header header-layout1">
@@ -322,13 +345,13 @@ if(!isset($meta)){
                 <ul>
                   <li>
                     <i class="far fa-phone"></i
-                    ><a href="tel:+11156456825">+91 9595856447</a>
+                    ><a href="tel:9595856447">+91 9595856447</a>
                   </li>
                   <li class="d-none d-xl-inline-block">
                     <i class="far fa-envelope"></i
-                    ><a href="mailto:info@Edura.com">arvindupadhyay2928@gmail.com</a>
+                    ><a href="mailto:arvindupadhyay2928@gmail.com">arvindupadhyay2928@gmail.com</a>
                   </li>
-                  <li><i class="far fa-clock"></i>Mon - Sat: 8:00 - 15:00</li>
+                  <li><i class="far fa-clock"></i>Mon - Sat: 9:00 AM - 6:00 PM</li>
                 </ul>
               </div>
             </div>
@@ -338,27 +361,13 @@ if(!isset($meta)){
                   <li>
                     <div class="header-social">
                       <span class="social-title">Follow Us:</span>
-                      <a href="https://www.facebook.com/"
-                        ><i class="fab fa-facebook-f"></i
-                      ></a>
-                      <a href="https://www.twitter.com/"
-                        ><i class="fab fa-twitter"></i
-                      ></a>
-                      <a href="https://www.linkedin.com/"
-                        ><i class="fab fa-linkedin-in"></i
-                      ></a>
-                      <a href="https://www.youtube.com/"
-                        ><i class="fab fa-youtube"></i
-                      ></a>
-                      <a href="https://www.instagram.com/"
-                        ><i class="fab fa-skype"></i
-                      ></a>
+                      <a href="https://www.facebook.com/" target="_blank"
+                        ><i class="fa-brands fa-facebook-f"></i></a>
+                      <a href="https://www.instagram.com/rto_.services/" target="_blank"
+                        ><i class="fa-brands fa-instagram" style="color: #ffffff;"></i></a>
                     </div>
                   </li>
-                  <li class="d-none d-lg-inline-block">
-                    <i class="far fa-user"></i
-                    ><a href="contact.php">Login / Register</a>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
@@ -370,7 +379,7 @@ if(!isset($meta)){
         <div class="menu-area">
           <div class="container">
             <div class="row align-items-center justify-content-between">
-              <div class="col-auto">
+              <div class="col-6">
                 <div class="header-logo">
                   <a href="index.php"
                     ><img src="assets/img/logo.png" alt="Edura"
