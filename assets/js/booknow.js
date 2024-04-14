@@ -25,20 +25,52 @@ const services = {
   }
   
 $(document).ready(function(){
-    $('input[name="service-type"]').change(function() {
-        let serviceType = $(this).val();
-        let options = '<option value="">Select Service Type</option>';
-        $.each(services[serviceType], function(index, item){
-            const keys = Object.keys(item);
-            options = options + '<option value="' +keys + '">' + item[keys] + '</option>"';
-        })
-        $("#service-select").html(options)
-    })
+  $('#driving-service').prop('checked', true);
+  populateServices('driving');
+
+  $('input[name="service-type"]').change(function() {
+      let serviceType = $(this).val();
+      populateServices(serviceType);
+  })
+
     $('.bookConfirm').on("submit", function(e) {
         e.preventDefault();
         let selectedService = $('#service-select').val();
         console.log(selectedService )
         window.location.href = selectedService+ ".php";
     });
+    function populateServices(serviceType) {
+      let options = '<option value="">Select Service Type</option>';
+      $.each(services[serviceType], function(index, item){
+          const keys = Object.keys(item);
+          options = options + '<option value="' +keys + '">' + item[keys] + '</option>"';
+      })
+      $("#service-select").html(options)
+  }
+
+  $('#vehicleServices').hide();
+  $('#drivingServices').show();
+
+  // Add click event listener to driving services button
+  $('.buttons1 .button1:eq(0)').click(function() {
+    // Hide vehicle services and show driving services when driving services button is clicked
+    $('#vehicleServices').hide();
+    $('#drivingServices').show();
+    // Add active class to driving services button and remove from vehicle services button
+    $(this).addClass('active1');
+    $('.buttons1 .button1:eq(1)').removeClass('active1');
+  });
+
+  // Add click event listener to vehicle services button
+  $('.buttons1 .button1:eq(1)').click(function() {
+    // Hide driving services and show vehicle services when vehicle services button is clicked
+    $('#drivingServices').hide();
+    $('#vehicleServices').show();
+    // Add active class to vehicle services button and remove from driving services button
+    $(this).addClass('active1');
+    $('.buttons1 .button1:eq(0)').removeClass('active1');
+  });
+
+  
   });
   

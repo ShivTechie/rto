@@ -8,13 +8,123 @@ include('includes/header.php');
     data-fade="true"
     data-slide-show="1"
     data-md-slide-show="1"
-    
   >
     <div class="th-hero-slide">
-      <div class="th-hero-bg object-fit-fill">
-        <img src="assets\img\HomePageIcons\rto service.png" alt="overlay"  />
+      <div class="container12">
+          <h1>Best RTO Service in PUNE</h1>
+          <div class="buttons1">
+              <button class="button1 active1"><strong>Driving services</strong></button>
+              <button class="button1"><strong>Vehicle services</strong></button>
+          </div>
+          <div id="drivingServices" class="content1">
+              <div class="entry1">
+                  <div class="service-card-text" >
+                                    <ul class="sub-menu p-2" style="">
+                                    <li>
+                                    <a href="driving-license.php"
+                                      >Learner's License</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="driving-license.php"
+                                      >Permanent License</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="driving-license-renewal.php"
+                                      >Driving License Renewal</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="driving-license-duplicate.php"
+                                      >Duplicate Driving License</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="change-of-details-on-driving-license.php"
+                                      >Change of Details on Driving License</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="international-driving-permit.php"
+                                      >International Driving Permit</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="issue-noc-of-driving-license.php"
+                                      >Issue NOC of Driving License</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="submit-noc-of-driving-license.php"
+                                      >Submit NOC of Driving License</a
+                                    >
+                                  </li>
+                                    </ul>
+                                  </div>
+              </div>
+              
+          </div>
+          <div id="vehicleServices" class="content1">
+              <div class="entry1">
+              <div class="service-card-text">
+                                    <ul class="sub-menu p-2" style="">
+                                    <li>
+                                    <a href="transfer-of-vehicle-ownership.php"
+                                      >Transfer of Vehicle Ownership</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="duplicate-registration-certificate.php"
+                                      >Duplicate Registration Certificate</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="renewal-of-registration-certificate.php"
+                                      >Renewal of Registration Certificate</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="change-of-address-in-registration-certificate.php"
+                                      >Change of Address in Registration
+                                      Certificate</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="hypothecation-cancellation.php"
+                                      >Hypothecation Cancellation</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="issue-noc-of-vehicle.php"
+                                      >Issue NOC of Vehicle</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="submit-noc-of-vehicle.php"
+                                      >Submit NOC of Vehicle</a
+                                    >
+                                  </li>
+                                  <li>
+                                    <a href="vehicle-insurence.php"
+                                      >Vehicle Insurence</a
+                                    >
+                                  </li>
+                                    </ul>
+                                  </div>
+              
+          </div>
       </div>
-      <div class="container z-index-common text-center">
+</div>
+      
+
+      <div class="th-hero-bg object-fit-fill">
+        <img src="assets\img\HomePageIcons\Untitled (600 x 600 px).png" alt="overlay"  />
+      </div>
+      <div class="container z-index-common text-center texttodisplay">
         <h1
           class="hero-meta text-white"
           data-ani="slideinup"
@@ -159,11 +269,25 @@ include('includes/header.php');
           </div>
 
           <!-- Small screen -->
-          <div class="col-12 d-lg-none">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+          
+    <!--======== / Hero Section ========-->
+
+    <!-- book now -->
+    <section class="mt-5">
+      <div class="container">
+        <div class="row">
+          <!-- Small screen -->
+          <!-- <div class="col-12 d-lg-none">
             <div class="col-xxl-3 col-lg-4">
               <aside class="sidebar-area">
                 <div class="widget widget_info">
-                  <!-- Your small screen service cards here -->
+                  
                   <div class="col-xxl-3 col-lg-4">
           <aside class="sidebar-area">
             
@@ -176,7 +300,7 @@ include('includes/header.php');
                         class="fas fa-chevron-down m-2"
                       ></i
                     ></strong>
-                    <!-- <strong><a href="driving_service.php">Driving Related Services</a></strong> -->
+                   
                     <ul
                       class="sub-menu p-2 submenu-hidden"
                       style="width: 240px"
@@ -230,7 +354,7 @@ include('includes/header.php');
                         class="fas fa-chevron-down m-2"
                       ></i
                     ></strong>
-                    <!-- <strong><a href="vehicle_service.php">Vehicle Related Services</a></strong> -->
+                    
                     <ul class="sub-menu p-2" style="width: 240px">
                       <li>
                         <a href="shop.php">Transfer of Vehicle Ownership</a>
@@ -270,26 +394,140 @@ include('includes/header.php');
                 </div>
               </aside>
             </div>
-          </div>
+          </div> -->
+         <!--  <style>
+  .col {
+    display: flex;
+  }
+  .sidebar-area {
+    flex: 1;
+  }
+  .widget {
+    margin-bottom: 20px;
+  }
+  .sub-menu {
+    display: none;
+  }
+  .submenu-visible {
+    display: block !important;
+  }
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('.toggle-dropdown').click(function() {
+      $('.sub-menu').removeClass('submenu-visible');
+      $(this).siblings('.sub-menu').addClass('submenu-visible');
+    });
+  });
+</script>
+</head>
+<body>
+  <div class="col">
+    <div class="col-xxl-3 col-lg-4">
+      <aside class="sidebar-area">
+        <div class="widget widget_info">
+          <strong class="toggle-dropdown">Driving Services</strong>
+          <ul class="sub-menu p-2 pl-0"> 
+          <ul
+                      class="sub-menu p-2 submenu-hidden"
+                      style="width: 240px"
+                    >
+                    <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details on Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-driving-license.php"
+                                    >Issue NOC of Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-driving-license.php"
+                                    >Submit NOC of Driving License</a
+                                  >
+                                </li>
+                    </ul>
+          </ul>
         </div>
-      </div>
+      </aside>
+    </div>
+    <div class="col-xxl-3 col-lg-4">
+      <aside class="sidebar-area">
+        <div class="widget widget_info">
+          <strong class="toggle-dropdown">Vehicle Services</strong>
+          <ul class="sub-menu p-2">
+          <li class="menu-item-has-children">
+                    <strong class="toggle-dropdown"
+                      >Vehicle Services<i
+                        class="fas fa-chevron-down m-2"
+                      ></i
+                    ></strong>
+                    
+                    <ul class="sub-menu p-2" style="width: 240px">
+                      <li>
+                        <a href="shop.php">Transfer of Vehicle Ownership</a>
+                      </li>
+                      <li>
+                        <a href="shop-details.php"
+                          >Duplicate Registration Certificate</a
+                        >
+                      </li>
+                      <li>
+                        <a href="cart.php"
+                          >Renewal of Registration Certificate</a
+                        >
+                      </li>
+                      <li>
+                        <a href="checkout.php"
+                          >Change of Address in Registration Certificate</a
+                        >
+                      </li>
+                      <li>
+                        <a href="wishlist.php">Hypothecation Cancellation</a>
+                      </li>
+                      <li>
+                        <a href="wishlist.php">Issue NOC of Vehicle</a>
+                      </li>
+                      <li>
+                        <a href="wishlist.php">Submit NOC of Vehicle</a>
+                      </li>
+                      <li><a href="wishlist.php">Vehicle Insurance</a></li>
+                    </ul>
+                  </li>
+          </ul>
+        </div>
+      </aside>
     </div>
   </div>
-</div>
-            
-
-            
-         <!--  </div>
-          
-        </div>
-      </div>
-    </div> -->
-    <!--======== / Hero Section ========-->
-
-    <!-- book now -->
-    <section class="mt-5">
-      <div class="container">
-        <div class="row">
+</body> --> 
           <div class="">
             <div class="course-single">
               <div class="text-center">
@@ -313,6 +551,7 @@ include('includes/header.php');
                             <option value="MH12">MH12 Pune</option>
                             <!-- Add other RTO options here if needed -->
                           </select>
+                          
                           <p class="mt-2 -mb-2">Type of Service:</p>
                           <div class="row-flex my-1">
                             <input
@@ -320,6 +559,7 @@ include('includes/header.php');
                               id="driving-service"
                               name="service-type"
                               value="driving"
+                            
                             />
                             <label for="driving-service" class="my-1 mx-2"
                               >Driving Related Service</label
@@ -558,8 +798,9 @@ what customer say area
       <div class="text-container">
         <h5>
           Our Representative will come to your preferred place and time to collect the documents</h5>
-       
+          <div class="homeimg">
           <img src="assets\img\howDoesItWorkIcons\step 2.png" alt="icon" width="150px">
+          </div>
       </div>
     </div>
     <div class="license-row col-md-3">
@@ -569,8 +810,9 @@ what customer say area
       <div class="text-container">
         <h5>
           Our Representative will come to your preferred place and time to collect the documents</h5>
-       
+          <div class="homeimg">
           <img src="assets\img\howDoesItWorkIcons\step 3.png" alt="icon" width="150px">
+</div>
       </div>
     </div>
     <div class="license-row col-md-4">
@@ -581,8 +823,9 @@ what customer say area
         <h5>
           You get notified about the status of your work
         </h5>
-        
+        <div class="homeimg">
         <img src="assets\img\howDoesItWorkIcons\step 4.png" alt="icon" width="150px">
+</div>
       </div>
     </div>
     <div class="license-row col-md-4">
@@ -591,8 +834,9 @@ what customer say area
       </div>
       <div class="text-container">
         <h5>Finally, Get your documents delivered at your doorstep</h5>
-        
+        <div class="homeimg">
         <img src="assets\img\howDoesItWorkIcons\step 5.png" alt="icon" width="150px">
+</div>
       </div>
     </div>
     <!-- <div class="license-row col-md-4">
@@ -619,7 +863,6 @@ Testimonial Area
   </div>
   <div class="mt-5 container">
       <div class="title-area text-center mb-50">
-          <span class="sub-title mt-2"><i class="fal fa-book me-2"></i> Our Students Testimonials</span>
           <h2 class="sec-title">What our customers say</h2>
       </div>
       <div class="row">
@@ -725,7 +968,7 @@ Counter Area
     class="counter-area-2 bg-theme"
   >
     <div class="row justify-content-between">
-      <div class="col-sm-6 col-xl-3 counter-card-wrap">
+      <div class="col-sm-6 col-xl-4 counter-card-wrap">
         <div class="counter-card">
           <h2 class="counter-card_number">
             <span class="counter-number">3.9</span>k<span class="fw-normal"
@@ -733,11 +976,11 @@ Counter Area
             >
           </h2>
           <p class="counter-card_text">
-            <strong>Number of Customers</strong> Trained
+            <strong>Number of Customers</strong>
           </p>
         </div>
       </div>
-      <div class="col-sm-6 col-xl-3 counter-card-wrap">
+      <div class="col-sm-6 col-xl-4 counter-card-wrap">
         <div class="counter-card">
           <h2 class="counter-card_number">
             <span class="counter-number">15.8</span>k<span class="fw-normal"
@@ -749,7 +992,7 @@ Counter Area
           </p>
         </div>
       </div>
-      <div class="col-sm-6 col-xl-3 counter-card-wrap">
+      <div class="col-sm-6 col-xl-4 counter-card-wrap">
         <div class="counter-card">
           <h2 class="counter-card_number">
             <span class="counter-number">97.5</span>k<span class="fw-normal"
@@ -761,19 +1004,7 @@ Counter Area
           </p>
         </div>
       </div>
-      <div class="col-sm-6 col-xl-3 counter-card-wrap">
-        <div class="counter-card">
-          <h2 class="counter-card_number">
-            <span class="counter-number">100.2</span>k<span
-              class="fw-normal"
-              >+</span
-            >
-          </h2>
-          <p class="counter-card_text">
-            <strong>Community</strong> 
-          </p>
-        </div>
-      </div>
+     
     </div>
   </div>
 </div>
