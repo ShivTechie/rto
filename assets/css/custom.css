@@ -805,7 +805,6 @@ input[type="submit"]:hover {
     bottom: 65px;
   }
 
-
 .form-btn-1{
   display: flex;
   justify-content: start;
@@ -918,6 +917,7 @@ input[type="time"]:after {
   right: 25px;
   top: 15px;
 }
+<<<<<<< HEAD
 
 .header-layout1 .header-top a:hover {
   color: white !important;
@@ -1127,3 +1127,5 @@ input {
   padding-top: 30px;
   padding-bottom: 40px;
 }
+=======
+>>>>>>> 1db8c0c847dae8169297a157b58ae5c42f0dd390
