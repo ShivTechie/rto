@@ -79,15 +79,9 @@
                         </tr>
 
                         <tr>
-                          <td>RTO Forms</td>
+                          <td>RTO Forms (FT)</td>
                           <td>
-                            <ul>
-                              <li><a href="">Form 28</a> - 2 Copies</li>
-                              <li>
-                                <a href="">Form 29</a> and
-                                <a href="">Form 30</a> (If Applicable)
-                              </li>
-                            </ul>
+                            We will provide.
                           </td>
                         </tr>
                         <tr>
@@ -97,10 +91,24 @@
 
                         <tr>
                           <td>
-                            NOC of Bank or Financier (NOC Certificate Issued
-                            Should Be Within 90 Days)
+                            Form 28 & NOC issued in interstate RTO
                           </td>
-                          <td>Original</td>
+                          <td>
+                            Original
+                            <ul>
+                              <li>Form 28 - 2 Copies</li>
+                              <li>NOC - 2 Copies</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            Form 29 & 30 (Only if transfer of ownership )
+                          </td>
+                          <td>
+                            Original
+                            
+                          </td>
                         </tr>
                         <tr>
                           <td>Valid Pollution Certificate (P.U.C)</td>
@@ -156,15 +164,9 @@
                             Report of N.C.R.B., NOC of CP/SP (Only in Case of
                             Vehicle from Other State)
                           </td>
-                          <td>Photocopy</td>
+                          <td>Photocopy (We will provide)</td>
                         </tr>
-                        <tr>
-                          <td>
-                            Sales Tax NOC for Entry Tax (Only if Vehicle is Less
-                            Than 3 Years Old)
-                          </td>
-                          <td>Photocopy</td>
-                        </tr>
+                        
                         <tr>
                           <td>
                             In Case the Vehicle is From Other State, Additional
@@ -234,10 +236,10 @@
               <div class="widget widget_info">
                 <div class="driving-license-renewal mb-3 text-center">
                   <h3 class="widget_title text-center">
-                    Submit NOC of Vehicle <br />(Within State)
+                    Submit NOC of Vehicle <br>(Two Wheeler)
                   </h3>
                   <p class="price-tag">
-                    <del>₹2200</del> <strong>₹2000</strong>
+                    <del>₹9000</del> <strong>₹7000</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
@@ -245,34 +247,28 @@
 
                   <p>Estimated Time Frame: <strong>2-4 Weeks</strong></p>
                   <hr />
-                  <!-- <a href="contact.php" class="contact-button th-btn">
-                    <i class="phone-icon fas fa-phone-alt mr-5"></i>Contact Us
-                    On
-                    <br />
-                    +91 95958 56447
-                  </a> -->
                   <a href="service_booking.php">
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
-                <div class="driving-license-renewal text-center">
-                  <h3 class="widget_title">Submit NOC of Vehicle</h3>
+                <div class="driving-license-renewal mb-3 text-center">
+                  <h3 class="widget_title text-center">
+                    Submit NOC of Vehicle <br>(Four Wheeler)
+                  </h3>
                   <p class="price-tag">
-                    <strong>Ask For Quote</strong>
+                    <del>₹10000</del> <strong>₹9000</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
                   <hr />
+
                   <p>Estimated Time Frame: <strong>2-4 Weeks</strong></p>
                   <hr />
-                  <a href="contact.php" class="contact-button th-btn">
-                    <i class="phone-icon fas fa-phone-alt mr-5"></i>Contact Us
-                    On
-                    <br />
-                    +91 95958 56447
+                  <a href="service_booking.php">
+                  <button>GET THIS JOB DONE!</button>
                   </a>
-                  <!-- <button>GET THIS JOB DONE!</button> -->
                 </div>
+                
                 <h3 class="widget_title">Other Services</h3>
                 <div class="overflow-hidden my-4">
         <div class="container">

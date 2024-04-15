@@ -56,8 +56,12 @@
                           <td>Original</td>
                         </tr>
                         <tr>
-                          <td>RTO Form</td>
-                          <td><a href="">Form 35</a></td>
+                          <td>
+                            Form No. 35 Dully Signed by Bank Manager and
+                            Registered Owner
+                          </td>
+                          <td>Original</td>
+                          
                         </tr>
 
                         <tr>
@@ -78,16 +82,25 @@
                           </td>
                           <td>Original</td>
                         </tr>
-                        <tr>
-                          <td>
-                            Form No. 35 Dully Signed by Bank Manager and
-                            Registered Owner
-                          </td>
-                          <td>Original</td>
-                        </tr>
+                        
                         <tr>
                           <td>New Owner’s Photo</td>
                           <td>1 Passport Size Photograph</td>
+                        </tr>
+                        <tr>
+                          <td>Vehicle FrontSide Photo</td>
+                          <td>Share on whatsapp with our team representative</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            Vehicle Owner's
+                            <ul>
+                              <li>Aadhar Card</li>
+                              <li>PAN Card</li>
+                              <li>Mobile Number</li>
+                            </ul>
+                          </td>
+                          <td>Photocopy</td>
                         </tr>
                       </tbody>
                     </table>
@@ -150,7 +163,7 @@
                     (Two Wheeler)
                   </h3>
                   <p class="price-tag">
-                    <del>₹1900</del> <strong>₹1700</strong>
+                    <del>₹1900</del> <strong>₹1500</strong>
                   </p>
                   <hr />
 
@@ -172,7 +185,7 @@
                     (Four Wheeler)
                   </h3>
                   <p class="price-tag">
-                    <del>₹2100</del> <strong>₹1900</strong>
+                    <del>₹2100</del> <strong>₹1700</strong>
                   </p>
                   <hr />
 

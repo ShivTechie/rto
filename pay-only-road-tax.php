@@ -1,11 +1,12 @@
+
 <?php
   $meta = [
-    "title" => "Transfer of Vehicle Ownership - RTO Service in Pune",
+    "title" => "International Driving Permit - RTO Service in Pune",
     "description" => "Reliable, Timely and Overall RTO Related Work Right From Your Doorstep, So that You Can Spend Your Precious Time More Usefully.",
     "keywords" => "RTO, RTO Services, RTO Work, RTO Jobs, RTO Related Work, RTO Work Done, RTO Work Fast, RTO Work Timely, RTO Work Reliable, RTO Work Simple, RTO Work Hassle Free, RTO Work Overall, RTO Work",
   ];
   include 'includes/header.php';
-  breadCrum("Transfer of Vehicle Ownership")
+  breadCrum("International Driving Permit")
  ?>
     <section class="space-top space-extra2-bottom">
       <div class="container">
@@ -21,20 +22,25 @@
                     aria-labelledby="description-tab"
                   >
                     <div class="course-description">
-                      <h3>Transfer of Vehicle Ownership</h3>
+                      <h3>International Driving Permit</h3>
                       <p>
                         <strong>
-                          Once a vehicle is bought from its previous owner, its
-                          ownership has to be transferred in the name of the
-                          current owner within 14 days in the concerned RTO
-                          where the vehicle is registered.
+                          International Driving Permit will be issued to an
+                          applicant who holds a valid Indian Driving Licence and
+                          who is a resident of India.
                         </strong>
                       </p>
                       <p>
                         <strong>
-                          Transferring the ownership of vehicle is
-                          responsibility of both new and old owner of the
-                          vehicle.
+                          When a Valid Driving Licence holder wants to drive a
+                          vehicle abroad he/she needs to have an International
+                          Driving Permit (IDP) along with the Original Driving
+                          Licence.
+                        </strong>
+                      </p>
+                      <p>
+                        <strong>
+                          International Driving Permit is valid for one year.
                         </strong>
                       </p>
                     </div>
@@ -58,84 +64,42 @@
                       </thead>
                       <tbody>
                         <tr>
-                          <td>Registration Certificate (R.C.)</td>
-                          <td>Original</td>
-                        </tr>
-                        <tr>
-                          <td>Chassis No. Trace (Affix Pencil Print)</td>
-                          <td>5 Copies</td>
-                        </tr>
-                        <tr>
-                          <td>RTO Forms</td>
-                          <td>Form 29 and Form 30 (We will provide)</td>
-                        </tr>
-                        <tr>
-                          <td>Valid Vehicle Insurance</td>
+                          <td>Registration Certificate</td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>
-                            Valid Pollution Under Control Certificate (P.U.C)
-                          </td>
+                          <td>Valid Insurence</td>
                           <td>Photocopy</td>
                         </tr>
-
                         <tr>
-                          <td>
-                            New Owner's
-                            <ul>
-                              <li>Aadhar Card</li>
-                              <li>PAN Card</li>
-                              <li>Mobile Number</li>
-                            </ul>
+                          <td>Valid P.U.C</td>
+                          <td>Photocopy</td>
+                        </tr>
+                        <tr>
+                          <td>Vehicle Owner’s
+                            <ul><li>Aadhar Card</li>
+                        <li>PAN Card</li>
+                    <li>Mobile Number</li></ul>
                           </td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>New Owner’s Photo</td>
-                          <td>1 Passport Size Photograph</td>
-                        </tr>
-                        <tr>
                           <td>
-                            New Owner's Address Proofs:
+                            New Address Proofs:
                             <ul>
                               <li>
                                 Light Bill, PMC Tax Receipt, Index 2 ( Any One
                                 of These)
                               </li>
                               <li>
-                                PAN Card, Aadhar Card, Passport, L.I.C. Policy
+                                Voter’s ID, Aadhar Card, Passport, L.I.C. Policy
                                 ( Any One of These)
                               </li>
                             </ul>
                           </td>
                           <td>Photocopy</td>
                         </tr>
-                        <tr>
-                          <td>In Case Residing in a Rental House:</td>
-                          <td>
-                            <ul>
-                              <li>
-                                Rental Agreement Registered With Sub Registrar
-                              </li>
-                              <li>Police Verification.</li>
-                              <li>Electricity Bill of the Rented Property</li>
-                              
-                            </ul>
-                          </td>
-                        </tr>
-                        <tr>
-                          
-                          <td>Old Owner's
-                            <ul>
-                            <li>Aadhar Card</li>
-                              <li>PAN Card</li>
-                              <li>Mobile Number</li>
-                            </ul>
-                          </td>
-                          <td>Photocopy</td>
-                        </tr>
-                        
+
                       </tbody>
                     </table>
                   </div>
@@ -153,7 +117,16 @@
                       <h6>Please Note</h6>
                       <ul class="content-ul">
                         <li>
-                          Vehicle Owner or New Owner no need to visit RTO.
+                          Driving Licence Holder Will Have to Come to RTO for
+                          Signature Before the RTO Authority.
+                        </li>
+                        
+                        <li>
+                          Address on Driving Licence and Passport Should Be the
+                          Same.
+                        </li>
+                        <li>
+                          Driving license address changes if necessary.
                         </li>
                       </ul>
                     </div>
@@ -161,14 +134,8 @@
                       <div class="m-3">
                         <h6>Reference</h6>
                         <ul class="content-ul">
-                          <li>
-                            The Motor Vehicles Act 1988 (Section 50 of Chapter
-                            IV)
-                          </li>
-                          <li>
-                            The Central Motor Vehicles Rules 1989 (Rule 55, 56,
-                            57)
-                          </li>
+                          <li>The Motor Vehicles Act 1988</li>
+                          <li>The Central Motor Vehicles Rules 1989</li>
                           <li>
                             Official Transport Department Website:
                             <a href="user_manual_link">Follow Link</a>
@@ -184,35 +151,15 @@
           <div class="col-xxl-3 col-lg-4 full-height">
             <aside class="sidebar-area">
               <div class="widget widget_info">
-                <div class="driving-license-renewal mb-3">
-                  <h3 class="widget_title text-center">
-                    Transfer of Vehicle Ownership <br />
-                    (Two Wheeler)
-                  </h3>
-                  <p class="price-tag">
-                    <del>₹1700</del> <strong>₹1500</strong>
-                  </p>
-                  <hr />
-                  <p>Penalty charges may be added if applicable</p>
-                  <hr />
-                  <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
-                  <hr />
-                  <a href="service_booking.php">
-                  <button>GET THIS JOB DONE!</button>
-                  </a>
-                </div>
                 <div class="driving-license-renewal">
-                  <h3 class="widget_title text-center">
-                    Transfer of Vehicle Ownership <br />
-                    (Four Wheeler)
-                  </h3>
+                  <h3 class="widget_title">Driving Licence Renewal</h3>
                   <p class="price-tag">
-                    <del>₹1900</del> <strong>₹1700</strong>
+                    <del>₹3500</del> <strong>₹3000</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
                   <hr />
-                  <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
+                  <p>Estimated Time Frame: <strong>1-3 Days</strong></p>
                   <hr />
                   <a href="service_booking.php">
                   <button>GET THIS JOB DONE!</button>
@@ -357,6 +304,6 @@
         </div>
       </div>
     </section>
-<?php
-include 'includes/footer.php';
+    <?php
+  include 'includes/footer.php';
 ?>

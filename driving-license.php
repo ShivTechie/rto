@@ -461,16 +461,17 @@ breadCrum("Driving License")
                               </li>
                               <li>Police Verification.</li>
                               <li>Electricity Bill of the Rented Property</li>
-                              <li>
-                                Aadhar Card or Election Id With Native Place
-                                Address.
-                              </li>
+                              
                             </ul>
                           </td>
                         </tr>
                         <tr>
                           <td>Applicant's Photo</td>
                           <td>1 Passport Size Photo</td>
+                        </tr>
+                        <tr>
+                          <td>Applicant's Signature</td>
+                          <td>Signature on White Paper</td>
                         </tr>
                       </tbody>
                     </table>

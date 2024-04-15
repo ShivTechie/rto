@@ -64,25 +64,24 @@
                               >(Follow Link)</a
                             >
                           </td>
-                          <td>Photocopy</td>
+                          <td>Photocopy (We will provide)</td>
                         </tr>
                         <tr>
                           <td>RTO Form</td>
-                          <td>Form 26</td>
+                          <td>Form 26 (We will provide)</td>
+                        </tr>
+                        <tr>
+                          <td>RC perticular</td>
+                          <td>We will provide</td>
                         </tr>
                         <tr>
                           <td>Chassis No. Trace (Affix Pencil Print)</td>
-                          <td>5 Copies</td>
+                          <td>5 Copies (Original) </td>
                         </tr>
                         <tr>
                           <td>Valid Vehicle Insurance</td>
                           <td>Photocopy</td>
                         </tr>
-                        <tr>
-                          <td>Valid Insurance</td>
-                          <td>Photocopy</td>
-                        </tr>
-
                         <tr>
                           <td>
                             Valid Pollution Under Control Certificate (P.U.C.)
@@ -92,6 +91,16 @@
                         <tr>
                           <td>Vehicle Owner’s Photo</td>
                           <td>1 Passport Size Photograph</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            Vehicle Owner's
+                            <ul>
+                              <li>Aadhar Card</li>
+                              <li>PAN Card</li>
+                            </ul>
+                          </td>
+                          <td>Photocopy</td>
                         </tr>
                       </tbody>
                     </table>
@@ -113,6 +122,9 @@
                           Vehicle Owner Will Have to Come to RTO for a Signature
                           Before the RTO Authority. (Only in Case of Loss of
                           Original Registration Certificate)
+                        </li>
+                        <li>
+                          Bank NOC required in case of vehicle is Finance.
                         </li>
                       </ul>
                     </div>
@@ -152,7 +164,7 @@
                     (Two Wheeler)
                   </h3>
                   <p class="price-tag">
-                    <del>₹1900</del> <strong>₹1700</strong>
+                    <del>₹1900</del> <strong>₹1600</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
@@ -169,7 +181,7 @@
                     (Four Wheeler)
                   </h3>
                   <p class="price-tag">
-                    <del>₹2200</del> <strong>₹2000</strong>
+                    <del>₹2200</del> <strong>₹1800</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>

@@ -57,7 +57,7 @@
                 <div class="media-body">
                   <p class="contact-feature_label">Hours of Operation</p>
                   <span class="contact-feature_link"
-                    >Monday - Friday: 09:00 - 20:00</span
+                    >Monday - Sunday: 07:00 AM - 09:00 PM</span
                   >
                   <!-- <span class="contact-feature_link"
                     >Sunday & Saturday: 10:30 - 22:00</span

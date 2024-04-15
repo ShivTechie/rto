@@ -74,11 +74,15 @@
                         </tr>
                         <tr>
                           <td>RTO Form</td>
-                          <td><a href="">Form 28</a></td>
+                          <td><a href="">Form 33 (We will provide)</a></td>
                         </tr>
                         <tr>
                           <td>Chassis No. Trace (Affix Pencil Print)</td>
                           <td>5 Copies</td>
+                        </tr>
+                        <tr>
+                          <td>Vehicle FrontSide Photo</td>
+                          <td>Share on whatsapp with our team representative</td>
                         </tr>
                         <tr>
                           <td>Valid Insurance</td>

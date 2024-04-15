@@ -127,7 +127,7 @@ breadCrum("Driving Licence Renewal")
                 <div class="driving-license-renewal">
                   <h3 class="widget_title">Driving Licence Renewal</h3>
                   <p class="price-tag">
-                    <del>₹1700</del> <strong>₹1500</strong>
+                    <del>₹1500</del> <strong>₹1200</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
