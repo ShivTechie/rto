@@ -2583,7 +2583,7 @@ textarea.is-invalid {
 }
 
 .title-area {
-  margin-bottom: calc(var(--section-title-space) - 12px);
+  margin-bottom: calc(var(--section-title-space) - 50px);
   position: relative;
   z-index: 2;
 }
