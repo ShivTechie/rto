@@ -62,7 +62,7 @@ if(!isset($meta)){
       <div class="preloader-inner">
         <span class="loader"></span>
       </div>
-    </div>
+  </div>
     <div class="sidemenu-wrapper d-none d-lg-block">
       <div class="sidemenu-content">
         <button class="closeButton sideMenuCls">
