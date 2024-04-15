@@ -263,7 +263,6 @@
 
   text-align: center;
   font-size: medium;
-
 }
 
 .course-description p {
@@ -672,36 +671,52 @@ input[type="submit"]:hover {
     font-size: 8px;
     font-weight: bold;
   }
+  .course-single-top-forms {
+    display: none;
+  }
+  .title-area img {
+    width: "10px";
+  }
 }
 
-.feet{
+.feet {
   display: grid;
   justify-content: center;
 }
 
-.testi-box_text{
+.testi-box_text {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   border: px solid var(--border-color);
   text-align: justify;
-  
 }
 .text-center {
   text-align: center;
 }
 
-.target a{
-  color: white
+.target a {
+  color: white;
 }
 
-.space-bottom{
+.space-bottom {
   margin-bottom: 10px;
-    line-height: 1;
-    padding-top: 8px;
-  }
-  .scroll-top {
-    right: 10px;
-    bottom: 65px;
-  }
+  line-height: 1;
+  padding-top: 8px;
+}
+.scroll-top {
+  right: 10px;
+  bottom: 65px;
+}
+.forms-image {
+  width: 80px;
+}
+
+.course-single-top-forms {
+  position: relative;
+  margin-bottom: var(--blog-space-y, 40px);
+  padding: var(--blog-space-y, 40px) var(--blog-space-x, 40px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0px 9px 14px #fbfbfb;
+  border-radius: 10px;
 }
