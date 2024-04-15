@@ -191,7 +191,7 @@ if(!isset($meta)){
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="index.php"><img src="assets/img/logo.svg" alt="Edura" /></a>
+          <a href="index.php"><img src="assets/img/logo.png" alt="RTO" /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
@@ -199,88 +199,131 @@ if(!isset($meta)){
               <a href="index.php">Home</a>
             </li>
             <li class="sub-menu">
-              <a href="#">About Us</a>
+              <a href="about.php">About Us</a>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu p-2 pl-0" style="width: 250px">
                 <li class="menu-item-has-children pb-2">
-                  <a href="driving-service.php">Driving Related Services</a>
+                  <a href="driving-related-service.php">Driving Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
-                    <li>
-                      <a href="driving-license.php">Learner's License</a>
-                    </li>
-                    <li>
-                      <a href="driving-license.php">Permanent License</a>
-                    </li>
-                    <li>
-                      <a href="cart.php">Driving License Renewal</a>
-                    </li>
-                    <li>
-                      <a href="checkout.php">Duplicate Driving License</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php"
-                        >Change of Details on Driving License</a
-                      >
-                    </li>
-                    <li>
-                      <a href="wishlist.php">International Driving Permit</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Issue NOC of Driving License</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Submit NOC of Driving License</a>
-                    </li>
+                  <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details on Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-driving-license.php"
+                                    >Issue NOC of Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-driving-license.php"
+                                    >Submit NOC of Driving License</a
+                                  >
+                                </li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="vehicle_service.php">Vehicle Related Services</a>
+                  <a href="vehicle-service.php">Vehicle Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
-                    <li>
-                      <a href="shop.php">Transfer of Vehicle Ownership</a>
-                    </li>
-                    <li>
-                      <a href="shop-details.php"
-                        >Duplicate Registration Certificate</a
-                      >
-                    </li>
-                    <li>
-                      <a href="cart.php"
-                        >Renewal of Registration Certificate</a
-                      >
-                    </li>
-                    <li>
-                      <a href="checkout.php"
-                        >Change of Address in Registration Certificate</a
-                      >
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Hypothecation Cancellation</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Issue NOC of Vehicle</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Submit NOC of Vehicle</a>
-                    </li>
-                    <li>
-                      <a href="wishlist.php">Vehicle Insurence</a>
-                    </li>
+                  <li>
+                                  <a href="transfer-of-vehicle-ownership.php"
+                                    >Transfer of Vehicle Ownership</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="duplicate-registration-certificate.php"
+                                    >Duplicate Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="renewal-of-registration-certificate.php"
+                                    >Renewal of Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="change-of-address-in-registration-certificate.php"
+                                    >Change of Address in Registration
+                                    Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="hypothecation-cancellation.php"
+                                    >Hypothecation Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-vehicle.php"
+                                    >Issue NOC of Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="submit-noc-of-vehicle.php"
+                                    >Submit NOC of Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="vehicle-insurence.php"
+                                    >Vehicle Insurence</a
+                                  >
+                                </li>
                   </ul>
                 </li>
               </ul>
             </li>
-            <li class="sub-menu">
-              <a href="#">Gallary</a>
-            </li>
-
+            
             <li>
               <a href="contact.php">Contact</a>
             </li>
+            <li class="sub-menu">
+              <a href="booknow.php">Book Now</a>
+            </li>
           </ul>
         </div>
+        <div class="col-auto">
+              <div class="header-links header-right">
+                <ul>
+                  <li>
+                    <div class="header-social">
+                      <a href="https://www.facebook.com/" target="_blank"
+                        ><i class="fa-brands fa-facebook fa-xl"></i></a>
+                      <a href="https://www.instagram.com/rto_.services/" target="_blank"
+                        ><i class="fa-brands fa-instagram fa-xl"></i></a>
+                    </div>
+                  </li>
+                  
+                </ul>
+              </div>
+            </div>
       </div>
     </div>
     <header class="th-header header-layout1">
@@ -294,13 +337,13 @@ if(!isset($meta)){
                 <ul>
                   <li>
                     <i class="far fa-phone"></i
-                    ><a href="tel:+11156456825">+91 9595856447</a>
+                    ><a href="tel:9595856447">+91 9595856447</a>
                   </li>
                   <li class="d-none d-xl-inline-block">
                     <i class="far fa-envelope"></i
-                    ><a href="mailto:info@Edura.com">arvindupadhyay2928@gmail.com</a>
+                    ><a href="mailto:arvindupadhyay2928@gmail.com">arvindupadhyay2928@gmail.com</a>
                   </li>
-                  <li><i class="far fa-clock"></i>Mon - Sat: 8:00 - 15:00</li>
+                  <li><i class="far fa-clock"></i>Mon - Sat: 9:00 AM - 6:00 PM</li>
                 </ul>
               </div>
             </div>
@@ -310,27 +353,13 @@ if(!isset($meta)){
                   <li>
                     <div class="header-social">
                       <span class="social-title">Follow Us:</span>
-                      <a href="https://www.facebook.com/"
-                        ><i class="fab fa-facebook-f"></i
-                      ></a>
-                      <a href="https://www.twitter.com/"
-                        ><i class="fab fa-twitter"></i
-                      ></a>
-                      <a href="https://www.linkedin.com/"
-                        ><i class="fab fa-linkedin-in"></i
-                      ></a>
-                      <a href="https://www.youtube.com/"
-                        ><i class="fab fa-youtube"></i
-                      ></a>
-                      <a href="https://www.instagram.com/"
-                        ><i class="fab fa-skype"></i
-                      ></a>
+                      <a href="https://www.facebook.com/" target="_blank"
+                        ><i class="fa-brands fa-facebook-f"></i></a>
+                      <a href="https://www.instagram.com/rto_.services/" target="_blank"
+                        ><i class="fa-brands fa-instagram" style="color: #ffffff;"></i></a>
                     </div>
                   </li>
-                  <li class="d-none d-lg-inline-block">
-                    <i class="far fa-user"></i
-                    ><a href="contact.php">Login / Register</a>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
@@ -342,7 +371,7 @@ if(!isset($meta)){
         <div class="menu-area">
           <div class="container">
             <div class="row align-items-center justify-content-between">
-              <div class="col-auto">
+              <div class="col-6">
                 <div class="header-logo">
                   <a href="index.php"
                     ><img src="assets/img/logo.png" alt="Edura"
@@ -364,7 +393,7 @@ if(!isset($meta)){
                             style="width: 250px"
                           >
                             <li class="menu-item-has-children pb-2">
-                              <a href="driving_related_service.php"
+                              <a href="driving-related-service.php"
                                 >Driving Related Services</a
                               >
                               <ul class="sub-menu p-2" style="width: 240px">
@@ -535,7 +564,7 @@ function breadCrum($title, $parent=array()){
                 <h1 class="breadcumb-title"><?= $title; ?></h1>
                 <ul class="breadcumb-menu">
                     <li>
-                        <a href="/">
+                        <a href="index.php">
                             <i class="fas fa-home"></i> 
                         </a>
                     </li>

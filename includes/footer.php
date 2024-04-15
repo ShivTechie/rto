@@ -25,7 +25,7 @@
               </div>
               <div class="media-body">
                 <p class="footer-contact_text">Call us any time:</p>
-                <a href="tel: +919595856447" class="footer-contact_link"
+                <a href="tel: 9595856447" class="footer-contact_link"
                   >+91 9595856447</a
                 >
               </div>
@@ -37,8 +37,8 @@
               </div>
               <div class="media-body">
                 <p class="footer-contact_text">Email us 24/7 hours:</p>
-                <a href="arvindupadhyay2928@gmail.com" class="footer-contact_link"
-                  >arvindupadhyay2928@gmail.com</a
+                <a href="mailto: arvindupadhyay2928@gmail.com" class="footer-contact_link"
+                  >arvindupadhyay2928 @gmail.com</a
                 >
               </div>
             </div>
@@ -48,7 +48,7 @@
                 <i class="fal fa-location-dot"></i>
               </div>
               <div class="media-body">
-                <p class="footer-contact_text">Our university location:</p>
+                <p class="footer-contact_text">Our location:</p>
                 <a
                   href="https://www.google.com/maps/place/RTO+Services.In+Pune/@18.464614,73.823899,18z/data=!4m6!3m5!1s0x3bc2952dd101962f:0x4bcb1bdf111a5d7!8m2!3d18.4646139!4d73.8238986!16s%2Fg%2F11vk49ff32?hl=en&entry=ttu" target="_blank"
                   class="footer-contact_link"
@@ -59,104 +59,125 @@
           </div>
         </div>
       </div>
-      <div class="footer-wrap feet" data-bg-src="assets/img/bg/jiji.png">
+      <div class="footer-wrap " data-bg-src="assets/img/bg/jiji.png">
         <div class="widget-area">
           <div class="container">
             <div class="row justify-content-evenly">
               <div class="col-md-6 col-xxl-3 col-xl-3">
-                <div class="widget footer-widget">
+                <div class="widget footer-widget ">
                   <div class="th-widget-about">
                     <div class="about-logo">
-                      <a href="index.php"
-                        ><img src="assets/img/logo.png" alt="Edura"
-                      /></a>
-                    </div>
+                      <a href="index.php">
+                        <div class><img src="assets/img/logo.png" alt="Edura"/></a></div>
                     <p class="about-text">
                       Continually optimize backward manufactured products
                       whereas communities negotiate life compelling alignments
                     </p>
                     <div class="th-social">
                       <h6 class="title text-white">FOLLOW US ON:</h6>
-                      <a href="https://www.facebook.com/"
+                      <a href="https://www.facebook.com/profile.php?id=61556164980287" target="_blank"
                         ><i class="fab fa-facebook-f"></i
                       ></a>
-                      <a href="https://www.twitter.com/"
-                        ><i class="fab fa-twitter"></i
-                      ></a>
-                      <a href="https://www.linkedin.com/"
-                        ><i class="fab fa-linkedin-in"></i
-                      ></a>
-                      <a href="https://www.youtube.com/"
-                        ><i class="fab fa-youtube"></i
-                      ></a>
-                      <a href="https://www.skype.com/"
-                        ><i class="fab fa-skype"></i
-                      ></a>
+                      <a href="https://www.instagram.com/rto_.services/" target="_blank"
+                        ><i class="fa-brands fa-instagram"></i></a>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xl-auto">
+            </div>
+              <div class="col-md-6 col-xl-3">
                 <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Driving Services</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <li><a href="driving_license.php">Learner's License</a></li>
-                      <li><a href="driving_license.php">Permanent License</a></li>
-                      <li><a href="driving_license_renewal.php">License Renewal</a></li>
-                      <li><a href="driving_license_cod.php">Change Details on License</a></li>
-                      <li><a href="international_driving_permit.php">International Driving Permit</a></li>
-                      <li><a href="driving_license_noc_issue.php">Issue NOC</a></li>
+                    <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-renewal.php"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details </a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="international-driving-permit.php"
+                                    >International Permit</a
+                                  >
+                                </li>
+                                
+                               
                     </ul>
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xl-auto">
+              <div class="col-md-6 col-xl-3">
                 <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Vehicle Services</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <a href="driving_service.php"
-                                        >Learner's License</a>
-                                      
-                                    </li>
-                                    <li>
-                                      <a href="shop-details.php"
-                                        >Permanent License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="cart.php"
-                                        >Driving License Renewal</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="checkout.php"
-                                        >Duplicate Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >Change of Details on Driving License</a
-                                      >
-                                    </li>
-                                    <li>
-                                      <a href="wishlist.php"
-                                        >International Driving Permit</a
-                                      >
-                                    </li>
+                    <li>
+                                  <a href="transfer-of-vehicle-ownership.php"
+                                    >Transfer of Vehicle Ownership</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="duplicate-registration-certificate.php"
+                                    >Duplicate Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="renewal-of-registration-certificate.php"
+                                    >Renewal of Registration Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a
+                                    href="change-of-address-in-registration-certificate.php"
+                                    >Change of Address in Registration
+                                    Certificate</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="hypothecation-cancellation.php"
+                                    >Hypothecation Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="issue-noc-of-vehicle.php"
+                                    >Issue NOC of Vehicle</a
+                                  >
+                                </li>
+                             
                                     
                     </ul>
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xl-auto">
+              <div class="col-md-6 col-xxl-3 col-xl-3">
                 <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Quick Links</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
                       <li><a href="index.php">Home</a></li>
-                      <li><a href="driving_service.php">Services</a></li>
+                      <li><a href="driving-related-service.php">Services</a></li>
                       <li><a href="about.php">About us</a></li>
                       <li><a href="contact.php">Contact</a></li>
                       <li><a href="booknow.php">Book now</a></li>
@@ -164,26 +185,6 @@
                   </div>
                 </div>
               </div>
-              <!-- <div class="col-md-6 col-xxl-3 col-xl-3">
-                <div class="widget newsletter-widget footer-widget">
-                  <h3 class="widget_title">Get in touch!</h3>
-                  <p class="footer-text">
-                    Subscribe our newsletter to get our latest Update & news
-                  </p>
-                  <form class="newsletter-form form-group">
-                    <input
-                      class="form-control"
-                      type="email"
-                      placeholder="Email Email"
-                      required=""
-                    />
-                    <i class="far fa-envelope"></i>
-                    <button type="submit" class="th-btn style3">
-                      Subscribe Now <i class="far fa-arrow-right ms-1"></i>
-                    </button>
-                  </form>
-                </div>
-              </div> -->
             </div>
           </div>
         </div>
@@ -236,7 +237,7 @@
       >
       <span>Whats app</span>
     </a>
-      <a href="mobile:+919595856447" class="phone" target="_blank"
+      <a href="tel:+919595856447" class="phone" target="_blank"
         ><i data-lucide="phone"></i>
       <span>Call us</span>
       </a>
@@ -251,7 +252,7 @@
       <i data-lucide="calendar-check"></i>
       <span>Book Now</span>
       </a>
-      <a href="https://www.facebook.com/" class="facebook" target="_blank"
+      <a href="https://www.facebook.com/profile.php?id=61556164980287" class="facebook" target="_blank"
         ><i  data-lucide="facebook"></i>
       <span>Follow</span>
       </a>
