@@ -64,14 +64,11 @@
           <div class="container">
             <div class="row justify-content-evenly">
               <div class="col-md-6 col-xxl-3 col-xl-3">
-                <div class="widget footer-widget">
+                <div class="widget footer-widget ">
                   <div class="th-widget-about">
                     <div class="about-logo">
-                      <a href="index.php"
-                        >
-                        <div class><img src="assets/img/logo.png" alt="Edura"
-                      /></a>
-                    </div>
+                      <a href="index.php">
+                        <div class><img src="assets/img/logo.png" alt="Edura"/></a></div>
                     <p class="about-text">
                       Continually optimize backward manufactured products
                       whereas communities negotiate life compelling alignments
@@ -87,7 +84,8 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xl-auto">
+            </div>
+              <div class="col-md-6 col-xl-3">
                 <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Driving Services</h3>
                   <div class="menu-all-pages-container">
@@ -129,7 +127,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xl-auto">
+              <div class="col-md-6 col-xl-3">
                 <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Vehicle Services</h3>
                   <div class="menu-all-pages-container">
@@ -173,7 +171,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-xl-auto">
+              <div class="col-md-6 col-xxl-3 col-xl-3">
                 <div class="widget widget_nav_menu footer-widget">
                   <h3 class="widget_title">Quick Links</h3>
                   <div class="menu-all-pages-container">
@@ -187,26 +185,6 @@
                   </div>
                 </div>
               </div>
-              <!-- <div class="col-md-6 col-xxl-3 col-xl-3">
-                <div class="widget newsletter-widget footer-widget">
-                  <h3 class="widget_title">Get in touch!</h3>
-                  <p class="footer-text">
-                    Subscribe our newsletter to get our latest Update & news
-                  </p>
-                  <form class="newsletter-form form-group">
-                    <input
-                      class="form-control"
-                      type="email"
-                      placeholder="Email Email"
-                      required=""
-                    />
-                    <i class="far fa-envelope"></i>
-                    <button type="submit" class="th-btn style3">
-                      Subscribe Now <i class="far fa-arrow-right ms-1"></i>
-                    </button>
-                  </form>
-                </div>
-              </div> -->
             </div>
           </div>
         </div>
