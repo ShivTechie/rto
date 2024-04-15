@@ -36,6 +36,11 @@
                           for change in the Driving Licence details can be made.
                         </strong>
                       </p>
+                      <p>
+                        <strong>
+                        Out-of-state driving licenses can be converted to the desired Regional Transport Office (RTO) through formal procedures.
+                        </strong>
+                      </p>
                     </div>
                   </div>
                 </div>

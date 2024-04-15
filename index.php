@@ -10,6 +10,10 @@ include('includes/header.php');
     data-md-slide-show="1"
   >
     <div class="th-hero-slide">
+    <div class="text-center">
+                <h3 class="text-danger">Top RTO Services provide hassel free services at your doorstep</h3>
+                <h5 class="text-danger">Pune & PCMC Area</h5>
+              </div>
       <div class="container12">
           <h1>Best RTO Service in PUNE</h1>
           <div class="buttons1">
@@ -51,16 +55,7 @@ include('includes/header.php');
                                       >International Driving Permit</a
                                     >
                                   </li>
-                                  <li>
-                                    <a href="issue-noc-of-driving-license.php"
-                                      >Issue NOC of Driving License</a
-                                    >
-                                  </li>
-                                  <li>
-                                    <a href="submit-noc-of-driving-license.php"
-                                      >Submit NOC of Driving License</a
-                                    >
-                                  </li>
+                                  
                                     </ul>
                                   </div>
               </div>
@@ -191,16 +186,7 @@ include('includes/header.php');
                                     >International Driving Permit</a
                                   >
                                 </li>
-                                <li>
-                                  <a href="issue-noc-of-driving-license.php"
-                                    >Issue NOC of Driving License</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="submit-noc-of-driving-license.php"
-                                    >Submit NOC of Driving License</a
-                                  >
-                                </li>
+                                
                                   </ul>
                                 </div>
                               </div>
@@ -530,10 +516,7 @@ include('includes/header.php');
 </body> --> 
           <div class="">
             <div class="course-single">
-              <div class="text-center">
-                <h3 class="text-danger">RTO Services Now at your Doorstep!</h3>
-                <h5 class="text-danger">Have a Hassle Free RTO Experience.</h5>
-              </div>
+              
               <div class="about-us mb-4">
                 <div class="course-single-top">
                   <div class="tab-content" id="productTabContent">
@@ -549,8 +532,10 @@ include('includes/header.php');
                           <p>Please select your RTO:</p>
                           <select id="rto-select" onchange="resetServiceType()">
                             <option value="MH12">MH12 Pune</option>
+                            <option value="MH12">MH14 Nashik</option>
                             <!-- Add other RTO options here if needed -->
                           </select>
+                          <p>Our services available in Pune RTO & PCMC RTO</p>
                           
                           <p class="mt-2 -mb-2">Type of Service:</p>
                           <div class="row-flex my-1">
@@ -795,9 +780,10 @@ what customer say area
       <div class="icon-container">
         <i class="fa-solid fa-2"></i>
       </div>
-      <div class="text-container">
+      <div class="text-container ">
+        <h4> Collect Documents</h4>
         <h5>
-          Our Representative will come to your preferred place and time to collect the documents</h5>
+        We offer hassle-free RTO services in Pune and nearby areas. Our team will come to your preferred location at your chosen time to securely collect your documents.</h5>
           <div class="homeimg">
           <img src="assets\img\howDoesItWorkIcons\step 2.png" alt="icon" width="150px">
           </div>
@@ -808,8 +794,9 @@ what customer say area
         <i class="fa-solid fa-3"></i>
       </div>
       <div class="text-container">
+      <h4>Paper Verification</h4>
         <h5>
-          Our Representative will come to your preferred place and time to collect the documents</h5>
+        You need not worry; it is your responsibility to verify and check all your documents, and we will inform you accordingly.</h5>
           <div class="homeimg">
           <img src="assets\img\howDoesItWorkIcons\step 3.png" alt="icon" width="150px">
 </div>
@@ -820,8 +807,9 @@ what customer say area
         <i class="fa-solid fa-4"></i>
       </div>
       <div class="text-container">
+      <h4>Paper Submition</h4>
         <h5>
-          You get notified about the status of your work
+        Throughout the online or offline process, you will receive updates on each step, alleviating any stress on your end.
         </h5>
         <div class="homeimg">
         <img src="assets\img\howDoesItWorkIcons\step 4.png" alt="icon" width="150px">
@@ -833,7 +821,7 @@ what customer say area
         <i class="fa-solid fa-5"></i>
       </div>
       <div class="text-container">
-        <h5>Finally, Get your documents delivered at your doorstep</h5>
+        <h5>All documents will be submitted to the RTO on your behalf, and you will be regularly informed about the progress of your work. Ultimately, you will receive your documents conveniently at your doorstep.</h5>
         <div class="homeimg">
         <img src="assets\img\howDoesItWorkIcons\step 5.png" alt="icon" width="150px">
 </div>

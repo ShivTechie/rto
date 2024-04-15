@@ -76,6 +76,10 @@
                           <td>Photocopy</td>
                         </tr>
                         <tr>
+                          <td>Aadhar Card</td>
+                          <td>Photocopy</td>
+                        </tr>
+                        <tr>
                           <td>Driving Licence Holder’s Photo</td>
                           <td>4 Passport Size Photographs</td>
                         </tr>
@@ -99,9 +103,13 @@
                           Driving Licence Holder Will Have to Come to RTO for
                           Signature Before the RTO Authority.
                         </li>
+                        
                         <li>
                           Address on Driving Licence and Passport Should Be the
                           Same.
+                        </li>
+                        <li>
+                          Driving license address changes if necessary.
                         </li>
                       </ul>
                     </div>

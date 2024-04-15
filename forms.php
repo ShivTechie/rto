@@ -22,7 +22,7 @@ breadCrum("Forms")
                     role="tabpanel"
                     aria-labelledby="description-tab"
                   >
-    <div class="overflow-hidden my-5">
+    <div class="overflow-hidden my-3 mb-4">
         <div class="container">
             <div class="row">
                 <div class="">
@@ -360,12 +360,12 @@ breadCrum("Forms")
                     role="tabpanel"
                     aria-labelledby="description-tab"
                   >
-    <div class="overflow-hidden my-5">
+    <div class="overflow-hidden my-3">
         <div class="container">
             <div class="row">
                 <div class="">
                     <div class="">
-                        <div class="title-area row-flex gap-3 ">
+                        <div class="title-area row-flex gap-3 mb-3">
                             <img src="assets/img/forms.png" alt="" class="forms-image" >
                             <h2 class="sec-title my-1">Forms</h2>
                         </div>
@@ -380,7 +380,7 @@ breadCrum("Forms")
                         
                         <tbody>
                         <tr>
-                          <td>Application – cum – Declaration as to Physical Fitness</td>
+                          <td >Application – cum – Declaration as to Physical Fitness</td>
                           <td><a href="assets/Forms/Form1.pdf" target="_blank">Form 1 </a></td>
                        </tr>
                        <tr>

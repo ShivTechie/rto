@@ -67,13 +67,18 @@
                           <td>Original</td>
                         </tr>
                         <tr>
-                          <td>RTO Form</td>
-                          <td><a href="">Form 25</a></td>
-                        </tr>
-                        <tr>
                           <td>Chassis No. Trace (Affix Pencil Print)</td>
                           <td>5 Copies</td>
                         </tr>
+                        <tr>
+                          <td>Green Tax</td>
+                          <td>(Online Process will be done)</td>
+                        </tr>
+                        <tr>
+                          <td>RTO Form <a href="assets/Forms/Form25.pdf" target="_blank">(Form 25)</a></td>
+                          <td>(Online Process will be done  )</td>
+                        </tr>
+                        
                         <tr>
                           <td>Valid Vehicle Insurance</td>
                           <td>Photocopy</td>
@@ -85,8 +90,15 @@
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Vehicle Owner’s Photo</td>
-                          <td>1 Passport Size Photograph</td>
+                          <td>
+                            Vehicle Owner's
+                            <ul>
+                              <li>Aadhar Card</li>
+                              <li>PAN Card</li>
+                              <li>Mobile Number</li>
+                            </ul>
+                          </td>
+                          <td>Photocopy</td>
                         </tr>
                       </tbody>
                     </table>
@@ -105,9 +117,7 @@
                       <h6>Please Note</h6>
                       <ul class="content-ul">
                         <li>
-                          The Vehicle Should Be Produced Before the Registering
-                          Authority for Inspection.
-                        </li>
+                        The vehicle undergoing the passing procedure must be present, and it is acceptable for someone other than the owner to accompany it if the owner is unable to attend.                        </li>
                         <li>
                           If the Registration Certificate is not Renewed within
                           the due date, Then a Fine of Rs. 500 will be incurred.
@@ -144,26 +154,42 @@
           <div class="col-xxl-3 col-lg-4 full-height">
             <aside class="sidebar-area">
               <div class="widget widget_info">
-                <div class="driving-license-renewal">
+              <div class="driving-license-renewal mb-3">
                   <h3 class="widget_title text-center">
-                    Submit NOC of Driving Licence
+                  Renewal of Registration Certificate<br />
+                    (Two Wheeler)
                   </h3>
                   <p class="price-tag">
-                    <strong>Ask For Quote</strong>
+                    <del>₹2700</del> <strong>₹2300</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
                   <hr />
-                  <p>Estimated Time Frame: <strong>2-4 Weeks</strong></p>
+                  <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
                   <hr />
-                  <a href="contact.php" class="contact-button th-btn">
-                    <i class="phone-icon fas fa-phone-alt mr-5"></i>Contact Us
-                    On
-                    <br />
-                    +91 95958 56447
+                  <a href="service_booking.php">
+                  <button>GET THIS JOB DONE!</button>
                   </a>
-                  <!-- <button>GET THIS JOB DONE!</button> -->
-                </div>
+              </div>
+
+              <div class="driving-license-renewal">
+                  <h3 class="widget_title text-center">
+                  Renewal of Registration Certificate<br />
+                    (Four Wheeler)
+                  </h3>
+                  <p class="price-tag">
+                    <del>₹2700</del> <strong>₹2500</strong>
+                  </p>
+                  <hr />
+                  <p>Penalty charges may be added if applicable</p>
+                  <hr />
+                  <p>Estimated Time Frame: <strong>2-3 Weeks</strong></p>
+                  <hr />
+                  <a href="service_booking.php">
+                  <button>GET THIS JOB DONE!</button>
+                  </a>
+              </div>
+
                 <h3 class="widget_title">Other Services</h3>
                 <div class="overflow-hidden my-4">
         <div class="container">

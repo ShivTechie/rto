@@ -33,7 +33,7 @@ if(!isset($meta)){
       rel="icon"
       type="image/png"
       sizes="96x96"
-      href="assets/img/favicons/favicon-96x96.png"
+      href="assets/img/favicons/rto-logo.jpg"
     />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta name="theme-color" content="#ffffff" />
@@ -62,7 +62,7 @@ if(!isset($meta)){
       <div class="preloader-inner">
         <span class="loader"></span>
       </div>
-    </div>
+  </div>
     <div class="sidemenu-wrapper d-none d-lg-block">
       <div class="sidemenu-content">
         <button class="closeButton sideMenuCls">
@@ -428,16 +428,7 @@ if(!isset($meta)){
                                     >International Driving Permit</a
                                   >
                                 </li>
-                                <li>
-                                  <a href="issue-noc-of-driving-license.php"
-                                    >Issue NOC of Driving License</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="submit-noc-of-driving-license.php"
-                                    >Submit NOC of Driving License</a
-                                  >
-                                </li>
+                                
                               </ul>
                             </li>
                             <li class="menu-item-has-children">
@@ -479,13 +470,32 @@ if(!isset($meta)){
                                   >
                                 </li>
                                 <li>
-                                  <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                    <a href="submit-noc-of-vehicle.php">Submit NOC of Vehicle</a
                                   >
                                 </li>
                                 <li>
                                   <a href="vehicle-insurence.php"
                                     >Vehicle Insurence</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay_only_road_tax.php"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay_only_road_tax.php"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay_only_road_tax.php"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay_only_road_tax.php"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                               </ul>

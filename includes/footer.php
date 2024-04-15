@@ -70,8 +70,7 @@
                       <a href="index.php">
                         <div class><img src="assets/img/logo.png" alt="Edura"/></a></div>
                     <p class="about-text">
-                      Continually optimize backward manufactured products
-                      whereas communities negotiate life compelling alignments
+                    Get your RTO-related tasks done reliably and promptly without leaving your home, freeing up your valuable time for more important activities.
                     </p>
                     <div class="th-social">
                       <h6 class="title text-white">FOLLOW US ON:</h6>
@@ -148,13 +147,7 @@
                                     >Renewal of Registration Certificate</a
                                   >
                                 </li>
-                                <li>
-                                  <a
-                                    href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
-                                    Certificate</a
-                                  >
-                                </li>
+                                
                                 <li>
                                   <a href="hypothecation-cancellation.php"
                                     >Hypothecation Cancellation</a
@@ -190,7 +183,7 @@
         </div>
         <div class="container">
           <div class="copyright-wrap">
-            <div class="row justify-content-between align-items-center">
+            <div class="row justify-content-center align-items-center text-center">
               <div class=" col-md-6">
                 <p class="target">
                   Copyright © 2024
@@ -200,14 +193,13 @@
                   All Rights Reserved.
                 </p>
               </div>
-              <div class="col-md-6 text-end d-none d-md-block">
+              <!-- <div class="col-md-6 text-end d-none d-md-block">
                 <div class="footer-links">
-                  <ul>
+                  <ul >
                     <li><a href="about.php">Privacy Policy</a></li>
-                    <li><a href="about.php">Terms & Condition</a></li>
                   </ul>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -231,12 +223,16 @@
         ></path>
       </svg>
     </div>
-    <div class="footerBottom">
-      <a href="https://wa.me/9595856447" class="whatsapp" target="_blank"
-        ><i class="fab fa-whatsapp"></i
-      >
-      <span>Whats app</span>
+
+    <div class="whatsapp show my-1">
+    <a href="https://wa.me/9595856447" target="_blank">
+        <img src="assets/img/whatsapp.png" alt="">
     </a>
+    </div>
+
+    
+    <div class="footerBottom">
+    
       <a href="tel:+919595856447" class="phone" target="_blank"
         ><i data-lucide="phone"></i>
       <span>Call us</span>
@@ -247,6 +243,12 @@
         target="_blank"
         ><i data-lucide="map-pin"></i>
       <span>Visit Now</span>
+      </a>
+      <a
+        href="index.php"
+
+        ><i data-lucide="home"></i>
+      <span>Home</span>
       </a>
       <a href="book.php">
       <i data-lucide="calendar-check"></i>
