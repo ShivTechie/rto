@@ -250,7 +250,7 @@
         ><i data-lucide="home"></i>
       <span>Home</span>
       </a>
-      <a href="book.php">
+      <a href="#">
       <i data-lucide="calendar-check"></i>
       <span>Book Now</span>
       </a>

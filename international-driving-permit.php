@@ -132,7 +132,7 @@ An International Driving Permit (IDP) is a document that allows you to drive in 
                   <hr />
                   <p>Estimated Time Frame: <strong>1-3 Days</strong></p>
                   <hr />
-                  <a href="service_booking.php">
+                  <a href="#">
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
@@ -153,45 +153,36 @@ An International Driving Permit (IDP) is a document that allows you to drive in 
                                 <div id="collapse-1" class="accordion-collapse collapse " aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                    <li>
-                                  <a href="driving-license.php"
-                                    >Learner's License</a
+                                    <li >
+                                  <a href="#"
+                                    >Learner's License Issue</a
+
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license.php"
-                                    >Permanent License</a
+                                  <a href="#"
+                                    >Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-renewal.php"
+                                  <a href="#"
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-duplicate.php"
-                                    >Duplicate Driving License</a
+                                  <a href="#"
+                                    >Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="change-of-details-on-driving-license.php"
-                                    >Change of Details on Driving License</a
+                                  <a href="#"
+                                    >Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
                                     href="international-driving-permit.php"
-                                    >International Driving Permit</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="issue-noc-of-driving-license.php"
-                                    >Issue NOC of Driving License</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="submit-noc-of-driving-license.php"
-                                    >Submit NOC of Driving License</a
+                                    >International Driving Permit Issue</a
                                   >
                                 </li>
                   </ul>
@@ -207,47 +198,67 @@ An International Driving Permit (IDP) is a document that allows you to drive in 
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                    <li>
+                                  <a href="#"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="#"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="renewal-of-registration-certificate.php"
+                                    href="#"
                                     >Renewal of Registration Certificate</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
+                                    href="#"
+                                    >Address Change | Correction in Registration
                                     Certificate</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="hypothecation-cancellation.php"
+                                  <a href="#"
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                  <a href="#"
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                  <a href="#"
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                  <a href="#"
+                                    >Vehicle Insurance</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                               </ul>
@@ -257,7 +268,7 @@ An International Driving Permit (IDP) is a document that allows you to drive in 
 
                             <div class="accordion-card">
                                 <div class="accordion-header" >
-                                <a href="forms.php" class="contact-button th-btn">
+                                <a href="#" class="contact-button th-btn">
                     Other Forms
                   </a>
                                 </div>

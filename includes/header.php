@@ -473,22 +473,22 @@ if(!isset($meta)){
                                   >
                                 </li>
                                 <li>
-                                  <a href="pay-only-road-tax.php"
+                                  <a href="#"
                                     >Pay Only Road Tax</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="noc-cancellation.php"
+                                  <a href="#"
                                     >NOC Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="registration-of-new-vehicle.php"
+                                  <a href="#"
                                     >Registration of New Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="road-tax-refund.php"
+                                  <a href="#"
                                     >Road Tax Refund</a
                                   >
                                 </li>
