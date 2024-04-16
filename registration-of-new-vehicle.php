@@ -1,12 +1,12 @@
 
 <?php
   $meta = [
-    "title" => "Paying only Road Tax - RTO Service in Pune",
+    "title" => "Registration of New Vehicle - RTO Service in Pune",
     "description" => "Reliable, Timely and Overall RTO Related Work Right From Your Doorstep, So that You Can Spend Your Precious Time More Usefully.",
     "keywords" => "RTO, RTO Services, RTO Work, RTO Jobs, RTO Related Work, RTO Work Done, RTO Work Fast, RTO Work Timely, RTO Work Reliable, RTO Work Simple, RTO Work Hassle Free, RTO Work Overall, RTO Work",
   ];
   include 'includes/header.php';
-  breadCrum("Paying only Road Tax")
+  breadCrum("Registration of New Vehicle")
  ?>
     <section class="space-top space-extra2-bottom">
       <div class="container">
@@ -22,22 +22,17 @@
                     aria-labelledby="description-tab"
                   >
                     <div class="course-description">
-                      <h3>Paying only Road Tax</h3>
+                      <h3>Registration of New Vehicle</h3>
                       <p>
                         <strong>
-                        "Paying only Road Tax" allows vehicle owners to use their vehicles in a state other than where they are registered by paying the applicable road tax.
-                        </strong>
-                      </p>
+
+                        Registration of a New Vehicle is the legal process of documenting and licensing a recently purchased vehicle for road use.                      </strong></p>
                       <p>
                         <strong>
-                        It's commonly used for temporary or occasional use in another state, such as for tourists or temporary residents. The process and validity vary by state, but it typically involves obtaining a road tax permit for a specific duration.
-                        </strong>
-                      </p>
+                        Owners provide required documents, including proof of identity and purchase, and pay fees to the local motor vehicle authority.                    </strong>   </p>
                       <p>
                         <strong>
-                        This option facilitates legal vehicle usage across state borders without the need for re-registration, enhancing mobility and convenience for owners needing temporary access to different states.
-                        </strong>
-                      </p>
+                        The vehicle may need to undergo inspection to ensure compliance with safety and environmental standards before registration is completed.                   </strong>   </p>
                     </div>
                   </div>
                 </div>
@@ -59,11 +54,15 @@
                       </thead>
                       <tbody>
                         <tr>
-                          <td>Registration Certificate</td>
+                          <td>CRTEM(Temporary Certificate) </td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid Insurence</td>
+                          <td>Form 20,21 & 22</td>
+                          <td>We will Provide</td>
+                        </tr>
+                        <tr>
+                          <td>Valid Insurance</td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
@@ -71,9 +70,18 @@
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid Invoice </td>
+                          <td>Valid Invoice</td>
                           <td>Photocopy</td>
                         </tr>
+                        <tr>
+                          <td>HSRP Letter</td>
+                          <td>Photocopy</td>
+                        </tr>
+                        <tr>
+                          <td>Fast Tag</td>
+                          <td>Photocopy</td>
+                        </tr>
+                     
                         <tr>
                           <td>Vehicle Owner’s
                             <ul><li>Aadhar Card</li>
@@ -84,7 +92,7 @@
                         </tr>
                         <tr>
                           <td>
-                            New Address Proofs:
+                            Address Proofs:
                             <ul>
                               <li>
                                 Light Bill, PMC Tax Receipt, Index 2 ( Any One
@@ -96,6 +104,10 @@
                               </li>
                             </ul>
                           </td>
+                          <td>Photocopy</td>
+                        </tr>
+                        <tr>
+                          <td> If Finance on Vehicle, addition of Form 20</td>
                           <td>Photocopy</td>
                         </tr>
 
@@ -116,10 +128,14 @@
                       <h6>Please Note</h6>
                       <ul class="content-ul">
                         <li>
-                        Road Tax amount is not refundable.
+                        Pay Roads TAX in Maharashtra 7% To 20% Depending Type of fuel, invoice price, type of vehicle. 
+
 
                         </li>
-                        
+                        <li>
+                        All required  Original documents given to Vehicle Dealer. </li>
+                        <li>Registration RTO Mail id, HSRP Registration mandatory. 
+</li>
                         
                       </ul>
                     </div>
@@ -145,10 +161,9 @@
             <aside class="sidebar-area">
               <div class="widget widget_info">
                 <div class="driving-license-renewal mb-3  text-center">
-                  <h3 class="widget_title">Paying only Road Tax <br>
-                (Two Wheeler)</h3>
+                  <h3 class="widget_title">Registration of New Vehicle <br> (Two Wheeler) </h3>
                   <p class="price-tag">
-                    <del>₹4500</del> <strong>₹4000</strong>
+                    <del>₹8000</del> <strong>₹7500</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
@@ -159,11 +174,12 @@
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
-                <div class="driving-license-renewal text-center">
-                  <h3 class="widget_title">Paying only Road Tax <br>
-                (Four Wheeler)</h3>
+
+                <div class="driving-license-renewal  text-center">
+                  <h3 class="widget_title">Registration of New Vehicle <br> (Four Wheeler) </h3>
                   <p class="price-tag">
-                    <del>₹6500</del> <strong>₹6000</strong>
+                     <p class="h6">₹10,000 - ₹15,000</p>
+                     <p>(Depending on invoice price)</p>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
@@ -174,6 +190,7 @@
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
+                
                 <h3 class="widget_title">Other Services</h3>
                 <div class="overflow-hidden my-4">
         <div class="container">

@@ -1,12 +1,12 @@
 
 <?php
   $meta = [
-    "title" => "Paying only Road Tax - RTO Service in Pune",
+    "title" => "Noc Cancellation - RTO Service in Pune",
     "description" => "Reliable, Timely and Overall RTO Related Work Right From Your Doorstep, So that You Can Spend Your Precious Time More Usefully.",
     "keywords" => "RTO, RTO Services, RTO Work, RTO Jobs, RTO Related Work, RTO Work Done, RTO Work Fast, RTO Work Timely, RTO Work Reliable, RTO Work Simple, RTO Work Hassle Free, RTO Work Overall, RTO Work",
   ];
   include 'includes/header.php';
-  breadCrum("Paying only Road Tax")
+  breadCrum("Noc Cancellation")
  ?>
     <section class="space-top space-extra2-bottom">
       <div class="container">
@@ -22,21 +22,19 @@
                     aria-labelledby="description-tab"
                   >
                     <div class="course-description">
-                      <h3>Paying only Road Tax</h3>
+                      <h3>Noc Cancellation</h3>
                       <p>
                         <strong>
-                        "Paying only Road Tax" allows vehicle owners to use their vehicles in a state other than where they are registered by paying the applicable road tax.
-                        </strong>
+
+                        NOC cancellation refers to revoking a No Objection Certificate (NOC) previously issued by an authority. It's necessary when circumstances change or the NOC is no longer needed.                         </strong>
                       </p>
                       <p>
                         <strong>
-                        It's commonly used for temporary or occasional use in another state, such as for tourists or temporary residents. The process and validity vary by state, but it typically involves obtaining a road tax permit for a specific duration.
-                        </strong>
+                        The process involves submitting a formal request with relevant documentation to the issuing authority.                        </strong>
                       </p>
                       <p>
                         <strong>
-                        This option facilitates legal vehicle usage across state borders without the need for re-registration, enhancing mobility and convenience for owners needing temporary access to different states.
-                        </strong>
+                        Once approved, a notification confirms the cancellation. Failure to cancel an NOC when required can lead to legal issues or misunderstandings.                        </strong>
                       </p>
                     </div>
                   </div>
@@ -63,7 +61,11 @@
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid Insurence</td>
+                          <td>NOC & Form 28</td>
+                          <td>Original</td>
+                        </tr>
+                        <tr>
+                          <td>Valid Insurance</td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
@@ -71,7 +73,7 @@
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid Invoice </td>
+                          <td>Other RTO  non migration letter </td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
@@ -116,9 +118,12 @@
                       <h6>Please Note</h6>
                       <ul class="content-ul">
                         <li>
-                        Road Tax amount is not refundable.
+                        Vehicle owner must visit RTO once for signature before the registration authority.
+
 
                         </li>
+                        <li>
+Cancellation of the NOC due to document loss entails submitting a request to the issuing authority for approval, ensuring legal compliance.</li>
                         
                         
                       </ul>
@@ -144,24 +149,8 @@
           <div class="col-xxl-3 col-lg-4 full-height">
             <aside class="sidebar-area">
               <div class="widget widget_info">
-                <div class="driving-license-renewal mb-3  text-center">
-                  <h3 class="widget_title">Paying only Road Tax <br>
-                (Two Wheeler)</h3>
-                  <p class="price-tag">
-                    <del>₹4500</del> <strong>₹4000</strong>
-                  </p>
-                  <hr />
-                  <p>Penalty charges may be added if applicable</p>
-                  <hr />
-                  <p>Estimated Time Frame: <strong>1-3 Days</strong></p>
-                  <hr />
-                  <a href="service_booking.php">
-                  <button>GET THIS JOB DONE!</button>
-                  </a>
-                </div>
-                <div class="driving-license-renewal text-center">
-                  <h3 class="widget_title">Paying only Road Tax <br>
-                (Four Wheeler)</h3>
+                <div class="driving-license-renewal  text-center">
+                  <h3 class="widget_title">NOC Cancellation </h3>
                   <p class="price-tag">
                     <del>₹6500</del> <strong>₹6000</strong>
                   </p>
@@ -174,6 +163,7 @@
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
+                
                 <h3 class="widget_title">Other Services</h3>
                 <div class="overflow-hidden my-4">
         <div class="container">
