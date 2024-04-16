@@ -187,8 +187,7 @@ include('includes/header.php');
                                   <ul class=" sub-menu p-2 " style="width: 280px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
                                   <li >
                                   <a href="#"
-                                    >Learner's License Issue</a
-                                  >
+                                    >Learner's License Issue</a>
                                 </li>
                                 <li>
                                   <a href="#"
@@ -880,7 +879,7 @@ what customer say area
                                         <button class="th-btn">Connect us or chat on Whatsapp @ +91 9595856447 </button>
                                     </a>
                                   <strong class="d-block my-3">------ OR ------</strong>
-                                  <a href="booknow.php"> <button class="th-btn">Fill our inquiry form<i class="fas fa-long-arrow-right ms-2"></i></button></a>
+                                  <a href="#"> <button class="th-btn">Fill our inquiry form<i class="fas fa-long-arrow-right ms-2"></i></button></a>
                               </div>
                         </div>
                         <div class="process-arrow">
