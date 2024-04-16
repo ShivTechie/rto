@@ -58,9 +58,8 @@ if(!isset($meta)){
 
   <body>
   <div class="preloader">
-      <button class="th-btn style3 preloaderCls">Cancel Preloader</button>
       <div class="preloader-inner">
-        <span class="loader"></span>
+      <img src="assets/img/loader.gif" alt="">
       </div>
   </div>
     <div class="sidemenu-wrapper d-none d-lg-block">
@@ -261,9 +260,11 @@ if(!isset($meta)){
                                 </li>
                                 <li>
                                   <a
+
                                     href="#"
                                     >Address Change | Correction in Registration
-                                    Certificate</a
+
+                                    </a
                                   >
                                 </li>
                                 <li>
@@ -386,10 +387,12 @@ if(!isset($meta)){
                               <a href="driving-related-service.php"
                                 >Driving Related Services</a
                               >
+
                               <ul class="sub-menu p-2" style="width: 240px">
                               <li >
                                   <a href="#"
                                     >Learner's License Issue</a
+
                                   >
                                 </li>
                                 <li>
@@ -470,22 +473,22 @@ if(!isset($meta)){
                                   >
                                 </li>
                                 <li>
-                                  <a href="pay_only_road_tax.php"
+                                  <a href="pay-only-road-tax.php"
                                     >Pay Only Road Tax</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="pay_only_road_tax.php"
+                                  <a href="noc-cancellation.php"
                                     >NOC Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="pay_only_road_tax.php"
+                                  <a href="registration-of-new-vehicle.php"
                                     >Registration of New Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="pay_only_road_tax.php"
+                                  <a href="road-tax-refund.php"
                                     >Road Tax Refund</a
                                   >
                                 </li>

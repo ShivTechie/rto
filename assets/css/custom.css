@@ -156,14 +156,12 @@
 
 .sub-menu li a {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 
-.header-service li a {
-  display: flex;
-  /* justify-content: center; */
-  align-items: center;
+.mobile-service-icon {
+  rotate: 90deg;
 }
 
 .course-single-mid {

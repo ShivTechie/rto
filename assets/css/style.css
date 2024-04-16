@@ -1817,8 +1817,8 @@ textarea.is-invalid {
   width: 0;
   width: 100%;
   height: 100%;
-  -webkit-transition: all ease 0.8s;
-  transition: all ease 0.8s;
+  -webkit-transition: all ease 0.5s;
+  transition: all ease 0.5s;
   opacity: 0;
   visibility: hidden;
 }
@@ -1868,8 +1868,8 @@ textarea.is-invalid {
   left: -110%;
   opacity: 0;
   visibility: hidden;
-  -webkit-transition: all ease 1s;
-  transition: all ease 1s;
+  -webkit-transition: all ease 0.5s;
+  transition: all ease 0.5s;
   z-index: 1;
 }
 
@@ -8659,7 +8659,7 @@ ol.wp-block-rss {
   .footer-layout-default .footer-top .newsletter-wrap .newsletter-title {
     margin-bottom: 20px;
   }
-  .copyright-wrap p{
+  .copyright-wrap p {
     margin-bottom: 25px;
   }
 }
@@ -16733,8 +16733,6 @@ span.select2-selection.select2-selection--single:focus {
 .map-sec .map iframe {
   height: 100%;
   width: 100%;
-  -webkit-filter: grayscale(100);
-  filter: grayscale(100);
 }
 
 @media (max-width: 767px) {
