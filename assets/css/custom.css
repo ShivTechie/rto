@@ -366,7 +366,7 @@ h6 {
   font-family: var(--title-font);
   color: var(--title-color);
   text-transform: none;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1.4;
   margin: 0 0 10px 0;
 }
@@ -423,7 +423,7 @@ h6 {
  } */
 
 .course-single-bottom-please-note {
-  background-color: #ffa;
+  background-color: #ffffff;
   border-color: #ff5;
   padding: 10px;
   margin-bottom: 40px;

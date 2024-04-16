@@ -90,27 +90,27 @@
                   <div class="menu-all-pages-container">
                     <ul class="menu">
                     <li>
-                                  <a href="driving-license.php"
+                                  <a href="#"
                                     >Learner's License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license.php"
+                                  <a href="#"
                                     >Permanent License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-renewal.php"
+                                  <a href="#"
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-duplicate.php"
+                                  <a href="#"
                                     >Duplicate Driving License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="change-of-details-on-driving-license.php"
+                                  <a href="#"
                                     >Change of Details </a
                                   >
                                 </li>
@@ -132,29 +132,29 @@
                   <div class="menu-all-pages-container">
                     <ul class="menu">
                     <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
+                                  <a href="#"
                                     >Transfer of Vehicle Ownership</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
+                                  <a href="#"
                                     >Duplicate Registration Certificate</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="renewal-of-registration-certificate.php"
+                                    href="#"
                                     >Renewal of Registration Certificate</a
                                   >
                                 </li>
                                 
                                 <li>
-                                  <a href="hypothecation-cancellation.php"
+                                  <a href="#"
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="issue-noc-of-vehicle.php"
+                                  <a href="#"
                                     >Issue NOC of Vehicle</a
                                   >
                                 </li>
@@ -169,11 +169,11 @@
                   <h3 class="widget_title">Quick Links</h3>
                   <div class="menu-all-pages-container">
                     <ul class="menu">
-                      <li><a href="index.php">Home</a></li>
-                      <li><a href="driving-related-service.php">Services</a></li>
-                      <li><a href="about.php">About us</a></li>
-                      <li><a href="contact.php">Contact</a></li>
-                      <li><a href="booknow.php">Book now</a></li>
+                      <li><a href="#">Home</a></li>
+                      <li><a href="#">Services</a></li>
+                      <li><a href="#">About us</a></li>
+                      <li><a href="#">Contact</a></li>
+                      <li><a href="#">Book now</a></li>
                     </ul>
                   </div>
                 </div>

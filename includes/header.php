@@ -206,45 +206,35 @@ if(!isset($meta)){
                 <li class="menu-item-has-children pb-2">
                   <a href="driving-related-service.php">Driving Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
-                  <li>
-                                  <a href="driving-license.php"
-                                    >Learner's License</a
+                  <li >
+                                  <a href="#"
+                                    >Learner's License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license.php"
-                                    >Permanent License</a
+                                  <a href="#"
+                                    >Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-renewal.php"
+                                  <a href="#"
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-duplicate.php"
-                                    >Duplicate Driving License</a
+                                  <a href="#"
+                                    >Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="change-of-details-on-driving-license.php"
-                                    >Change of Details on Driving License</a
+                                  <a href="#"
+                                    >Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
                                     href="international-driving-permit.php"
-                                    >International Driving Permit</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="issue-noc-of-driving-license.php"
-                                    >Issue NOC of Driving License</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="submit-noc-of-driving-license.php"
-                                    >Submit NOC of Driving License</a
+                                    >International Driving Permit Issue</a
                                   >
                                 </li>
                   </ul>
@@ -253,46 +243,48 @@ if(!isset($meta)){
                   <a href="vehicle-service.php">Vehicle Services</a>
                   <ul class="sub-menu p-2" style="width: 240px">
                   <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                  <a href="#"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="#"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="renewal-of-registration-certificate.php"
+                                    href="#"
                                     >Renewal of Registration Certificate</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="change-of-address-in-registration-certificate.php" 
-                                    >Change of Address in Registration
-                                    Certificate</a
+
+                                    href="#"
+                                    >Address Change | Correction in Registration
+
+                                    </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="hypothecation-cancellation.php"
+                                  <a href="#"
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                  <a href="#"
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                  <a href="#"
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                  <a href="#"
+                                    >Vehicle Insurance</a
                                   >
                                 </li>
                   </ul>
@@ -304,7 +296,7 @@ if(!isset($meta)){
               <a href="contact.php">Contact</a>
             </li>
             <li class="sub-menu">
-              <a href="booknow.php">Book Now</a>
+              <a href="#">Book Now</a>
             </li>
           </ul>
         </div>
@@ -395,36 +387,38 @@ if(!isset($meta)){
                               <a href="driving-related-service.php"
                                 >Driving Related Services</a
                               >
-                              <ul class="sub-menu p-2 align-items-start" style="width: 240px">
-                                <li>
-                                  <a href="driving-license.php"
-                                  class="">Learner's License</a
+
+                              <ul class="sub-menu p-2" style="width: 240px">
+                              <li >
+                                  <a href="#"
+                                    >Learner's License Issue</a
+
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license.php"
-                                    >Permanent License</a
+                                  <a href="#"
+                                    >Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-renewal.php"
+                                  <a href="#"
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-duplicate.php"
-                                    >Duplicate Driving License</a
+                                  <a href="#"
+                                    >Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="change-of-details-on-driving-license.php"
-                                    >Change of Details on Driving License</a
+                                  <a href="#"
+                                    >Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
                                     href="international-driving-permit.php"
-                                    >International Driving Permit</a
+                                    >International Driving Permit Issue</a
                                   >
                                 </li>
                                 
@@ -435,46 +429,47 @@ if(!isset($meta)){
                                 >Vehicle Related Services</a
                               >
                               <ul class="sub-menu p-2" style="width: 240px">
-                                <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                              <li>
+                                  <a href="#"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="#"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="renewal-of-registration-certificate.php"
+                                    href="#"
                                     >Renewal of Registration Certificate</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
+                                    href="#"
+                                    >Address Change | Correction in Registration
                                     Certificate</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="hypothecation-cancellation.php"
+                                  <a href="#"
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                  <a href="#"
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
-                                    <a href="submit-noc-of-vehicle.php">Submit NOC of Vehicle</a
+                                  <a href="#"
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                  <a href="#"
+                                    >Vehicle Insurance</a
                                   >
                                 </li>
                                 <li>
@@ -516,7 +511,7 @@ if(!isset($meta)){
                         >
                           <a
                             
-                            href="booknow.php"
+                            href="#"
                            
                             >BOOK NOW</a
                           >
