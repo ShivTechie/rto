@@ -113,10 +113,30 @@ include('includes/header.php');
                                     >
                                   </li>
                                   <li>
-                                    <a href="vehicle-insurence.php" 
+                                    <a href="#" 
                                       ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Vehicle Insurence</a
                                     >
                                   </li>
+                                  <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Road Tax Refund</a
+                                  >
+                                </li>
                                     </ul>
                                   </div>
               
@@ -167,9 +187,7 @@ include('includes/header.php');
                                   <ul class=" sub-menu p-2 " style="width: 280px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
                                   <li >
                                   <a href="#"
-                                    >Learner's License Issue</a
-
-                                  >
+                                    >Learner's License Issue</a>
                                 </li>
                                 <li>
                                   <a href="#"
@@ -260,6 +278,26 @@ include('includes/header.php');
                                   <a href="#"
                                     >Vehicle Insurance</a
 
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                                   </ul>
