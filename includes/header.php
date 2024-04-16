@@ -390,7 +390,7 @@ if(!isset($meta)){
                           <a href="#">Services</a>
                           <ul
                             class="sub-menu p-2 pl-0"
-                            style="width: 250px"
+                            style="width: 240px"
                           >
                             <li class="menu-item-has-children pb-2">
                               <a href="driving-related-service.php"
@@ -399,7 +399,7 @@ if(!isset($meta)){
                               <ul class="sub-menu p-2" style="width: 240px">
                                 <li>
                                   <a href="driving-license.php"
-                                    >Learner's License</a
+                                  style="">Learner's License</a
                                   >
                                 </li>
                                 <li>
