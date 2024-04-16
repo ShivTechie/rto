@@ -11,7 +11,6 @@
       <div class="container">
         <div class="map-sec">
           <div class="map">
-            
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892.2101253269457!2d73.82151679839477!3d18.4646139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2952dd101962f%3A0x4bcb1bdf111a5d7!2sRTO%20Services.In%20Pune!5e0!3m2!1sen!2sus!4v1712745530223!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
@@ -141,7 +140,7 @@
                   <input type="hidden" name="slug" value="touchmediaads.com">
                   <div class="respHere"></div>
                   <div class="form-btn col-12 mt-10">
-                    <button class="th-btn" type="submit">
+                    <button class="th-btn">
                       Send Message<i class="fas fa-long-arrow-right ms-2"></i>
                     </button>
                   </div>

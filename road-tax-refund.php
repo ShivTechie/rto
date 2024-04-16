@@ -1,12 +1,14 @@
 
 <?php
   $meta = [
-    "title" => "Paying only Road Tax - RTO Service in Pune",
+    "title" => "Road Tax Refund
+    - RTO Service in Pune",
     "description" => "Reliable, Timely and Overall RTO Related Work Right From Your Doorstep, So that You Can Spend Your Precious Time More Usefully.",
     "keywords" => "RTO, RTO Services, RTO Work, RTO Jobs, RTO Related Work, RTO Work Done, RTO Work Fast, RTO Work Timely, RTO Work Reliable, RTO Work Simple, RTO Work Hassle Free, RTO Work Overall, RTO Work",
   ];
   include 'includes/header.php';
-  breadCrum("Paying only Road Tax")
+  breadCrum("Road Tax Refund
+  ")
  ?>
     <section class="space-top space-extra2-bottom">
       <div class="container">
@@ -22,22 +24,15 @@
                     aria-labelledby="description-tab"
                   >
                     <div class="course-description">
-                      <h3>Paying only Road Tax</h3>
+                      <h3>Road Tax Refund
+</h3>
                       <p>
                         <strong>
-                        "Paying only Road Tax" allows vehicle owners to use their vehicles in a state other than where they are registered by paying the applicable road tax.
-                        </strong>
-                      </p>
+
+                        Road tax refund allows vehicle owners to reclaim a portion of the road tax they paid when their vehicle is sold, scrapped, exported, or declared off the road.                    </strong></p>
                       <p>
                         <strong>
-                        It's commonly used for temporary or occasional use in another state, such as for tourists or temporary residents. The process and validity vary by state, but it typically involves obtaining a road tax permit for a specific duration.
-                        </strong>
-                      </p>
-                      <p>
-                        <strong>
-                        This option facilitates legal vehicle usage across state borders without the need for re-registration, enhancing mobility and convenience for owners needing temporary access to different states.
-                        </strong>
-                      </p>
+                        The process involves submitting an application with supporting documents to the relevant authority.                      </strong>   </p>
                     </div>
                   </div>
                 </div>
@@ -59,21 +54,22 @@
                       </thead>
                       <tbody>
                         <tr>
-                          <td>Registration Certificate</td>
+                          <td>Old RTO Registration Certificate & Road Tax Receipt</td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid Insurence</td>
+                          <td>New RTO Registration Certificate & Road Tax Receipt</td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid P.U.C</td>
+                          <td>Valid Invoice</td>
                           <td>Photocopy</td>
                         </tr>
                         <tr>
-                          <td>Valid Invoice </td>
+                          <td>RTO Issue NOC</td>
                           <td>Photocopy</td>
                         </tr>
+                        
                         <tr>
                           <td>Vehicle Owner’s
                             <ul><li>Aadhar Card</li>
@@ -82,21 +78,10 @@
                           </td>
                           <td>Photocopy</td>
                         </tr>
+                        
                         <tr>
-                          <td>
-                            New Address Proofs:
-                            <ul>
-                              <li>
-                                Light Bill, PMC Tax Receipt, Index 2 ( Any One
-                                of These)
-                              </li>
-                              <li>
-                                Voter’s ID, Aadhar Card, Passport, L.I.C. Policy
-                                ( Any One of These)
-                              </li>
-                            </ul>
-                          </td>
-                          <td>Photocopy</td>
+                          <td> D.T.Form</td>
+                          <td>We will provide</td>
                         </tr>
 
                       </tbody>
@@ -116,10 +101,13 @@
                       <h6>Please Note</h6>
                       <ul class="content-ul">
                         <li>
-                        Road Tax amount is not refundable.
-
-                        </li>
-                        
+                        Only refund road tax, provide vehicle's first owner name.                        </li>
+                        <li>
+                        Road TAX Refund only within Six Months.(Date mention in issue of NOC to RTO). 
+</li>
+                        <li>.Road Tax Refund Amt Calculate RTO Authority as per vehicle invoice price. 
+ 
+</li>
                         
                       </ul>
                     </div>
@@ -145,10 +133,10 @@
             <aside class="sidebar-area">
               <div class="widget widget_info">
                 <div class="driving-license-renewal mb-3  text-center">
-                  <h3 class="widget_title">Paying only Road Tax <br>
-                (Two Wheeler)</h3>
+                  <h3 class="widget_title">Road Tax Refund
+ <br> (Two Wheeler) </h3>
                   <p class="price-tag">
-                    <del>₹4500</del> <strong>₹4000</strong>
+                    <del>₹7000</del> <strong>₹6000</strong>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
@@ -159,11 +147,13 @@
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
-                <div class="driving-license-renewal text-center">
-                  <h3 class="widget_title">Paying only Road Tax <br>
-                (Four Wheeler)</h3>
+
+                <div class="driving-license-renewal  text-center">
+                  <h3 class="widget_title">Road Tax Refund
+ <br> (Four Wheeler) </h3>
                   <p class="price-tag">
-                    <del>₹6500</del> <strong>₹6000</strong>
+                     <p class="h6">₹7,000 - ₹15,000</p>
+                     <p>(Depends on Refund Amt)</p>
                   </p>
                   <hr />
                   <p>Penalty charges may be added if applicable</p>
@@ -174,6 +164,7 @@
                   <button>GET THIS JOB DONE!</button>
                   </a>
                 </div>
+                
                 <h3 class="widget_title">Other Services</h3>
                 <div class="overflow-hidden my-4">
         <div class="container">
