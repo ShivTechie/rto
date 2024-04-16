@@ -139,7 +139,58 @@ Although getting RTO work done is a time consuming and tiresome process But Top 
         </div>
       </div>
     </section>
+    <div class="container my-5 ">
+  <div
+    class="counter-area-2 bg-theme"
+  >
+    <div class="row justify-content-between">
+      <div class="col-sm-6 col-xl-4 counter-card-wrap">
+        <div class="counter-card">
+          <h2 class="counter-card_number">
+            <span class="counter-number">3521</span><span class="fw-normal"
+              >+</span
+            >
+          </h2>
+          <p class="counter-card_text">
+            <strong>Happy customers
+</strong>
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-xl-4 counter-card-wrap">
+        <div class="counter-card">
+          <h2 class="counter-card_number">
+            <span class="counter-number">3805</span><span class="fw-normal"
+              >+</span
+            >
+          </h2>
+          <p class="counter-card_text">
 
+            <strong>Documents submitted successfully  to RTO</strong>
+
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-xl-4 counter-card-wrap">
+        <div class="counter-card">
+          <h2 class="counter-card_number">
+
+            <span class="counter-number">15</span><span class="fw-normal"
+
+              >+</span
+            >
+          </h2>
+          <p class="counter-card_text">
+
+            <strong>Years of experience</strong>
+
+          </p>
+        </div>
+      </div>
+     
+    </div>
+  </div>
+</div>
     <!-- <div class="container">
       <div class="counter-area-2 bg-theme " >
         <div class="row justify-content-between">
