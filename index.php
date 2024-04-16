@@ -154,8 +154,8 @@ include('includes/header.php');
                               <div class="service-card-content-1">
                                 <h3 class="box-title">Driving related services</h3>
                                 <div class="service-card-text" >
-                                  <ul class="sub-menu p-2" style="width: 250px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
-                                  <li>
+                                  <ul class=" sub-menu p-2 " style="width: 250px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
+                                  <li >
                                   <a href="driving-license.php"
                                     >Learner's License</a
                                   >
@@ -538,7 +538,8 @@ include('includes/header.php');
                           <p>Our services available in Pune RTO & PCMC RTO</p>
                           
                           <p class="mt-2 -mb-2">Type of Service:</p>
-                          <div class="row-flex my-1">
+                          <div class="service-selection row-flex my-1">
+                            <div class="row-flex">
                             <input
                               type="radio"
                               id="driving-service"
@@ -546,19 +547,21 @@ include('includes/header.php');
                               value="driving"
                             
                             />
-                            <label for="driving-service" class="my-1 mx-2"
+                            <label for="driving-service" class="my-1 mx-2 h5"
                               >Driving Related Service</label
                             >
-                            <br />
+                            </div>
+                            <div class="row-flex">
                             <input
                               type="radio"
                               id="vehicle-service"
                               name="service-type"
                               value="vehicle"
                             />
-                            <label for="vehicle-service" class="my-1 mx-2"
+                            <label for="vehicle-service" class="my-1 mx-2 h5"
                               >Vehicle Related Service</label
                             >
+                            </div>
                           </div>
 
                           <p>Select Service:</p>
