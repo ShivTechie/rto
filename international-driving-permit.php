@@ -24,21 +24,9 @@
                     <div class="course-description">
                       <h3>International Driving Permit</h3>
                       <p>
-                        <strong>
-                          International Driving Permit will be issued to an
-                          applicant who holds a valid Indian Driving Licence and
-                          who is a resident of India.
-                        </strong>
-                      </p>
-                      <p>
-                        <strong>
-                          When a Valid Driving Licence holder wants to drive a
-                          vehicle abroad he/she needs to have an International
-                          Driving Permit (IDP) along with the Original Driving
-                          Licence.
-                        </strong>
-                      </p>
-                      <p>
+                      <b>
+An International Driving Permit (IDP) is a document that allows you to drive in foreign countries without the need for further tests or applications. Here's how you can obtain an IDP as an Indian citizen:
+</b>   <p>
                         <strong>
                           International Driving Permit is valid for one year.
                         </strong>
@@ -100,7 +88,7 @@
                       <h6>Please Note</h6>
                       <ul class="content-ul">
                         <li>
-                          Driving Licence Holder Will Have to Come to RTO for
+                          Applicant needs to be present at RTO for
                           Signature Before the RTO Authority.
                         </li>
                         
