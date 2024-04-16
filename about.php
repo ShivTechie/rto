@@ -140,7 +140,7 @@ Although getting RTO work done is a time consuming and tiresome process But Top 
       </div>
     </section>
 
-    <div class="container">
+    <!-- <div class="container">
       <div class="counter-area-2 bg-theme " >
         <div class="row justify-content-between">
           <div class="col-sm-6 col-xl-3 counter-card-wrap">
@@ -194,7 +194,7 @@ Although getting RTO work done is a time consuming and tiresome process But Top 
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 <?php
 include 'includes/footer.php';
 ?>
