@@ -113,10 +113,30 @@ include('includes/header.php');
                                     >
                                   </li>
                                   <li>
-                                    <a href="vehicle-insurence.php" 
+                                    <a href="#" 
                                       ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Vehicle Insurence</a
                                     >
                                   </li>
+                                  <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Road Tax Refund</a
+                                  >
+                                </li>
                                     </ul>
                                   </div>
               
@@ -165,48 +185,35 @@ include('includes/header.php');
                                 <div class="service-card-text" >
 
                                   <ul class=" sub-menu p-2 " style="width: 280px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
-                                  <li>
+                                  <li >
                                   <a href="#"
-                                    >Ownership Transfer of the Vehicle </a
+                                    >Learner's License Issue</a
                                   >
                                 </li>
                                 <li>
                                   <a href="#"
-                                    >Duplicate Registration Certificate Issue</a
+                                    >Permanent License Issue </a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Driving License Renewal</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Duplicate Driving License Issue</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="#"
-                                    >Renewal of Registration Certificate</a
-                                  >
-                                </li>
-                                <li>
-                                  <a
-                                    href="#"
-                                    >Address Change | Correction in Registration
-                                    Certificate</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="#"
-                                    >Hypothecation Cancellation</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="#"
-                                    > Vehicle NOC Issue </a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="#"
-                                    > Vehicle NOC Submit </a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="#"
-                                    >Vehicle Insurance</a
-
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit Issue</a
                                   >
                                 </li>
                                 
@@ -272,6 +279,26 @@ include('includes/header.php');
                                   <a href="#"
                                     >Vehicle Insurance</a
 
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="#"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                                   </ul>
