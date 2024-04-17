@@ -11186,7 +11186,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 
 .hero-1 .hero-img1 {
   position: relative;
-  z-index: 9;
+  z-index: 10;
   margin-right: -62px;
   margin-top: -50px;
   -webkit-filter: drop-shadow(
@@ -11198,6 +11198,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 
 .hero-1 .hero-img1 img {
   border-radius: 50%;
+  max-width: fit-content;
 }
 
 @media (max-width: 1500px) {
@@ -11234,7 +11235,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 }
 
 .hero-style1 .hero-text {
-  color: #b2b2b2;
+  color: #ffffff;
   margin-top: 20px;
   /* Medium devices */
 }

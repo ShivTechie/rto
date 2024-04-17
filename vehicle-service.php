@@ -23,14 +23,11 @@ breadCrum("Vehicle Related Services")
                     <div class="course-description">
                       <h3>Vehicle Related Services</h3>
                       <p>
-                        A Vehicle Registration Certificate is an Official
-                        Document Providing Proof of Registration of a Motor
-                        Vehicle.
+                        
+The Vehicle Registration Certificate is an official document that serves as proof of the registration of a motor vehicle. It includes essential information such as the Vehicle Registration Number, Owner's Name, and Engine Specifications.
                       </p>
                       <p>
-                        The information contained in the Registration
-                        Certificates is Vehicle Registration Number, Owner’s
-                        Name and Engine Specifications.
+                      This certificate is issued by the relevant authorities and is crucial for legal identification and ownership of the vehicle.
                       </p>
                     </div>
                   </div>
@@ -163,14 +160,14 @@ breadCrum("Vehicle Related Services")
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                    <li>
+                                  <a href="ownership-transfer-of-vehicle.php"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="duplicate-registration-certificate-issue.php"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
@@ -181,9 +178,11 @@ breadCrum("Vehicle Related Services")
                                 </li>
                                 <li>
                                   <a
+
                                     href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
-                                    Certificate</a
+                                    >Address Change | Correction in Registration
+
+                                    </a
                                   >
                                 </li>
                                 <li>
@@ -193,17 +192,37 @@ breadCrum("Vehicle Related Services")
                                 </li>
                                 <li>
                                   <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
                                   <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
                                   <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                    >Vehicle Insurance</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay-only-road-tax.php"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="noc-cancellation.php"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="registration-of-new-vehicle.php"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="road-tax-refund.php"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                               </ul>

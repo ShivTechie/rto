@@ -24,18 +24,12 @@
                       <h3>Submit NOC of Vehicle</h3>
                       <p>
                         <strong>
-                          Submit No Objection Certificate (N.O.C.) of a vehicle
-                          in new RTO.
+                        If a vehicle owner relocates or sells their vehicle outside the jurisdiction of the current Regional Transport Office (RTO), they must present the No Objection Certificate (N.O.C.) obtained from the current registering authority to the new RTO. 
                         </strong>
                       </p>
                       <p>
                         <strong>
-                          If the owner of the vehicle changes his/her residence
-                          or sells the vehicle outside of the RTO jurisdiction
-                          where the vehicle is currently registered. Then the
-                          owner shall file the application for issue of
-                          clearance certificate with the registering authority
-                          where the vehicle is registered.
+                        This facilitates the transfer of vehicle registration to the new location or owner. 
                         </strong>
                       </p>
                       <p>
