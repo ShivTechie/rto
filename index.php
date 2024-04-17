@@ -27,33 +27,33 @@ include('includes/header.php');
 
                                     <li >
                                   <a href="#"
-                                    >Learner's License Issue</a
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Learner's License Issue</a
                                   >
                                 </li>
                                 <li>
                                   <a href="#"
-                                    >Permanent License Issue </a
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
                                   <a href="#"
-                                    >Driving License Renewal</a
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    >Duplicate Driving License Issue</a
+                                  <a href="#" 
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    >Information Changes | Correction on Driving License</a
+                                  <a href="#" class="text-start"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="international-driving-permit.php"
-                                    >International Driving Permit Issue</a
+                                    href="international-driving-permit.php" class="text-start"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>International Driving Permit Issue</a
                                   >
                                 </li>
 
@@ -68,73 +68,72 @@ include('includes/header.php');
                                     <ul class="sub-menu p-2" style="">
                                     <li>
 
-                                    <a href="#"
-                                      >Transfer of Vehicle Ownership</a
+                                    <a href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Transfer of Vehicle Ownership</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#"
-                                      >Duplicate Registration Certificate</a
-
-                                    >
-                                  </li>
-                                  <li>
-                                    <a
-
-                                      href="#"
-                                      >Renewal of Registration Certificate</a
+                                    <a href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Duplicate Registration Certificate</a
 
                                     >
                                   </li>
                                   <li>
                                     <a
 
-                                      href="#"
-                                      >Change of Address in Registration
+                                      href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Renewal of Registration Certificate</a
+
+                                    >
+                                  </li>
+                                  <li>
+                                    <a
+
+                                      href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Change of Address in Registration
 
                                       Certificate</a
                                     >
                                   </li>
                                   <li>
 
-                                    <a href="#"
-                                      >Hypothecation Cancellation</a
+                                    <a href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Hypothecation Cancellation</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#"
-                                      >Issue NOC of Vehicle</a
+                                    <a href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Issue NOC of Vehicle</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#"
-                                      >Submit NOC of Vehicle</a
-
+                                    <a href="#" class="text-start"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Submit NOC of Vehicle</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#" 
+                                    <a href="#"  class="text-start"
                                       ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Vehicle Insurence</a
                                     >
                                   </li>
                                   <li>
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Pay Only Road Tax</a
+                                  <a href="#" class="text-start"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Pay Only Road Tax</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">NOC Cancellation</a
+                                  <a href="#" class="text-start"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>NOC Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Registration of New Vehicle</a
+                                  <a href="#" class="text-start"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Registration of New Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2">Road Tax Refund</a
+                                  <a href="#" class="text-start"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Road Tax Refund</a
                                   >
                                 </li>
                                     </ul>
@@ -186,32 +185,34 @@ include('includes/header.php');
 
                                   <ul class=" sub-menu p-2 " style="width: 280px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
                                   <li >
-                                  <a href="#"
-                                    >Learner's License Issue</a>
+                                  <a href="#" class="d-flex justify-content-center" 
+                                    >Learner's License Issue</a
+
+                                  >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="international-driving-permit.php"
+                                    href="international-driving-permit.php" class="d-flex justify-content-center" 
                                     >International Driving Permit Issue</a
                                   >
                                 </li>
@@ -229,12 +230,12 @@ include('includes/header.php');
                                   <ul class="sub-menu p-2" style="width: 280px">
                                   <li>
 
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Duplicate Registration Certificate Issue</a
 
                                   >
@@ -242,7 +243,7 @@ include('includes/header.php');
                                 <li>
                                   <a
 
-                                    href="#"
+                                    href="#" class="d-flex justify-content-center" 
                                     >Renewal of Registration Certificate</a
 
                                   >
@@ -250,7 +251,7 @@ include('includes/header.php');
                                 <li>
                                   <a
 
-                                    href="#"
+                                    href="#" class="d-flex justify-content-center" 
                                     >Address Change | Correction in Registration
 
                                     Certificate</a
@@ -258,45 +259,45 @@ include('includes/header.php');
                                 </li>
                                 <li>
 
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
 
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
 
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Vehicle Insurance</a
 
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Pay Only Road Tax</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >NOC Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Registration of New Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
+                                  <a href="#" class="d-flex justify-content-center" 
                                     >Road Tax Refund</a
                                   >
                                 </li>
@@ -856,12 +857,12 @@ Counter Area
 what customer say area 
 -->
 
-<section class="space overflow-hidden">
+<section class="overflow-hidden">
         </div>
         <div class="process-bg-shape2 jump shape-mockup" data-right="-1%" data-bottom="15%">
             <img src="assets/img/process/process-bg-shape-1-2.png" alt="img">
         </div>
-        <div class="container">
+        <div class="container my-4 ">
             <div class="title-area text-center">
                 <h2 class="sec-title">Our easy and convenient working process for the clients.</h2>
             </div>
