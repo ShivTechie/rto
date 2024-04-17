@@ -295,6 +295,9 @@
   /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
   border: px solid var(--border-color);
 }
+/* .herofront-image {
+  border: 5px;
+} */
 
 .course-single-bottom {
   position: relative;

@@ -5,7 +5,7 @@ include('includes/header.php');
 <!--==============================
 Hero Area
 ==============================-->
-<div class="th-hero-wrapper hero-1" id="hero">
+<div class="th-hero-wrapper hero-1 .d-sm-none .d-md-block" id="hero">
         <div class="hero-slider-1 th-carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
             <div class="th-hero-slide">
                 <div class="th-hero-bg" data-opacity="8" >
@@ -23,10 +23,10 @@ Hero Area
                             </div>
                         </div>
                         <div class="col-md-6 text-lg-end text-center">
-                            <div class="hero-img1">
-                                <img src="assets/img/bg_1.png" alt="hero" >
-                            </div>
-                        </div>
+                <div class="hero-img1">
+                  <img src="assets\img\hero-final.png" alt="hero" height="660px" class="herofront-image border border-5 rounded-circle" />
+                </div>
+              </div>
                     </div>
                 </div>
                 <div class="hero-shape shape1">
@@ -45,7 +45,7 @@ Hero Area
                 </div>
             </div>
         </div>
-    </div>
+</div>
     <!--======== / Hero Section ========-->
         
     <!--==============================
