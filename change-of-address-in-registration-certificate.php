@@ -24,29 +24,21 @@
                       <h3>Change of Address in Registration Certificate</h3>
                       <p>
                         <strong>
-                          When the owner of the vehicle changes his/her
-                          residence within the same RTO jurisdiction, then
-                          he/she shall apply for a change of address in RC to
-                          the same RTO.
+                        If the vehicle owner moves to a new address within the same area governed by the Regional Transport Office (RTO), they must request an update of their address on the vehicle's Registration Certificate (RC) from the same RTO.
                         </strong>
                       </p>
                       <p>
                         <strong>
-                          If the owner of the vehicle changes his/her residence
-                          or sells the vehicle outside of the RTO jurisdiction
-                          where the vehicle is currently registered. Then the
-                          owner shall apply for the issuance of clearance
-                          certificate with the registering authority where the
-                          vehicle is registered.
+                        If the vehicle owner moves or sells the vehicle outside the jurisdiction of the current Regional Transport Office (RTO) where the vehicle is registered, they must request a clearance certificate from the registering authority of that RTO.
                         </strong>
                       </p>
                       <p>
                         In the second case
                         <strong>
-                          <a href="vehicle_service_noc_issue.php"
+                          <a href="issue-noc-of-vehicle.php"
                             >Click Here,</a
                           ></strong
-                        >NOC must be issued from the Original RTO.
+                        >The No Objection Certificate (NOC) must be obtained from the original Regional Transport Office (RTO).
                       </p>
                     </div>
                   </div>
