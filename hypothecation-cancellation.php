@@ -24,11 +24,7 @@
                       <h3>Hypothecation Cancellation</h3>
                       <p>
                         <strong>
-                          If you purchased a vehicle on loan from the Bank or
-                          Financier, the same is endorsed in the Registration
-                          Certificate. After the loan on the vehicle is closed,
-                          you need to remove the Bank or Financier’s name from
-                          the Registration Certificate within 90 days.
+                        When you finance a vehicle purchase through a bank or financier, the loan agreement is noted on the Registration Certificate. Upon completing the loan repayment, you must remove the bank or financier's name from the Registration Certificate within 90 days.
                         </strong>
                       </p>
                     </div>
@@ -272,14 +268,14 @@
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                    <li>
+                                  <a href="ownership-transfer-of-vehicle.php"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="duplicate-registration-certificate-issue.php"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
@@ -290,9 +286,11 @@
                                 </li>
                                 <li>
                                   <a
+
                                     href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
-                                    Certificate</a
+                                    >Address Change | Correction in Registration
+
+                                    </a
                                   >
                                 </li>
                                 <li>
@@ -302,17 +300,37 @@
                                 </li>
                                 <li>
                                   <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
                                   <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
                                   <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                    >Vehicle Insurance</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay-only-road-tax.php"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="noc-cancellation.php"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="registration-of-new-vehicle.php"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="road-tax-refund.php"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                               </ul>

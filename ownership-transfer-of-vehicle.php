@@ -1,11 +1,11 @@
 <?php
   $meta = [
-    "title" => "Transfer of Vehicle Ownership - RTO Service in Pune",
+    "title" => "Ownership Transfer of the Vehicle - RTO Service in Pune",
     "description" => "Reliable, Timely and Overall RTO Related Work Right From Your Doorstep, So that You Can Spend Your Precious Time More Usefully.",
     "keywords" => "RTO, RTO Services, RTO Work, RTO Jobs, RTO Related Work, RTO Work Done, RTO Work Fast, RTO Work Timely, RTO Work Reliable, RTO Work Simple, RTO Work Hassle Free, RTO Work Overall, RTO Work",
   ];
   include 'includes/header.php';
-  breadCrum("Transfer of Vehicle Ownership")
+  breadCrum("Ownership Transfer of the Vehicle")
  ?>
     <section class="space-top space-extra2-bottom">
       <div class="container">
@@ -21,20 +21,16 @@
                     aria-labelledby="description-tab"
                   >
                     <div class="course-description">
-                      <h3>Transfer of Vehicle Ownership</h3>
+                      <h3>Ownership Transfer of the Vehicle</h3>
                       <p>
                         <strong>
-                          Once a vehicle is bought from its previous owner, its
-                          ownership has to be transferred in the name of the
-                          current owner within 14 days in the concerned RTO
-                          where the vehicle is registered.
+                          
+Upon purchasing a vehicle from its previous owner, it is mandatory to transfer ownership to the new owner within 14 days at the relevant Regional Transport Office (RTO) where the vehicle is registered.
                         </strong>
                       </p>
                       <p>
                         <strong>
-                          Transferring the ownership of vehicle is
-                          responsibility of both new and old owner of the
-                          vehicle.
+                        The responsibility for transferring ownership lies with both the previous and new owners of the vehicle.
                         </strong>
                       </p>
                     </div>
@@ -290,8 +286,8 @@
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
                                 <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                  <a href="ownership-transfer-of-vehicle.php"
+                                    >Ownership Transfer of the Vehicle</a
                                   >
                                 </li>
                                 <li>

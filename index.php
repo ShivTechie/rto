@@ -10,10 +10,60 @@ include('includes/header.php');
     data-md-slide-show="1"
   >
     <div class="th-hero-slide">
-    <div class="text-center">
+      <div class="th-hero-wrapper hero-1" id="hero">
+        <div class="hero-slider-1 th-carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
+            <div class="th-hero-slide"  >
+                <div class="th-hero-bg .d-none .d-lg-block .d-xl-none" data-opacity="8" >
+                  <img src="assets\img\bg-final.png" alt="">
+                </div>
+                <div class="th-hero-bg d-lg-none" data-opacity="8" >
+                  <img src="assets\img\hero-mobile.png" alt="">
+                </div>
+                <div class="container ">
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-md-6 ">
+                            <div class="hero-style1">
+                                <h1 class="hero-title text-white" data-ani="slideinleft" data-ani-delay="0.4s">Best RTO Service in Pune.</h1>
+                                <p class="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">Efficient RTO Services in Pune: Your Trusted Partner for Hassle-Free Vehicle Registrations, Licensing, and Documentation. Experience Swift, Reliable, and Expert Assistance for all your Vehicle-related Needs.</p>
+                                <div class="btn-group " data-ani="slideinleft" data-ani-delay="0.8s">
+                                    <a href="contact.php" class="th-btn style3">Get Started<i class="fas fa-arrow-right ms-2"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 text-lg-end text-center">
+                <div class="hero-img1">
+                  <img src="assets\img\hero-final.png" alt="hero" height="660px" class="herofront-image border border-5 rounded-circle" />
+                </div>
+              </div>
+                    </div>
+                </div>
+                <div class="hero-shape shape1 .d-md-none">
+                    <img src="assets/img/hero/shape_1_1.png" alt="shape">
+                </div>
+                <div class="hero-shape shape2 .d-md-none">
+                    <img src="assets/img/hero/shape_1_2.png" alt="shape">
+                </div>
+                <div class="hero-shape shape3 .d-md-none "></div>
+
+                <div class="hero-shape shape4 shape-mockup jump-reverse .d-md-none" data-right="3%" data-bottom="7%">
+                    <img src="assets/img/hero/shape_1_3.png" alt="shape">
+                </div>
+                <div class="hero-shape shape5 shape-mockup jump-reverse .d-md-none" data-left="0" data-bottom="0">
+                    <img src="assets/img/hero/shape_1_4.png" alt="shape">
+                </div>
+            </div>
+        </div>
+</div>
+    </div>
+  </div>
+
+          
+    <!--======== / Hero Section ========-->
+
+    <div class="text-center d-lg-none mt-3">
                 <h3 class="text-danger">Top RTO Services provide hassel free services at your doorstep</h3>
                 <h5 class="text-danger">Pune & PCMC Area</h5>
-              </div>
+      </div>
       <div class="container12">
           <h1>Best RTO Service in PUNE</h1>
           <div class="buttons1">
@@ -22,311 +72,252 @@ include('includes/header.php');
           </div>
           <div id="drivingServices" class="content1">
               <div class="entry1">
-                  <div class="service-card-text" >
-                                    <ul class="sub-menu p-2" style="">
+                    <div class="service-card-text" >
+                              <ul class="sub-menu p-2" style="">
 
                                     <li >
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Learner's License Issue</a
+                                  <a href="#" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon "></i>Learner's License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Permanent License Issue </a
+                                  <a href="#" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Driving License Renewal</a
+                                  <a href="#" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" 
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Duplicate Driving License Issue</a
+                                  <a href="#" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="text-start"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Information Changes | Correction on Driving License</a
+                                  <a href="#" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="international-driving-permit.php" class="text-start"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>International Driving Permit Issue</a
+                                    href="international-driving-permit.php" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon"></i>International Driving Permit Issue</a
                                   >
                                 </li>
 
-                                    </ul>
-                                  </div>
-              </div>
-              
+                              </ul>
+                    </div>
+              </div> 
           </div>
           <div id="vehicleServices" class="content1">
               <div class="entry1">
-              <div class="service-card-text">
-                                    <ul class="sub-menu p-2" style="">
+                <div class="service-card-text">
+                                <ul class="sub-menu p-2" style="">
                                     <li>
 
-                                    <a href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Transfer of Vehicle Ownership</a
+                                    <a href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Transfer of Vehicle Ownership</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Duplicate Registration Certificate</a
-
-                                    >
-                                  </li>
-                                  <li>
-                                    <a
-
-                                      href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Renewal of Registration Certificate</a
+                                    <a href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Duplicate Registration Certificate</a
 
                                     >
                                   </li>
                                   <li>
                                     <a
+                                      href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Renewal of Registration Certificate</a
 
-                                      href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Change of Address in Registration
+                                    >
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Change of Address in Registration
 
                                       Certificate</a
                                     >
                                   </li>
                                   <li>
 
-                                    <a href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Hypothecation Cancellation</a
+                                    <a href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Hypothecation Cancellation</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Issue NOC of Vehicle</a
+                                    <a href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Issue NOC of Vehicle</a
                                     >
                                   </li>
                                   <li>
-                                    <a href="#" class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Submit NOC of Vehicle</a
+                                    <a href="#" class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Submit NOC of Vehicle</a
+
                                     >
                                   </li>
                                   <li>
-                                    <a href="#"  class="text-start"
-                                      ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Vehicle Insurence</a
+                                    <a href="vehicle-insurence.php"  class="text-start gap-3"
+                                      ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Vehicle Insurence</a
                                     >
                                   </li>
                                   <li>
-                                  <a href="#" class="text-start"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Pay Only Road Tax</a
+                                  <a href="pay-only-road-tax.php" class="text-start gap-3"
+                                    > <i class="fa-solid fa-turn-up mobile-service-icon"></i>Pay Only Road Tax</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="text-start"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>NOC Cancellation</a
+                                  <a href="noc-cancellation.php" class="text-start gap-3"
+                                    > <i class="fa-solid fa-turn-up mobile-service-icon"></i>NOC Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="text-start"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Registration of New Vehicle</a
+                                  <a href="registration-of-new-vehicle.php" class="text-start gap-3"
+                                    ><i class="fa-solid fa-turn-up mobile-service-icon"></i>Registration of New Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="text-start"
-                                    ><i class="fa-solid fa-turn-up mobile-service-icon mx-2"></i>Road Tax Refund</a
+                                  <a href="road-tax-refund.php" class="text-start gap-3"
+                                    > <i class="fa-solid fa-turn-up mobile-service-icon"></i>Road Tax Refund</a
                                   >
                                 </li>
-                                    </ul>
-                                  </div>
+                                </ul>
+                </div>
               
+              </div>
           </div>
       </div>
-</div>
-      
+   <!-- rto services -->
 
-      <div class="th-hero-bg object-fit-fill">
-        <img src="assets\img\HomePageIcons\Untitled (600 x 600 px).png" alt="overlay"  />
-      </div>
-      <div class="container z-index-common text-center texttodisplay">
-        <h1
-          class="hero-meta text-white"
-          data-ani="slideinup"
-          data-ani-delay="0.2s"
-          
-        >
-        Hassle Free Doorstep RTO Services In Pune
-        </h1>
-</div>
-
-        <div class="row">
-          <!-- Large screen -->
-          <div class=" d-none d-lg-block">
-            <div class="hero-style8">
-              <div class="hero-meta" data-ani="slideinup" data-ani-delay="0.2s"></div>
-              <div class="single text-start">
-                <!-- Your large screen service cards here -->
-                <div class="hero-style8">
-                  <div
-                    class="hero-meta"
-                    data-ani="slideinup"
-                    data-ani-delay="0.2s"
-                  ></div>
-                  <div class="single text-start">
-                    <div
-                      class="hero-meta" 
-                      data-ani="slideinup"
-                      data-ani-delay="0.2s"
+   <div class="container my-4">
+    <div class="desktop-services">
+                    <h4 class="toggle-dropdown"
+                      >Driving Related Services
+                    </h4>
+                   
+                    <ul
+                      class="sub-menu p-2 submenu-hidden "
+                      
                     >
-                          <div class="card-vehicle col-md-6 col-lg-3 justify" >
-                            <div class="service-card style3 " >
-                              <div class="service-card-content-1">
-                                <h3 class="box-title">Driving Licence services</h3>
-                                <div class="service-card-text" >
-
-                                  <ul class=" sub-menu p-2 " style="width: 280px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center;">
-                                  <li >
-                                  <a href="#" class="d-flex justify-content-center" 
-                                    >Learner's License Issue</a
-
+                                <li>
+                                  <a href="driving-license.php"
+                                    >Learner's License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
-                                    >Permanent License Issue </a
+                                  <a href="driving-license.php"
+                                    >Permanent License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="driving-license-renewal.php"
                                     >Driving License Renewal</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
-                                    >Duplicate Driving License Issue</a
+                                  <a href="driving-license-duplicate.php"
+                                    >Duplicate Driving License</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
-                                    >Information Changes | Correction on Driving License</a
+                                  <a href="change-of-details-on-driving-license.php"
+                                    >Change of Details on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="international-driving-permit.php" class="d-flex justify-content-center" 
-                                    >International Driving Permit Issue</a
+                                    href="international-driving-permit.php"
+                                    >International Driving Permit</a
                                   >
                                 </li>
-                                
-                                  </ul>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="card-vehicle-2 col-md-6 col-lg-3" >
-                            <div class="service-card style3" >
-                              <div class="service-card-content-2">
-                                <h3 class="box-title" style="text-align: center;">Vehicle related services</h3>
-                                <div class="service-card-text">
-                                  <ul class="sub-menu p-2" style="width: 280px">
-                                  <li>
-
-                                  <a href="#" class="d-flex justify-content-center" 
+                    </ul>
+    </div>
+    <div class="desktop-services">
+                    <h4 class="toggle-dropdown"
+                      >Vehicle Related Services
+                    </h4>
+                    <ul class="sub-menu  submenu-hidden p-2">
+                              <li>
+                                  <a href="ownership-transfer-of-vehicle.php"
                                     >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="duplicate-registration-certificate-issue.php"
                                     >Duplicate Registration Certificate Issue</a
-
                                   >
                                 </li>
                                 <li>
                                   <a
-
-                                    href="#" class="d-flex justify-content-center" 
+                                    href="renewal-of-registration-certificate.php"
                                     >Renewal of Registration Certificate</a
-
                                   >
                                 </li>
                                 <li>
                                   <a
 
-                                    href="#" class="d-flex justify-content-center" 
+                                    href="change-of-address-in-registration-certificate.php"
                                     >Address Change | Correction in Registration
 
-                                    Certificate</a
+                                    </a
                                   >
                                 </li>
                                 <li>
-
-                                  <a href="#" class="d-flex justify-content-center" 
-
+                                  <a href="hypothecation-cancellation.php"
                                     >Hypothecation Cancellation</a
                                   >
                                 </li>
                                 <li>
-
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="issue-noc-of-vehicle.php"
                                     > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="submit-noc-of-vehicle.php"
                                     > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="#"
                                     >Vehicle Insurance</a
-
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="pay-only-road-tax.php"
                                     >Pay Only Road Tax</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="noc-cancellation.php"
                                     >NOC Cancellation</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="registration-of-new-vehicle.php"
                                     >Registration of New Vehicle</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="#" class="d-flex justify-content-center" 
+                                  <a href="road-tax-refund.php"
                                     >Road Tax Refund</a
                                   >
                                 </li>
-                                  </ul>
-                                </div>
-                              </div>
-                            </div>
-                          </div> 
-                    </div>
-                   
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+                              </ul>
 
-          <!-- Small screen -->
-          
-        </div>
-      </div>
     </div>
-  </div>
 
-          
-    <!--======== / Hero Section ========-->
+   </div>
+
+      <!-- rto services -->
+
+    
 
     <!-- book now -->
     <section class="mt-5">
-    <div class="container">
+    <div class="container ">
         <div class="row">
 
           <!-- Small screen -->
@@ -698,12 +689,12 @@ include('includes/header.php');
 Why Choose Us
 ==============================-->
     <section class="overflow-hidden  mt-4">
-      <div class="container">
+      <div class="container p-1">
         <div class="title-area text-center">
       
           <h2 class="sec-title">Why Choose Us?</h2>
           <section class="feature-sec mt-5">
-            <div class="container">
+            <div class="container p-1">
                 <div class="row gy-4 justify-content-center">
                     <div class="col-6 col-xl-3 col-md-6">
                         <div class="feature-list">
@@ -857,12 +848,12 @@ Counter Area
 what customer say area 
 -->
 
-<section class="overflow-hidden">
+<section class=" my-4 overflow-hidden">
         </div>
         <div class="process-bg-shape2 jump shape-mockup" data-right="-1%" data-bottom="15%">
             <img src="assets/img/process/process-bg-shape-1-2.png" alt="img">
         </div>
-        <div class="container my-4 ">
+        <div class="container ">
             <div class="title-area text-center">
                 <h2 class="sec-title">Our easy and convenient working process for the clients.</h2>
             </div>
@@ -875,7 +866,7 @@ what customer say area
                             </div>
                             <h2 class="box-title">Step 1</h2>
                             <div class="text-container">
-                                <div class="form-btn-1 col-12 inaline">
+                                <div class="form-btn-1 col-12 d-flex flex-column justify-center">
                                     <a href="tel:+91 9595856447" class="form-btn-1 col-12">
                                         <button class="th-btn">Connect us or chat on Whatsapp @ +91 9595856447 </button>
                                     </a>

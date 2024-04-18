@@ -22,27 +22,16 @@ breadCrum("Driving Licence Renewal")
                   >
                     <div class="course-description">
                       <h3>Driving Licence Renewal</h3>
-                      <p>
-                        The Driving Licence should be Renewed within 30 days
-                        before or after the end of validity of Licence. Driving
-                        Licence can be renewed after 30 days of the end validity
-                        of Licence by paying the penalty.
-                      </p>
-                      <p>
-                        If the Driving Licence is not Renewed within a year from
-                        the Date of Expiry of Licence, then the applicant should
-                        undergo all the formalities to obtain a fresh licence.
-                      </p>
-                      <p>
-                        At first Driving Licence is issued up to the age of 40
-                        years. At the age of 40 years, it Renews up to the age
-                        of 50 years. After the age of 50 years, it has to be
-                        Renewed for every 5 years.
-                      </p>
-                      <p>
-                        Whereas Transport Licence should be Renewed every 3
-                        years.
-                      </p>
+                      <p> <strong>
+                      You can renew your driving license in India up to one year before it expires and up to one year after, and there is a 30-day grace period after the expiration date for renewal. 
+                      </strong></p>
+                      <p><strong>
+                      You don't need to pay a late fine during this grace period, but you will need to retake the driving test if you apply after the grace period.
+                      </strong></p>
+                     
+                      <p><strong>
+                      You may also need to retake the test if you are 50 or older, or if you have a medical condition.
+                      </strong></p>
                     </div>
                   </div>
                 </div>
@@ -86,7 +75,7 @@ breadCrum("Driving Licence Renewal")
                     role="tabpanel"
                     aria-labelledby="description-tab"
                   >
-                    <div class="course-description"></div>
+                   
                     <div class="course-single-bottom-please-note">
                       <h6>Please Note</h6>
                       <p>
@@ -155,14 +144,14 @@ breadCrum("Driving Licence Renewal")
                                 <div id="collapse-1" class="accordion-collapse collapse " aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                    <li>
+                                    <li >
                                   <a href="driving-license.php"
-                                    >Learner's License</a
+                                    >Learner's License Issue</a
                                   >
                                 </li>
                                 <li>
                                   <a href="driving-license.php"
-                                    >Permanent License</a
+                                    >Permanent License Issue </a
                                   >
                                 </li>
                                 <li>
@@ -171,29 +160,19 @@ breadCrum("Driving Licence Renewal")
                                   >
                                 </li>
                                 <li>
-                                  <a href="driving-license-duplicate.php"
-                                    >Duplicate Driving License</a
+                                  <a href="duplicate-driving-license-issue.php"
+                                    >Duplicate Driving License Issue</a
                                   >
                                 </li>
                                 <li>
-                                  <a href="change-of-details-on-driving-license.php"
-                                    >Change of Details on Driving License</a
+                                  <a href="correction-on-driving-license.php"
+                                    >Information Changes | Correction on Driving License</a
                                   >
                                 </li>
                                 <li>
                                   <a
-                                    href="international-driving-permit.php"
-                                    >International Driving Permit</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="issue-noc-of-driving-license.php"
-                                    >Issue NOC of Driving License</a
-                                  >
-                                </li>
-                                <li>
-                                  <a href="submit-noc-of-driving-license.php"
-                                    >Submit NOC of Driving License</a
+                                    href="international-driving-permit-issue.php"
+                                    >International Driving Permit Issue</a
                                   >
                                 </li>
                   </ul>
@@ -209,14 +188,14 @@ breadCrum("Driving Licence Renewal")
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                    <li>
+                                  <a href="ownership-transfer-of-vehicle.php"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="duplicate-registration-certificate-issue.php"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
@@ -227,9 +206,11 @@ breadCrum("Driving Licence Renewal")
                                 </li>
                                 <li>
                                   <a
+
                                     href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
-                                    Certificate</a
+                                    >Address Change | Correction in Registration
+
+                                    </a
                                   >
                                 </li>
                                 <li>
@@ -239,17 +220,37 @@ breadCrum("Driving Licence Renewal")
                                 </li>
                                 <li>
                                   <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
                                   <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
                                   <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                    >Vehicle Insurance</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay-only-road-tax.php"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="noc-cancellation.php"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="registration-of-new-vehicle.php"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="road-tax-refund.php"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                               </ul>

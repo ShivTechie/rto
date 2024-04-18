@@ -192,10 +192,6 @@
   justify-content: center;
 }
 
-.card-vehicle {
-  margin-right: 200px;
-}
-
 @media only screen and (min-width: 800px) {
   .th-hero-bg img {
     height: 100%; /* Adjust the height as needed for laptops */
@@ -296,9 +292,12 @@
 .driver-license {
   /* background-color: var(--light-color); */
   border-radius: 10px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
   border: px solid var(--border-color);
 }
+/* .herofront-image {
+  border: 5px;
+} */
 
 .course-single-bottom {
   position: relative;
@@ -768,14 +767,6 @@ input[type="submit"]:hover {
     border-radius: 25px;
   }
 
-  .th-hero-bg img {
-    display: none;
-  }
-
-  .th-hero-bg {
-    display: none;
-  }
-
   .texttodisplay {
     display: none;
   }
@@ -1151,3 +1142,27 @@ input {
 /* .accordion-body td {
   width: max-content;
 } */
+
+.homepage-layout {
+  background-color: var(--border-color);
+  max-width: 1024px;
+}
+
+.desktop-services ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.desktop-services li {
+  float: left;
+}
+
+.desktop-services li a {
+  display: inline-block;
+
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}

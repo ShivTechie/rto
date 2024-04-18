@@ -22,14 +22,15 @@
                   >
                     <div class="course-description">
                       <h3>Duplicate Driving License</h3>
-                      <p>
-                        In case the Orignal Driving Licence is Stolen or Lost.
-                        Duplicate Driving Licence will be issued by RTO.
-                      </p>
-                      <p>
-                        In case of the bad condition of the Driving Licence. You
-                        may apply to replace Driving Licence.
-                      </p>
+                      <p> <strong>
+                      You can only get a duplicate driving licence if your original one is lost or destroyed, torn or completely written up, and the photograph attached to your licence requires replacement.
+                      </strong></p>
+                      <p><strong>
+                      Those who did not have an original driver's licence in the first place need to get it issued by the RTO or Regional Transport Authority (RTA).
+                      </strong></p>
+                      <p><strong>
+                      It generally takes three weeks to dispatch a DL after you apply for a lost driving licence, especially if all required documents are submitted properly. However, meanwhile, you can also use your payment receipt for your daily commute.
+                      </strong></p>
                     </div>
                   </div>
                 </div>
@@ -173,14 +174,14 @@
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                     <ul class="sub-menu p-2 faq-text" style="width: 240px">
-                                <li>
-                                  <a href="transfer-of-vehicle-ownership.php"
-                                    >Transfer of Vehicle Ownership</a
+                                    <li>
+                                  <a href="ownership-transfer-of-vehicle.php"
+                                    >Ownership Transfer of the Vehicle </a
                                   >
                                 </li>
                                 <li>
-                                  <a href="duplicate-registration-certificate.php"
-                                    >Duplicate Registration Certificate</a
+                                  <a href="duplicate-registration-certificate-issue.php"
+                                    >Duplicate Registration Certificate Issue</a
                                   >
                                 </li>
                                 <li>
@@ -191,9 +192,11 @@
                                 </li>
                                 <li>
                                   <a
+
                                     href="change-of-address-in-registration-certificate.php"
-                                    >Change of Address in Registration
-                                    Certificate</a
+                                    >Address Change | Correction in Registration
+
+                                    </a
                                   >
                                 </li>
                                 <li>
@@ -203,17 +206,37 @@
                                 </li>
                                 <li>
                                   <a href="issue-noc-of-vehicle.php"
-                                    >Issue NOC of Vehicle</a
+                                    > Vehicle NOC Issue </a
                                   >
                                 </li>
                                 <li>
                                   <a href="submit-noc-of-vehicle.php"
-                                    >Submit NOC of Vehicle</a
+                                    > Vehicle NOC Submit </a
                                   >
                                 </li>
                                 <li>
                                   <a href="vehicle-insurence.php"
-                                    >Vehicle Insurence</a
+                                    >Vehicle Insurance</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="pay-only-road-tax.php"
+                                    >Pay Only Road Tax</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="noc-cancellation.php"
+                                    >NOC Cancellation</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="registration-of-new-vehicle.php"
+                                    >Registration of New Vehicle</a
+                                  >
+                                </li>
+                                <li>
+                                  <a href="road-tax-refund.php"
+                                    >Road Tax Refund</a
                                   >
                                 </li>
                               </ul>

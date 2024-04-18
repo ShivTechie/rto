@@ -24,18 +24,18 @@
                       <h3>Renewal of Registration Certificate</h3>
                       <p>
                         <strong>
-                          Each Private Vehicle is registered for 15 years, at
-                          the time of new registration. After 15 years, it has
-                          to be re-registered every 5 years.
+                          
+For private vehicles, initial registration is valid for 15 years, after which re-registration is required every 5 years.
                         </strong>
                       </p>
                       <p>
                         <strong>
-                          Whereas in the case of Transport Vehicles the fitness
-                          certificate is issued for a new vehicle for the first
-                          2 years and subsequently renewed every 2 years. After
-                          the vehicle’s age of 8 years, fitness certificate is
-                          renewed every year.
+                        In contrast, transport vehicles receive a fitness certificate for the first 2 years upon new registration, followed by biennial renewals. 
+                        </strong>
+                      </p>
+                      <p>
+                        <strong>
+                        Once the vehicle reaches 8 years of age, the fitness certificate must be renewed annually thereafter.
                         </strong>
                       </p>
                       <p>
