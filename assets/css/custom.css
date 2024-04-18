@@ -767,14 +767,6 @@ input[type="submit"]:hover {
     border-radius: 25px;
   }
 
-  .th-hero-bg img {
-    display: none;
-  }
-
-  .th-hero-bg {
-    display: none;
-  }
-
   .texttodisplay {
     display: none;
   }
@@ -1154,4 +1146,23 @@ input {
 .homepage-layout {
   background-color: var(--border-color);
   max-width: 1024px;
+}
+
+.desktop-services ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.desktop-services li {
+  float: left;
+}
+
+.desktop-services li a {
+  display: inline-block;
+
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }

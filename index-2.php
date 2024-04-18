@@ -8,8 +8,8 @@ Hero Area
 <div class="th-hero-wrapper hero-1 .d-sm-none .d-md-block" id="hero">
         <div class="hero-slider-1 th-carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
             <div class="th-hero-slide">
-                <div class="th-hero-bg" data-opacity="8" >
-                  <img src="assets\img\bg-final.png" alt="">
+                <div class="th-hero-bg " data-opacity="8" >
+                  <img src="assets\img\bg-final.png" alt="" class="float-right">
                 </div>
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
