@@ -1157,12 +1157,28 @@ input {
 
 .desktop-services li {
   float: left;
+  border-bottom: 0px;
 }
 
 .desktop-services li a {
   display: inline-block;
-
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 20px;
   text-decoration: none;
+  background-color: #ccc;
+  margin: 4px;
+  border-radius: 10px;
+  min-width: 250px;
+}
+
+.desktop-services li a:hover {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: #363434;
+  margin: 4px;
+  border-radius: 10px;
+  min-width: 250px;
+  color: white;
 }
