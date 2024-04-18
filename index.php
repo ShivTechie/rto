@@ -192,7 +192,7 @@ include('includes/header.php');
       </div>
    <!-- rto services -->
 
-   <div class="container my-4">
+   <div class="container my-4 d-none d-md-block ">
     <div class="desktop-services">
                     <h4 class="toggle-dropdown"
                       >Driving Related Services
